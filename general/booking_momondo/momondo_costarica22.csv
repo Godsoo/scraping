@@ -1,0 +1,1154 @@
+chain,name,country,area,rooms,price,street
+,Villa Nautilus Tamarindo,Costa Rica,Tamarindo,,142USD,100 Metros Del Instituto Espanol Wayra Calle Este
+,Surf Bikini Retreat,Costa Rica,Nosara,,95USD,Del Mar Academy
+,Dreamsea Surf Camp Costa Rica,Costa Rica,Tamarindo,,66USD,Finca Los Jobos
+,Hotel Mauna Loa,Costa Rica,Tamarindo,,101USD,Calle principal Avellanas
+,Hotel Ambassador San Jose,Costa Rica,San Jose,,61USD,"26Th & 28Th St., Paseo Colon"
+,Hotel Cacts,Costa Rica,San Jose,,65USD,Calles 28-30 Ave 3 Bis o 300 Norte Pizza Hut Paseo Colon
+,Hotel High Dreams,Costa Rica,El Rosario de Naranjo,,200USD,Frente a Escuela Santa Margarita Rosario
+,Bosque Verde Lodge,Costa Rica,Monteverde,,77USD,3 Km De Santa Elena
+,Naxos Complex,Costa Rica,Playa Langosta,,205USD,Langosta Beach Main street Opp Cala Luna Hotel Langosta Beach
+,Vista Arenal,Costa Rica,La Fortuna,,70USD,"10 km del centro de la Fortuna en San Carlos, carretera a la catarata la Fortuna"
+,Inn on the Park Hotel,Costa Rica,Manuel Antonio,,93USD,"Manuel Antonio, Quepos "
+,Rainforest Adventure Lodge,Costa Rica,Guacimo,,152USD,"Route 32, KM 76 San Jose-Limon"
+,KC San Jose Colaye San Jose,Costa Rica,San Jose,,64USD,"100m w., 100m s. from La Contraloria"
+,Sky Penthouses at Oceano,Costa Rica,Jaco,,255USD,500 Metros Este De La Pops
+,Aroma de Campo,Costa Rica,Liberia,,72USD,Curubande
+,Hotel El Maranon,Costa Rica,Colon,,50USD,"Contiguo a la Iglesia de Barrio Trinidad, Ciudad Colon"
+,Hotel La Villa Ciudad Quesada,Costa Rica,Ciudad Quesada,,28USD,Entrada a Cedral 300 mts Norte
+,Villa Lapas,Costa Rica,Jaco,,99USD,"5 Km.Este Del Pte De Cocodrilos, Sob.R.Tarcoles"
+,Costa Rica Yoga Spa,Costa Rica,Nosara,,364USD,300m sur del Rio Nosara
+,Pachamama Tropical Garden Lodge,Costa Rica,Malpais,,96USD,Mal Pais 50 meters from Beach Playa Mar Azul
+,Hotel Tortuguero Beach,Costa Rica,Tortuguero,,16USD,Pueblo de Tortuguero Del Ice de Tortuguero 50 metros al Norte
+,Hotel Valle Verde Confort Spa,Costa Rica,Santa Maria,,48USD, 200 Meters East Of The Sports Court
+,Cabinas Corozalito,Costa Rica,Punta Islita,,56USD,"6km del Hotel Punta Islita, Frente al plaza de futbol de Corozalito"
+,Playa Negra Guesthouse,Costa Rica,Cahuita,,66USD,Playa Negra
+,Macaws Ocean Club,Costa Rica,Jaco,,248USD,500mts Sur Municipalidad
+,Portal De La Montana San Ignacio,Costa Rica,San Ignacio,,74USD,Camino a Parrita Sabinillas de Acosta
+,Ailanto Mountain Reserve,Costa Rica,Fortuna,,45USD,Calle Las Hornillas
+,La Tigra Rainforest Lodge,Costa Rica,San Ramon,,56USD,Contiguo a Escuela de San Jorge Los Criques de los Angeles
+,Hotel Villa Verde Monteverde,Costa Rica,Monteverde,,49USD,"800 yards before, the cloud forrest, Santa Elena"
+,Hotel D'LucAa,Costa Rica,Tarcoles,,79USD,300 N De Entrada Principal A Punta Leona Quebrada Ganado
+,Costa Rica Guesthouse San Jose,Costa Rica,San Jose,,29USD,Avenida 6 Calle 21-25
+,Lost Iguana Resort and Spa,Costa Rica,La Fortuna,,157USD,1.5 km northwest from Arenal Dam
+,Zephyr Palace,Costa Rica,Playa Herradura,,350USD,3KM from Punta Leona Resort
+,Hotel Emanuel,Costa Rica,Aguabeuna,,18USD,50 Mts Norte De La Entrada Del Colegio Bilingue
+,Apartotel Girasol,Costa Rica,Jaco,,138USD,Calle Los Almendros
+,Arenal Palace,Costa Rica,La Fortuna,,76USD, De La Iglesia Catolica De Fortuna 9 Km Al Oeste
+,La Fortuna Hostel Resort,Costa Rica,La Fortuna,,16USD,"800 mts South from La Fortuna, bus station"
+,Hotel Iguana Verde,Costa Rica,San Mateo,,63USD,200 M Oeste Del Parque De Orotina
+,Hotel Finca Valverde,Costa Rica,Siquirres,,144USD,250 Mts.Sureste Del Bco.Nacional
+,Los Suenos Rentals,Costa Rica,Playa Herradura,,260USD,50 MTS before Los Suenos Resort main entrance
+,Los Altos de Eros,Costa Rica,Tamarindo,,191USD,"2 km sur del hotel el Sabanero Eco Lodge, Canafistula, Santa Cruz, Gte"
+,Club del Sol,Costa Rica,Jaco,,296USD,De La Bomba Arroyo Doblar A Ply 50 Mtrs
+,Condominios REHL,Costa Rica,Jaco,,318USD,Contiguo a Bar & Restaurante Claritas Edificio BahAa Encantada
+,Cabinas Casa Miriam Drake Bay,Costa Rica,Drake Bay,,49USD,Main Street
+,Costa Del Sol Tarcoles,Costa Rica,Tarcoles,,103USD,Mata De LimA3n 100m N de la entrada Playa Manta
+,Hotel Ritmo Tropical,Costa Rica,Malpais,,61USD,100 metros sur del cruce entre Mal Pais y Santa teresa
+,Hotel Aeromundo,Costa Rica,Grecia,,49USD,75 Mts Este De Iglesia De Las Mercedez Grecia Centro
+,Hotel Luna de Mata de Limon,Costa Rica,El Roble,,66USD,300 Mts Este De La Escuela De Mata De Limon
+,GetAways at Pueblo Real,Costa Rica,Quepos,,142USD,Pueblo Real Frente Isla Damas
+,CabaA+-as Monteverde Villa Lodge,Costa Rica,Monteverde,,78USD,Santa Elena
+,La Selva Biological Station,Costa Rica,La Virgen,,53USD,De Rancho Robertos 28 km carretera
+,Villas Del Caribe,Costa Rica,Puerto Viejo de Talamanca,,77USD,5 Km Sur Del Centro De Puerto Viejo De Talamanca Carretera A Manzanillo
+,Santa Juana Lodge,Costa Rica,Quepos,,217USD,Santa Juana de Terrazu
+,Hotel Las Colinas La Fortuna,Costa Rica,La Fortuna,,54USD,La Fortuna Centro - Arenal
+,Poas Volcano Lodge La Fortuna,Costa Rica,La Fortuna,,92USD,A 45 Minutos Del Apto Internaconal Juan Santamari - Arenal
+,Hotel Royal Corin Cano Negro,Costa Rica,Nuevo Arenal,,287USD,4.2 km West of Catholic Church
+,The Palms by Lost Beach Vacations,Costa Rica,Jaco,,276USD,Calle Pochote Grande
+,Lucky's Hotel y Casino,Costa Rica,San Isidro de El General,,42USD,50 Oeste De Musoc Pz
+,Golden Palms Papagayo,Costa Rica,Puerto Carrillo,,172USD,Playa Chorotega
+,Kalia Luxury Homes Rentals,Costa Rica,Playa Azul,,"2,018USD",150 Meters South From Azul Ocean Club
+,Reserva Conchal Beach Resort Go,Costa Rica,Cabo Velas,,218USD,Cabo Velas - Playa Conchal
+,Las Catalinas Costa Rica,Costa Rica,Potrero,,159USD,Playa Danta
+,Hotel Punta Islita Autograph Collection,Costa Rica,Samara,,360USD,400 metros Oeste de la Plaza de deportes de Islita
+,Villa Blanca Cloud Forest Hotel & Nature Reserve,Costa Rica,San Ramon,,197USD,9 Km Este De Los Angeles Norte De San Ramon
+,Lomas del Volcan,Costa Rica,La Fortuna,,82USD,4 km northwest from La Fortuna
+,Bahia Azul by Lost Beach Vacations,Costa Rica,Jaco,,212USD,Calle Ancha Plaza Boulevard
+,Kalapiti,Costa Rica,Montezuma,,249USD,300 Metros Al Oeste De La Plaza De Faotbol Las Delicias
+,Hotel Makanas,Costa Rica,Santa Teresa,,135USD,A 100 Metros Norte Pasado Flor Blanca
+,Olas Verdes Hotel,Costa Rica,Nosara,,173USD,200 Meters South Of Harbor Reef Hotel
+,Rancho Humo Estancia,Costa Rica,Bagaces,,337USD,Rio Tempisque Nicoya
+,Cahuita Inn,Costa Rica,Cahuita,,90USD,50 Metros Este De La Policia
+,CaA+-o Negro Natural Lodge,Costa Rica,Cano Negro,,139USD,CaA±o Negro Los Chiles
+,Arenal Country Inn Canas,Costa Rica,Fortuna,,77USD,1 Km Sur De La Iglesia Catolica De La Fortuna
+,Club del Mar,Costa Rica,Jaco,,141USD,De La Estacion Gasolinera El Arroyo 300 Mtr
+,Blue Osa Yoga Retreat & Spa,Costa Rica,Puerto Jimenez,,337USD,Playa Tamales Highway 245
+,Las Palmas Cocos Sunset Condominiun,Costa Rica,Playas del Coco,,371USD,Las Palmas
+,Villas Tekoa,Costa Rica,Dominical,,289USD,Playa Dominicalito 400 meters after the sign Km 147 Dominical Costa Rica
+,Buena Vista Lodge Liberia,Costa Rica,Canas Dulces,,42USD,Canas Dulces
+,The Retreat at Altos del Monte,Costa Rica,Atenas,,305USD,Barrio Jesus de Atenas
+,RAo Macho Lodge,Costa Rica,Orosi,,24USD,1 5 Kila3metros De La Planta Del Ice Rao Macho
+,Bosque del Cabo Rain Forest Lodge,Costa Rica,Carate,,320USD,Cabo Matapalo
+,Hotel Martino Spa and Resort,Costa Rica,Alajuela,,93USD,150 Mts E From Zoo Ave
+,Shana Hotel & Spa,Costa Rica,Manuel Antonio,,119USD,Carretera A Punta Quepos
+,Hospedaje don Chon Ballena,Costa Rica,Uvita,,112USD,"Del Banco Nacional, 800 m al sur"
+,Hotel The Place,Costa Rica,Malpais,,102USD,400 M south of hotel Frank's Place
+,Villas Bungalows Ballena,Costa Rica,Uvita,,124USD,300 M North From Marino Ballena National Park
+,Hotel Cielo Azul Resort,Costa Rica,Tilaran,,49USD,400 North - West from the main road
+,El Sabanero Beach Hotel,Costa Rica,Playa Flamingo,,76USD,Flamingo Beach 
+,Tango Mar Beach,Costa Rica,Playa Cabuya,,180USD,"Quizales Beach, Road To Cobano Penninsula 1-1260 Escazu"
+,Los Jardines Hotel Monteverde,Costa Rica,Siquirres,,90USD,350 Metros Suroeste De La Escuela De Cero Plano Cerro Plano Monteverde Costa Rica
+,Montana de Fuego Hotel & Spa,Costa Rica,Alajuela,,106USD,8 km from La Fortuna de San Carlos towards to Arenal Lake
+,Arenal Bromelias,Costa Rica,La Fortuna,,62USD,"Centro De La Fortuna, Costado Oeste Del Parque"
+,La Hornillas Hotel,Costa Rica,Fortuna,,109USD,Ubicado en Conservacion Miravalles
+,Tilajari Resort,Costa Rica,Muelle de San Carlos,,85USD,"Muelle San Carlos , Alajuela, Costa Rica,"
+,Barracuda Apartments,Costa Rica,Samara,,74USD,"Route 150, first right on entrance to Samara"
+,La Fortuna,Costa Rica,La Fortuna,,51USD,100 Metros Sur De La Gasolinera La Fortuna
+,Lost Iguana Resort & Spa,Costa Rica,La Fortuna,,153USD,Arenal
+,Cabinas Sunset Tortuguero,Costa Rica,Tortuguero,,33USD,Pueblo de Tortuguero
+,Savegre Hotel Natural Reserve & Spa San Gerardo de Dota,Costa Rica,San Gerardo de Dota,,69USD,Calle San Gerardo
+,Punta Leona Hotel,Costa Rica,Tarcoles,,113USD,Quebrada Ganado
+,El Rodeo Estancia Boutique Hotel and Steakhouse,Costa Rica,Belen,,63USD,West Side Panasonic Company
+,Ronny's Hotel,Costa Rica,Santa Teresa,,33USD,700m de Playa Santa Teresa Mal Pais Peninsula de Nicoya
+,Playa Cativo,Costa Rica,Golfito,,"1,105USD","Golfo Dulce, "
+,Green Village B&B Spa,Costa Rica,Naranjos Agrios,,90USD,6 km de Tilaran camino a Arenal
+,Hotel Amapola,Costa Rica,Jaco,,120USD,Playa
+,El Remanso Lodge,Costa Rica,Carate,,299USD,near Corcovado National Park
+,Palma Real Hotel and Casino San Jose,Costa Rica,San Jose,,64USD,Northern Sabana
+,La Carreta - Hostel,Costa Rica,San Ramon,,15USD,12 Km Al Sur Del Centro De La Fortuna Sobre Ruta 702
+,Backpackers Tierra del Fuego,Costa Rica,La Fortuna,,18USD,2 Kms West Of Downtown Route 142 Next To Magic Mountain Hotel
+,Hotel Vista Verde,Costa Rica,La Fortuna,,84USD,La Palma
+,Condominios REHL El Coco,Costa Rica,Playas del Coco,,187USD,Del Bar Lizard 200mts este y 100mts sur Edificio de 3 pisos color verde
+,Hostel Villa Verde,Costa Rica,Monteverde,,50USD,1 km antes de la entrada a la Reserva Bosque Nuboso de Monteverde
+,Hotel 1492 San Jose,Costa Rica,San Jose,,44USD,Pan American Highway
+,Vista Las Islas Hotel Spa and Eco Reserva,Costa Rica,Paquera,,138USD,Playa Organos
+,Hotel Aurora Montezuma,Costa Rica,Montezuma,,28USD,"Hotel Aurora, 100 metros norte de la Playa Montezuma"
+,Villa San Ignacio Alajuela,Costa Rica,Alajuela,,88USD,"Cruce Poas & Grecia , Tambor"
+,Hotel Santamaria Alajuela,Costa Rica,Alajuela,,44USD,"Calle 2, Avenida 4"
+,Cabinas Arcoiris,Costa Rica,Liberia,,36USD,De Los Semaforos Principales De Liberia Donde Esta Macdonalds 400 Metros Norte Y 400 Metros Oeste Frente Al Liceo Laboratorio Dentro Del Residencial Del Rio
+,Oasis Mal Pais,Costa Rica,Malpais,,118USD,300 meters south Of playa Carmen interseccion
+,Swiss Hotel Miramontes,Costa Rica,Monteverde,,45USD,1 km Noroeste de la Escuela Publica de Santa Elena
+,1915 Hotel,Costa Rica,Alajuela,,73USD,75 norte del Parque Central. 275 meters north from the central plaza
+,Hotel La Flor de Itabo Resort & Casino,Costa Rica,Playas del Coco,,43USD,Playas del Coco
+,Hotel Arenal Rabfer,Costa Rica,La Fortuna,,89USD,150 Metros Norte Del Banco Nacional
+,Hotel Cibeles Resort,Costa Rica,San Rafael,,51USD,De la Universidad Nacional 1 km sobre carretera a San Rafael
+,Hotel Interamericano Turrialba,Costa Rica,Turrialba,,16USD,Avenida 1 Turrialba contiguo al La Clinica de Especialidades Medicas Francis
+,Nina's Place B&B,Costa Rica,Monteverde,,8USD,Entrada principal a Santa Elena
+,Hotel Praiamar Puntarenas,Costa Rica,Puntarenas,,80USD,Costado este de plaza de futbol del Cocal
+,Drake Bay Paradise Lodge,Costa Rica,Drake Bay,,67USD,300 South Of Jade Mar Restaurant
+,Hotel El Teca,Costa Rica,Palmar Norte,,27USD,25mts Oeste De La Cruz Roja
+,Bamboo Aparthotel,Costa Rica,Alajuela,,69USD,Ave 1 Calles 9-11
+,Ciudad Perdida Ecolodge,Costa Rica,Cahuita,,106USD,Carretera A Puerto Viejo 500 M Sur Y 300 M Este
+,Maris Bed and Breakfast,Costa Rica,Monteverde,,20USD,100 M Este De La Oficina De Correos Santa Elena
+,In the Wind Hostel & Guesthouse,Costa Rica,San Pedro,,10USD,100 Oeste De Escuela Franklin Roosevelt
+,Hotel Playa Samara,Costa Rica,Samara,,34USD,West side of the soccer field
+,Dreams Lodge Monteverde,Costa Rica,Monteverde,,35USD,400m South West Cerro Plano
+,In the Shade,Costa Rica,Tamarindo,,44USD,Calle Corona Between Ret La Baula and Dragonfly
+,Monteverde Ecolodge,Costa Rica,Monteverde,,50USD,Monteverde
+,Hotel Sura B&B,Costa Rica,San Jose,,34USD,500 Norte Del Hospital De Nia+-Os Calle 20 Avenida 7
+,Cariari Garden Boutique Hotel,Costa Rica,Belen,,53USD,Residencial Bosques DoA+-a Rosa Lote 37J La AsunciA3n
+,Santa Fe Lodge - Hostel,Costa Rica,Monteverde,,43USD,1 Kilometro Del Centro De Santa Elena
+,La Posada Jungle Bungalows,Costa Rica,Manuel Antonio,,105USD,Contiguo a la entrada del parque nacional
+,Hotel Don Taco Monteverde,Costa Rica,Monteverde,,54USD,Santa Elena
+,Hostel La Suerte,Costa Rica,Monteverde,,15USD,Costado oeste de ferreterAa Agrososi
+,Hotel Los Angeles San Jose,Costa Rica,San Jose,,56USD,Calle 8 Y 10 Avenida 16 827
+,Hotel Playa Bejuco Esterillos,Costa Rica,Bejuco,,71USD,143 East Esterillos Beach
+,The Springs Resort & Spa,Costa Rica,Monterrey,,292USD,9 Km Oeste Y 3.5 Norte Del Centro De La Fortuna
+,Hotel Central Loft,Costa Rica,La Fortuna,,74USD,La Fortuna De
+,Cabinas Marielos,Costa Rica,Tamarindo,,33USD,Tamarindo
+,Hotel Lookout,Costa Rica,Ojochal,,76USD,300 m east of Ferreteria Ventanas
+,Mi Casa Tica Hostel,Costa Rica,Monteverde,,9USD,Santa Elena
+,Hotel Primavera Liberia,Costa Rica,Liberia,,24USD,Costado sur del parque central contiguo a AlmacA c n El Verdugo
+,Hotel Corcovado Beach Lodge,Costa Rica,Puerto Jimenez,,11USD,100 M Se Del Restaurante Los Delfines
+,Celeste Mountain Lodge Nuevo Arenal,Costa Rica,Nuevo Arenal,,200USD,"Volcan Tenorio, Bijagua de Upala , RIO CELESTE, COSTA RICA,"
+,Hostel Samara,Costa Rica,Samara,,18USD,Playa Samara
+,La Gamba Rainforest Lodge,Costa Rica,Golfito,,95USD,Parque Nacional Piedras Blancas La Gamba de Golfito
+,Hacienda Guachipelin Hotel & Hot Springs,Costa Rica,Aguas Claras,,68USD,Liberia; Guanacaste Parque Nacional Volcan Rincon De La Vieja
+,Pozo Azul Tent Suites,Costa Rica,La Virgen,,85USD,"La Irgen De Sarapiqui, 200M Sur Y 50M Este De La"
+,Ca Eon de la Vieja Lodge,Costa Rica,Liberia,,106USD,8 Km Del Aeropuerto Internacional De Liberia / Guanacaste
+,Villas Palmas del Mar,Costa Rica,Chacarita,,111USD,500m Oeste Del Hospital Monsea+-Or Sanabria
+,La Perla Negra,Costa Rica,Puerto Limon,,47USD,Limon; Puerto Viejo de Talamanca
+,Hotel Villa Caletas,Costa Rica,Playa Herradura,,200USD,"Central Pacific 5 miles before Jaco, Herradura, Costa Rica"
+,Martino Resort & Spa,Costa Rica,Alajuela,,97USD,"In front of ZooAve La Garita, Alajuela, P.O.BOX 2203-4050 Costa Rica
+ "
+,Rio Perlas Spa & Resort,Costa Rica,Orosi,,103USD,"A Orosi, 2km Y Medio Del Pte.Rio Negro Dcha , Orosi, Costa Rica,"
+,Barcelo Playa Langosta,Costa Rica,Playa Langosta,,270USD,Langosta Beach - P.O Box 258-1150
+,Villas Lirio,Costa Rica,Puntarenas,,114USD,"Contiguo a la Escuela de Manuel Antonio, Quepos"
+,Heliconia Island Lodge,Costa Rica,Horquetas,,78USD,Puerto Viejo De Sarapiqui -
+,Marriott,Costa Rica,Alajuela,,187USD,Rivera De Belen - san jose
+,Arenal Kioro Suites & Spa,Costa Rica,La Fortuna,,212USD,11 km North from the Catholic Church
+,Arenal Paraiso Resort & Spa,Costa Rica,Alajuela,,103USD,"La Fortuna, Arenal , Alajuela, Costa Rica,"
+,Ramada Plaza Herradura San Jose,Costa Rica,San Jose,,87USD,5 Km South From International Airport
+,Apartotel Tairona,Costa Rica,San Pedro,,70USD,75 Metros Oeste De Taco Bell Barrio Dent
+,Terraza Del Pacifico,Costa Rica,Playa Hermosa,,124USD,Playa Hermosa Po Box 168 Jaco Provincia Puntarenas
+,Orosi Lodge,Costa Rica,Orosi,,62USD,25 m east of the Thermal Pools Orosi
+,Hotel el Velero,Costa Rica,Playa Hermosa,,89USD,Playa Hermosa GTE
+,Sea Tower Hotel,Costa Rica,Puerto Viejo de Talamanca,,45USD,"Avenida 67, Calle 217. Puerto Viejo de Limon Centro."
+,Hotel M&M Playas del Coco,Costa Rica,Playas del Coco,,47USD,"150M Oeste de la Estacion de policia , Playa del Coco"
+,Hotel Amor de Mar,Costa Rica,Montezuma,,78USD,In front of the entrance to the Montezuma waterfall
+,La Ballena Roja Beach Bungalows,Costa Rica,Uvita,,32USD,Road to Playa Chaman-Playa Colonia and the South entrance to Marino Ballena National Park
+,Hotel Suizo Loco Lodge & Resort,Costa Rica,Cahuita,,89USD,Entrada Plaza Viquez
+,Hotel Cabinas Mar Y Cielo,Costa Rica,Montezuma,,34USD,Montezuma Downtown 60111 Montezuma Costa Rica
+,Lizard King Hotel & Resort,Costa Rica,Puerto Viejo de Talamanca,,66USD,"Avenida 71, 100 meters south from the Puerto Viejo center"
+,Playa Cielo,Costa Rica,Santa Teresa,,233USD,Santa Teresa
+,Merlin,Costa Rica,Puerto Viejo de Talamanca,,67USD,"Playa Chiquita, contiguo al ex-hotel Punta Cocles, Puerto Viejo, Talamanca, Limon"
+,Hotel Luz de Luna Santa Teresa,Costa Rica,Santa Teresa,,50USD,500 mts al norte de la Escuela de Santa Teresa
+,Hotel Caribbean Coconut,Costa Rica,Cahuita,,92USD,Playa Grande
+,Hotel Puntarenas Beach,Costa Rica,Puntarenas,,66USD,Calle 7 Av 4 Leon Cortes Castro
+,Villas Acacia Beach & Garden Hotel,Costa Rica,Playa Hermosa,,84USD,Segunda entrada 250 metros Oeste
+,Hotel Canto de Ballenas,Costa Rica,Uvita,,50USD,800 metros Suroeste del rio Uvita.
+,La Kukula Lodge Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,148USD,Playa Chiquita - Mista French Road
+,Hotel la Siesta Liberia,Costa Rica,Liberia,,45USD,De la Farmacia Lux 250M Sur
+,Mamma Rosa Resort,Costa Rica,Nosara,,101USD,Playa Guiones
+,Hotel El Bramadero,Costa Rica,Liberia,,56USD,50 metros Norte de los semaforos entrada principal Liberia
+,La Marejada,Costa Rica,Playa Grande,,84USD,200 Metros Sur Del Menae
+,Hotel El Sueno Monteverde,Costa Rica,Monteverde,,12USD,100 Mts East from Banco Nacional Santa Elena
+,Hotel Vista al Tortuguero,Costa Rica,Cariari,,35USD,"Cariari, Pococi, Limon, Costa Rica."
+,Cabinas Balcon del Mar Tortuguero,Costa Rica,Tortuguero,,33USD,Tortuguero Limon 100 metros Norte del tanque del agua
+,Samoa del Sur,Costa Rica,Golfito,,50USD,Km1 frente a carretera principal 300 metros al norte despues de la bomba de gasolina
+,Hotel Bell Bird,Costa Rica,Monteverde,,22USD,"Monteverde, 300m Al Oeste De Gasolinera En Monteverde"
+,Hotel Three Monkeys,Costa Rica,Montezuma,,59USD,500 meters north of Montezuma
+,Pacheco Cabins,Costa Rica,Drake Bay,,45USD,25 meters west from Cabinas Murillo
+,Hotel Esperanza Carrillo,Costa Rica,Puerto Carrillo,,118USD,50 meters East Guanamar Hotel APDO 65-5235
+,Sugar's Monkey,Costa Rica,Playa Grande,,56USD,Playa Grande
+,Vista Verde Puerto Viejo de Sarapiqui,Costa Rica,Puerto Viejo de Talamanca,,36USD,40 metros sur del restaurante Elena Brown
+,Hacienda La Isla Lodge,Costa Rica,Horquetas,,81USD,"Horquetas de Sarapiqui, Barrio La Isla de Israel, 200 metros Sur del Restaurante El Valle"
+,Indigo Yoga Surf Resort,Costa Rica,Malpais,,67USD,2 Km Sur De El Cruze De Playa Caarmen
+,Hotel Meli Melo,Costa Rica,Santa Teresa,,47USD, 500 Metros Norte De La Plaza De Futbol
+,Kinawe Cabinas,Costa Rica,Puerto Viejo de Talamanca,,62USD,3 km Before down town Puerto Viejo 5min ride to Playa Negra
+,Cabinas Las Olas,Costa Rica,Tamarindo,,90USD,Playa Avellanas
+,Cafe de Playa Boutique Hotel,Costa Rica,Playa Hermosa,,114USD,"900 mts este desde bar Lizard, calle de la chorrera"
+,Maria's House San Jose,Costa Rica,Sabanilla,,16USD,"Vargas Araya, San Pedro de Montes de Oca"
+,Nosara Suite,Costa Rica,Nosara,,900USD,"Playa Guiones Nosara, Proyecto Americano Cafe de Paris"
+,Casa Paraiso Veggie Restaurant AhoraSI,Costa Rica,Samara,,11USD,diagonal Casa Esmeralda
+,El Crucero Lodge,Costa Rica,Jaco,,39USD,Calle Lapa Verde Contiguo Ferreteria El Lagar
+,Cabinas Tropicales Puerto Jimenez,Costa Rica,Puerto Jimenez,,45USD,Calle al Manglar 50m north of the airport
+,Aldea Casa de los Mariscos,Costa Rica,Puntarenas,,24USD,Paseo de los Turistas Puntarenas Costa Rica
+,KayaSol Surf Hotel,Costa Rica,Nosara,,111USD,100 M Sur Mini Super Delicias Del Mundo
+,Belen Suites Heredia,Costa Rica,Heredia,,54USD,100 m West and 75 m South from Cementary
+,Hotel Zabamar,Costa Rica,Jaco,,46USD,Calle Cocal frente oficnas ICE
+,Thermomania,Costa Rica,Fortuna,,42USD,Contiguo a la escuela Union Ferrer fortuna de Bagaces
+,La Cacatua Lodge,Costa Rica,Uvita,,77USD,2km El Este Y 500m Al Norte De Cabinas Gato
+,Rancho La Botija,Costa Rica,Herradura,,40USD,A 6km de San Isidro en Perez Zeledon carretera a Rivas
+,Cabinas LaliMar,Costa Rica,Puerto Coyote,,49USD,400 metro oeste Escuela San Jorge
+,Hotel Las Brumas,Costa Rica,Cartago,,62USD,San Rafael de Oreamuno Cartago Costa Rica 2 Km al este del puente Beily carretera principal hacia el Parque Nacional Volcan Irazu
+,Hotel Rehl,Costa Rica,San Ramon,,69USD,Bajo RodrAguez 4km camino a Santa Clara
+,Hotel Rosa De Sharon,Costa Rica,Marsella,,22USD,"50m Norte Iglesia Catolica Venecia, San Carlos"
+,Hotel Bar y Restaurante La Hacienda,Costa Rica,Muelle de San Carlos,,55USD,35 Costa Rica
+,Hotel y Cabinas el Eden del Este,Costa Rica,Cariari,,29USD,"Cariari, Pococi, Limon, Costa Rica, Campo 3, 1 KM de la entrada"
+,Hotel Villas Posada del Sol,Costa Rica,Caldera,,49USD,900 Mts Este De La Iglesia Catolica De Esparza
+,Hotel Alkamar,Costa Rica,Tambor,,65USD,250 Este De La Plaza De Deportes
+,Hotel Grosseto Palma Real,Costa Rica,Bejuco,,56USD,Lomas de Parrita
+,Hotel Villas Colibri,Costa Rica,Alajuela,,45USD,200 Mts Sur Y 200 Mts Este Escuela Pacto Del Jocote - Urb Los Jardines
+,Valley View Lodge - Finca Huetares,Costa Rica,Atenas,,43USD,Los Angeles de Atenas
+,Gosen B&B,Costa Rica,Barva,,53USD,"Buena Vista de San Jose Montana, Barva"
+,Hotel Mar Y Sol Tambor,Costa Rica,Tambor,,75USD,100 meters north of Costa Coral
+,Tres Amigos Beach Villas,Costa Rica,Parrita,,282USD,Isla de Palo Seco
+,Guacima Country Inn,Costa Rica,Alajuela,,95USD,Calle Rancho Espanol Guacima 4005
+,Cabinas Esmo Frente Playa,Costa Rica,Uvita,,107USD,Bahia Ballena Sector playa Colonia
+,Ola Bonita,Costa Rica,Playa Hermosa,,101USD,"De la cancha de futbol, 300 mts al sur, Playa Hermosa"
+,Hotel Villa Toscana Atenas,Costa Rica,Atenas,,126USD,Del nuevo Maxipali de Atenas Sobre ruta 3 50 al este y 75 al norte
+,Apartamentos El Castillo,Costa Rica,San Pedro,,77USD,50 Norte Del Banco Popular De San Pedro
+,Congo Bongo Boutique Guest Houses,Costa Rica,Manzanillo,,131USD,1 Km Before Manzanillo Town
+,Flor y Bambu Hotel Glamping,Costa Rica,Playa Grande,,84USD,At Cafe Del Pueblo Turn Right 300 Meters On The Left
+,Hotel Los RAos,Costa Rica,Guacimo,,86USD,100 Meters East Of The Entrance To Gua Cimo Route 32
+,Kakaos Lodge,Costa Rica,Potrero,,82USD,Guanacaste Santa Cruz Playa Potrero 50 metros despues segundo puente mano derecha
+,Tuanis Aparthotel,Costa Rica,Jaco,,66USD,Calle Sol de Oro
+,Lajuela Hostel,Costa Rica,Alajuela,,35USD,200 Norte Y 100 Este De La Mucap De La Tropicana
+,AG Rooms Hotel By Alamar,Costa Rica,Puntarenas,,76USD,225 Meters West From Miguel Angel Lito Perez Stadium
+,Hotel el Tropico,Costa Rica,Cariari,,40USD,"Cariari, Pococi"
+,Hotel Mar y Mar Puntarenas,Costa Rica,Puntarenas,,41USD,150mt Plaza De Futbol Frente Al Mar
+,Jungle Villa,Costa Rica,Manuel Antonio,,156USD,"Pacific Canyon Drive 1, Manuel Antonio"
+,Hotel Alamar,Costa Rica,Puntarenas,,128USD,Final del Paseo de los Turistas frente al mar Calle 31 y Ave 4 Leon Cortes Castro
+,El Mono Loco Hotel,Costa Rica,Tamarindo,,45USD,400m South Of Pacifico Condominiums
+,Hotel El Atardecer,Costa Rica,Monteverde,,44USD,Monteverde
+,Hotel River View Tortuguero,Costa Rica,Tortuguero,,22USD,Tortuguero Diagonal al Supermercado Las Tortugas
+,Hotel Maritza Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,67USD,"70 mts este de la terminal de buses, Hotel Maritza, Puerto Viejo de Limon, Talamanca"
+,La Princesa Hotel San Isidro de El General,Costa Rica,San Isidro de El General,,50USD,SanRafael Norte SanIsidro Perez Zeledon contiguo a la escuela Melice Salazar
+,Hotel Los Mangos,Costa Rica,Montezuma,,58USD,300 Metros Del Centro De Montezuma Carretara A Cabuya
+,Hotel Maguey,Costa Rica,La Virgen,,39USD,300 Metros De La Escuela De Chilamate De Sarapiqui
+,Cabinas Yucca,Costa Rica,Puerto Viejo de Talamanca,,33USD,Avenida 71
+,Bungalow's Casa Valeria,Costa Rica,Samara,,33USD,200 Este De La Estacion De Policia Gar Diagonal A Super Samara Hotel Casa Valeria
+,El Castillo Divertido,Costa Rica,Playa Negra,,28USD,Playa Junquillal San Cruz
+,Cabinas Permont,Costa Rica,Santa Cruz,,20USD,Santa Cruz Guanacaste 300 mts este del banco nacional de Santa Cruz
+,Mi Casa Hostel y Hotel El Tesoro,Costa Rica,Puerto Viejo de Talamanca,,39USD,2 Kilometros De Puerto Viejo En Direccion Hacia Cocles Al Lado De Tasty Waves
+,Hotel Dorado Arenal Hotsprings,Costa Rica,La Fortuna,,77USD,La Fortuna de San Carlos
+,Villas Santa Teresa,Costa Rica,Santa Teresa,,225USD,"Santa Teresa, Mal Pais Costa Rica"
+,Hotel Yoko Termales,Costa Rica,Fortuna,,45USD,2 Kilometros Al Norte Del Proyecto Geotermico Miravalles Fortuna De Bagaces
+,Hospedaje Fortuna Verde,Costa Rica,Neily,,38USD,"300 m norte de Escuela La Fortuna, sobre carretera Interamericana Sur"
+,Coconut Grove Oceanfront Cottages,Costa Rica,Dominical,,107USD,1600 Mts Sur De Roca Verde
+,Sunset hostel Tamarindo,Costa Rica,Tamarindo,,16USD,Plaza Conchal NAdeg 2
+,Pachamama Houses & Bungalows,Costa Rica,Malpais,,78USD,Playa Mal Pais 50 Meters from the Beach
+,Hotel Quebrada Grande,Costa Rica,Palmar Norte,,58USD, Palmar Norte Del Puesto De Transito 400 Metros Noroeste
+,Finca Vibran Bed and Breakfast,Costa Rica,Grecia,,112USD,San Francisco de San Isidro de Grecia
+,Hotel & Restaurante Arrecife,Costa Rica,Puerto Viejo de Talamanca,,50USD,En La Crta Entre Pto Viejo Y Manza Reserva Biola3gica Gandocamanzanillo
+,Luxury Pacifico L803,Costa Rica,Playas del Coco,,132USD,813 Lifestyle Lane Apt L803
+,La Isla Inn,Costa Rica,Puerto Viejo de Talamanca,,66USD,Playa Cocles
+,Guapinol 4,Costa Rica,Playa Langosta,,214USD,Villa Guapinol 4
+,Apartment Condominio Paradisus,Costa Rica,San Jose,,140USD,"Avenida 37, Condominio Paradisus"
+,Morada Kampos,Costa Rica,Santa Barbara,,36USD,75 M Sur Estadio Carlos Alvarado Santa Barbara
+,El Castillo Ojochal,Costa Rica,Ojochal,,221USD,Perezoso Road Ojochal Costa Rica
+,CaA+-o Negro Wetlands Lodge,Costa Rica,Cano Negro,,79USD,San Antonio de CaA+-o Negro
+,Gran Hotel Costa Rica,Costa Rica,San Jose,,0,Central and second Ave. Between 1 & 3
+,Waterfront Hotel Verde Mar,Costa Rica,Manuel Antonio,,0,"Manuel Antonio,Quepos"
+,Ocotal Beach Resort,Costa Rica,Playas del Coco,,0,Playa Ocotal
+,Karahe Hotel,Costa Rica,Manuel Antonio,,0,P.O.Box 1006350 Carretera De Quepos
+,Arenas del Mar Beach & Nature Resort Manuel Antonio,Costa Rica,Manuel Antonio,,0,Playa Playitas Manuel Antonio Manuel Antonio
+,Byblos Resort & Casino,Costa Rica,Manuel Antonio,,0,Frente a Villas El Parque2.5 Km Carr. a Parque Nacional
+,Hotel Roca Negra Del Arenal,Costa Rica,La Fortuna,,0,"2 kilometros oeste del parque, carretera al Volcan arenal, la Fortuna de san carlos C.R."
+,Hotel Boutique Indalo,Costa Rica,Puerto Viejo de Talamanca,,0,"Calle 219, A"
+,Ringle Resort Hotel & Spa,Costa Rica,Santa Ana,,0,Alto de las Palomas
+,Allegro Papagayo,Costa Rica,Culebra,,0,"Playa Manzanillo | P.O. Box 48-5000, Gulf of Papagayo"
+,Manala,Costa Rica,Malpais,,0,800mts north soccer field Santa Teresa Beach-Cobano Puntarenas - Costa Rica - Puntarenas
+,Cabinas Jade Mar,Costa Rica,Drake Bay,,0,Bahia Drake Peninsula de Osa 150 metr de la Palya de Agujitas
+,Hotel Flor Blanca,Costa Rica,Manuel Antonio,,0,125 Oeste de la escuela Manuel Antonio
+,La Paloma Lodge,Costa Rica,Drake Bay,,0,Drake Bay
+,TikiVillas Rainforest Lodge - Adults Only,Costa Rica,Uvita,,0,12km South of Dominical
+,Hotel Villas Vilma,Costa Rica,La Fortuna,,0,De la iglesia catolica 2 kilometro camino a el volcan
+,Villa del Sueno,Costa Rica,Playa Hermosa,,0,"Primera entrada, 500 metros al este"
+,Hotel La Pradera,Costa Rica,La Fortuna,,0,Road To Arenal Volcano
+,Pranamar Villas and Yoga Retreat,Costa Rica,Santa Teresa,,0,Playa Hermosa
+,Hotel La Amistad,Costa Rica,San Jose,,0,"Calle 15 Avenida 11, 100 meters west from Cal"
+,Harbor Reef Beach & Surf Resort,Costa Rica,Nosara,,0,Playa Guiones
+,Hotel & Casino Amapola,Costa Rica,Jaco,,0, De La Municipalidad 200mtr.Norte
+,La Mansion Inn Arenal Hotel,Costa Rica,Nuevo Arenal,,0,La Union de Nuevo Arenal
+,Hotel Montana Monteverde,Costa Rica,Monteverde,,0,"PO Box 07-5655, Santa Elena"
+,Manuel Antonio Hotel,Costa Rica,Manuel Antonio,,0,End of Road Across from Beach Manuel Antonio National Park
+,Hotel Casitas Eclipse,Costa Rica,Manuel Antonio,,0,Manuel Antonio Beach
+,Hotel Villa Del Sueno,Costa Rica,Playa Hermosa,,0,Playa Hermosa Guanacaste; de la primera entrada 400 mts oeste
+,Nosara Playa Garza Hotel,Costa Rica,Playa Garza,,0,Playa Garza Calle Principal
+,Beacon Escazu Boutique Hotel San Jose,Costa Rica,Escazu,,0,150 mts Oeste del Parque Central de Escazú
+,Hotel Domilocos,Costa Rica,Dominical,,0,
+,La Finisterra,Costa Rica,Playa Hermosa,,0,Primera Entrada De Playa Hermosa 500 M.
+,La Isla Hotel Parrita,Costa Rica,Parrita,,0,Playa Palo Seco / 
+,Nine Hotel Jaco,Costa Rica,Jaco,,0,"Beach Front, 50mt south Condo Mar Arena"
+,Almonds and Corals Lodge,Costa Rica,Manzanillo,,0,10 Kms Sur De Puerto Viejo S/N
+,Camarona Caribbean Lodge,Costa Rica,Puerto Viejo de Talamanca,,0,Playa Cocles
+,Hotel El Tajalin,Costa Rica,Montezuma,,0,Frente al parque infantil
+,Tambor Tropical Beach Resort,Costa Rica,Tambor,,0,"Tambor Beach, Cobano, Puntarenas"
+,Monterey Del Mar Hotel,Costa Rica,Esterillos,,0,Playa Esterillos Oeste
+,Pueblo Real,Costa Rica,Quepos,,0,"Condominio La Laguna, Apartado 151, Quepos 6350, Costa Rica"
+,Hotel Colonial Escazu,Costa Rica,Escazu,,0,"San Rafael de Escazu, del Vivero Exotica, 200 metros Oeste, 100 metros Sur."
+,Michael's Surfside Hotel,Costa Rica,Puntarenas,,0,Paseo de los Turistas
+,Hotel Arenal Jireh,Costa Rica,La Fortuna,,0,1 Block West of La Fortuna Central Park Arenal Volcano Area
+,Hotel Kangaroo,Costa Rica,Jaco,,0,Calle Pastor Diaz (800mt sur de la Municipalidad)
+,15 Love,Costa Rica,Tamarindo,,0, 200 Metros Antes Del Hotel Jardin Del Eden
+,Hotel Playa Westfalia,Costa Rica,Puerto Limon,,0,2km South from Limon's Int aiport
+,Hotel II Millenium,Costa Rica,Alajuela,,0,"From Juan Santamaría International Airport, 1 Km east"
+,Hotel Iguanazul,Costa Rica,Playa Negra,,0,Playa Junquillal
+,Hotel El Sueno,Costa Rica,Monteverde,,0,From Vitosi Drug store 25 Meters East
+,Hotel Linda Vista Escazu,Costa Rica,Escazu,,0,San Antonio Escazu 400 mts
+,Club Martino Costa Rica,Costa Rica,Alajuela,,0,La Garita Alajuela Frente al Zoo Ave
+,Lucky s Hotel & Casino,Costa Rica,San Isidro de El General,,0,"Perez Zeledon, San Isidro del General"
+,Cabinas Rana Roja,Costa Rica,Tortuguero,,0,"Tortuguero Pocosi, Laguna Penitencia contiguo al hotel Evergreen"
+,Hotel Domus Kahuna,Costa Rica,Tamarindo,,0,Tamarindo -Front of supercompro
+,L'Acqua Viva Resort And Spa,Costa Rica,Nosara,,0,Playa Guiones 
+,El Tucano Resort & Thermal Spa San Jose,Costa Rica,Ciudad Quesada,,0,114-1017 San Jose 2000
+,Hotel Villa Teca,Costa Rica,Manuel Antonio,,0,Manuel Antonio National Park
+,Belcruz Bed & Breakfast,Costa Rica,Monteverde,,0,75 Mts Norte De La Iglesia De Canitas
+,Colores Del Pacifico,Costa Rica,Playa Flamingo,,0,Playa Flamingo
+,Hotel Arboleda Manuel Antonio,Costa Rica,Manuel Antonio,,0,KM 5 Quepos a 
+,Hotel Tangara Arenal,Costa Rica,La Fortuna,,0,1 Km Antes Del Centro De La Fortuna
+,Sanchiri Mirador and Lodge,Costa Rica,Cartago,,0,P.O. Box 27-7100 Paraíso
+,Villa Acacia,Costa Rica,Playa Hermosa,,0, One Block From The Beach In
+,Hotel 1492,Costa Rica,San Jose,,0,31-33 St. 1St Avenue 2985
+,Turrialtico Lodge,Costa Rica,Turrialba,,0,"Turrialco Lodge, Turrialco"
+,Hotel La Palmera,Costa Rica,Jaco,,0,400 Metres E of Jaco Municipal
+,Hotel Pochote Grande,Costa Rica,Jaco,,0,Apartado 42 Jacó Beach
+,Backyard Hotel,Costa Rica,Playa Hermosa,,0,"Hermosa Beach, 4 KM from Playa "
+,Posada del Museo,Costa Rica,San Jose,,0,Av 2º Calle 17  Diagonal Esquina sur-este al Museo Nacional
+,Bahia Esmeralda,Costa Rica,Potrero,,0,100 meters east from soccer field in Potrero beach
+,Hotel Mediterraneo Tamarindo,Costa Rica,Tamarindo,,0,Playa Avellanas
+,Hotel Inn on the Park,Costa Rica,Manuel Antonio,,0,Quepos From Entrance Marlin 200 Meters
+,Giardini Di Papagayo Hotel,Costa Rica,Playa Panama,,0,"Playa Panama | Gulf of Papagayo, Liberia 26-1017, Costa Rica"
+,Frank's Place,Costa Rica,Santa Teresa,,0,Playa Carmen
+,Hotel Tioga,Costa Rica,Puntarenas,,0, Located 800 Meters West Of The Cruiser Pier
+,Jaco Bay Condo Hotel by Ramada,Costa Rica,Jaco,,0,Pastor Diaz Avenue
+,Hotel Britannia San Jose,Costa Rica,San Jose,,0, Calle 3 Avinida 11
+,Hotel Veragua River House,Costa Rica,Drake Bay,,0,"Del puente de Rio Estero Azul, 900m a la derecha, Sureste"
+,Hotel Ilan-Ilan,Costa Rica,Tortuguero,,0,Tortuguero
+,Brovilla Resort Hotel,Costa Rica,Ostional,,0,Playa 
+,Hotel Sierra Resort & Casino,Costa Rica,Golfito,,0,Av. Alamedas Contiguo Al Aeropuerto
+,Suenos Tranquilos Ballena,Costa Rica,Uvita,,0,600 metros Este del BCR Uvita
+,Airport Hotel Rio Segundo,Costa Rica,Alajuela,,0,1 km East from International Airport on the road to Heredia
+,Sportsmens Lodge,Costa Rica,San Jose,,0,Calle 13 casa 949
+,Monaco Condominiums By Alamo Homes Group,Costa Rica,Jaco,,0, Mid Town A Block From Beach
+,Bolanos Bay,Costa Rica,La Cruz de Guanacaste,,0,"Bahia Salinas, La Cruz de Guanacaste,frente a playa Coyotera - Guanacaste"
+,Camping y Cabinas El Tecal,Costa Rica,Uvita,,0,300 Metros Del Parque Marino Ballenas Sector Chaman
+,Hotel Dorothy,Costa Rica,Fortuna,,0,Barrio Pilo 75m south From The Bus Station
+,Marina Loft Apart-Hotel,Costa Rica,Playas del Coco,,0,Caretera per Ocotal
+,Puerto Carrillo Hotel,Costa Rica,Puerto Carrillo,,0,25 mt oeste Iglesia
+,Beija Flor Resort,Costa Rica,Malpais,,0,2km South of the El Carmen Intersection
+,El Manantial Mountain Lodge,Costa Rica,San Gerardo de Dota,,0,Interamerican Road
+,Habitaciones Madrid,Costa Rica,Escazu,,0,Escazu Alto de las Palomas contiguo a Subestacion del ICE
+,Hotel Mediterraneus,Costa Rica,Potrero,,0,Playa Potrero Santa Cruz
+,Casa Cambranes,Costa Rica,San Pedro,,0, 10 Metros Sur De La Corte Interamericana De Derechos Humanos
+,Hotel Jaguar Cahuita,Costa Rica,Cahuita,,0,Black Beach from the Football Field 450 m North
+,Manga Rosa Hotel,Costa Rica,Tarcoles,,0,"Carara, Costa Rica"
+,Mar Y Selva Ecolodge,Costa Rica,Ballena,,0,Del Mojon 170 De La Costanera Sur 500M Sur 1200Est
+,Hotel Palmeral Dorima,Costa Rica,Rio Claro,,0,San Ramon de Rio Claro
+,Montelaguna Residence,Costa Rica,Puerto Carrillo,,0,"In front of Punto Indio, main road to Carrillo"
+,Hotel Desire Costa Rica,Costa Rica,Santa Barbara,,0,Beside Cedal Convention Center
+,Casa Del Sol Resort,Costa Rica,Potrero,,0,Across from the Soccer Field in Playa 
+,Cabinas Las Arenas Hotel Jaco,Costa Rica,Jaco,,0,400 meters south of school Pochotal
+,Apartamentos Veranera,Costa Rica,Playa Grande,,0,50 metros Este de la Oficina de Minea
+,Grand Tara Resort Hotel,Costa Rica,Escazu,,0,Pico Blanco de Escazu
+,Hotel Puerto San Luis Cano Negro,Costa Rica,Cano Negro,,0,Puerto San Luis
+,Hotel y Bar OZ,Costa Rica,Jaco,,0,Calle La Central Frente a Mas X Menos
+,Apartments Casa Lima B&B,Costa Rica,San Jose,,0,"Av 25 , entre calle 100 y 102"
+,Hotel La Pradera del Arenal,Costa Rica,La Fortuna,,0,2km Oeste del Centro de la Fortuna 
+,Pacific Park Tamarindo,Costa Rica,Tamarindo,,0,"Pacific Park, Tamarindo Center Intersection to Langosta"
+,Casa Cristal Boutique Hotel,Costa Rica,Escazu,,0,Bello Horizonte
+,Hotel Ritzli,Costa Rica,San Jose,,0,Calle 0 Avenida 8-10
+,Adelante Hotel,Costa Rica,Ojochal,,0,100 meters north of the Ojochal entranc Playa Tortuga
+,Belen Suites,Costa Rica,Puerto Viejo de Sarapiqui,,0,"From of La Rivera Cementery, 100 m West and 75 South"
+,Los tres Gatos Bed and Breakfast,Costa Rica,La Fortuna,,0, 2 Blocks North Of The Public Highschool
+,Cataratas Resort,Costa Rica,La Fortuna,,0,La Fortuna De San Carlos
+,White House Restaurant Casino and Spa,Costa Rica,San Jose,,0,South Of Cementery - San Antonio De Escazu 1
+,La Cangreja Lodge,Costa Rica,La Fortuna,,0,"8 Kilometers West, From La Fortuna Downtown"
+,Hotel Guima,Costa Rica,San Jose,,0,"calle 12 y 14, Diagonal Oeste de la Parada de Buses San Carlos"
+,Eco Lodge Resort Lake Coter Nuevo Arenal,Costa Rica,Nuevo Arenal,,0,Nuevo Arenal
+,Copa de Arbol Beach and Rainforest Resort,Costa Rica,Drake Bay,,0,"Drake Bay, Osa Peninsula"
+,Maquenque Ecolodge,Costa Rica,San Carlos,,0,"1.5 km road to Arenal Volcano, Canoa Aventura, La Fortuna"
+,La Posada at Hacienda Pinilla,Costa Rica,Tamarindo,,0,Playa Avellanas Guanacaste
+,Bahia de los Delfines,Costa Rica,Tambor,,0,Cobano Playa 
+,Garden Court Express San Jose Downtown,Costa Rica,San Jose,,0,7th Avenue & 6th Street
+,Peninsula Condominium,Costa Rica,Playa Langosta,,0,Langosta Beach
+,Bay Residences Hotel Jaco,Costa Rica,Playa Herradura,,0,Los1 Suenos Marina Village
+,Don Fadrique Hotel San Jose,Costa Rica,San Jose,,0,"Avenida 8, Calle 37"
+,Villas de la Selva,Costa Rica,Quepos,,0,Manuel Antonio
+,Hotel Wagelia Dominica,Costa Rica,Turrialba,,0,Barrio La Dominica
+,Hotel Arena Blanca,Costa Rica,Puerto Carrillo,,0,Playa 
+,La Mansion Inn Boutique Hotel & Spa,Costa Rica,Manuel Antonio,,0,"Quepos, Mannuel Antonio, Costa Rica "
+,Hotel Mardeluz,Costa Rica,Jaco,,0,Playa Puntarenas 123
+,Hotel Diamond Inn,Costa Rica,Alajuela,,0,"Erizo-Alajuela, from Invu Las, High School, 300mts. East"
+,Hotel Oasis del Pacifico Playa Naranjo,Costa Rica,Playa Tamarindo,,0,350 meters south from the Ferry station
+,Yaldai Bed and Breakfast,Costa Rica,Turrialba,,0,"Turrialba, detras de las Graderias del Estadio Rafael Angel Camacho"
+,Totem Hotel Beach Resort,Costa Rica,Puerto Viejo de Talamanca,,0,Cocles Beach - Puerto Viejo
+,El Castillo de la Fortuna,Costa Rica,La Fortuna,,0,"El Castillo de LaFortuna, at 22 Km from the town of La Fortuna and 3 km from the National Park"
+,Namuwoki,Costa Rica,Puerto Viejo de Talamanca,,0,Playa Chiquita Ctra. De Puerto Viejo
+,Hotel Parque del Lago,Costa Rica,San Jose,,0,Mantica
+,Villa Zurqui,Costa Rica,San Jose,,0,150 Mts Este Estacion Zurqui Ruta 32 100 Mts
+,Pure Condo Resort,Costa Rica,Playa Herradura,,0,Los Suenos
+,Cabinas Kacha,Costa Rica,Manuel Antonio,,0,Espadilla
+,Buena Vista Lake Arenal Resort,Costa Rica,La Fortuna,,0,Lake Arenal at Puerto San Luis
+,Hotel Europa San Jose,Costa Rica,San Jose,,0,Central Street 3rd & 5th avenue
+,SueA+-os Tranquilos,Costa Rica,Uvita,,0, Calle Bejuco
+,Cerro Alto Lodge,Costa Rica,Turrialba,,0,"10 KM, Centro de Turrialba, Camino Siquierres"
+,Hotel Chatelle Country Resort,Costa Rica,Alajuela,,0,P.O. Box: 156 / 4060
+,Hotel Dona Ines,Costa Rica,San Jose,,0,Calle 11 Entre Avenidas 2 y 6
+,Coco Dreams Hotel,Costa Rica,Playas del Coco,,0,Coco Beach 100 meters south from the intersection to Ocotal Beach
+,El Mirador Osa,Costa Rica,Osa,,0,18kl de Colegio Finca Alajuela
+,Pacifico Lunada,Costa Rica,Manuel Antonio,,0,75 m Oeste de la Iglesia Catolica en Manuel Antonio
+,Hotel Big Boy,Costa Rica,Puerto Limon,,0,Contiguo a la Terminal de Mepe
+,Refugio Lodge Monteverde,Costa Rica,Cano Negro,,0,3 kilometros al Norte de Train Forest
+,Ecohotel Arboleda,Costa Rica,Manuel Antonio,,0,Km 7 carretera Quepos a Manuel Antonio
+,Sanchiri Mirador & Lodge,Costa Rica,Paraiso,,0,2 Km South of Paraiso Park
+,Coloso del Arenal,Costa Rica,La Fortuna,,0,"700 mts Este del Banco de Costa Rica, La Fortuna"
+,Castillo Miguel,Costa Rica,Potrero,,0,Playa Flamingo
+,Hotel Escape Caribeno,Costa Rica,Puerto Viejo de Talamanca,,0,Puerto Viejo de Talamanca
+,Hotel La Quinta Alajuela,Costa Rica,La Virgen,,0,LA VIRGEN PUERTO VIEJO SARAPIQUI - Puerto Viejo de Sarapiqui
+,Morgan's Cove Resort & Hard Rock Casino,Costa Rica,Jaco,,0,"Pastor Diaz Apdo 38, Hardrockresortave - Jaco"
+,Buena Vista Lodge,Costa Rica,Alajuela,,0,"Rincon de La Vieja, Costa Rica - Guanacaste - North Pacific Coast"
+,Villa Imani Hotel,Costa Rica,Tamarindo,,0,300 meters Tamarindo Beach 
+,Lago Hotel Arenal,Costa Rica,Nuevo Arenal,,0,Arenal Lake
+,Oceans The Palms,Costa Rica,Jaco,,0,50 mts West at Pochote Grande Street - Jaco
+,Morgans Cove Central Downtown Jaco,Costa Rica,Jaco,,0,20 metres east of Pastor Diaz on Calle Invu
+,El Establo mountain hotel & private reserve,Costa Rica,Siquirres,,0,"1 Km oeste del banco nacional; camino a la reserva de Monteverde, Puntarenas "
+,Hotel El Sapo Dorado,Costa Rica,Monteverde,,0,Santa Elena
+,Hotel Sol Papagayo Resort,Costa Rica,Playa Panama,,0,Boulevard Costa Esmeralda 1 Km Oeste
+,Lands in Love,Costa Rica,San Ramon,,0,"45 minutos de La Fortuna, Arenal."
+,Hotel y Cabanas Osa,Costa Rica,Ojochal,,0,Calle Playa Tortuga Ojochal Punta arenas
+,Chinitas Lodge,Costa Rica,Tortuguero,,0,"25 metros de la escuela Laguna de Tortuguero, frente a la Laguna"
+,Higher Ground,Costa Rica,Tamarindo,,0,"Tamarindo, Guanacaste"
+,Punta Cocles Hotel,Costa Rica,Puerto Viejo de Talamanca,,0,5 Km South Of Puerto Viejo
+,Hotel Shawandha Lodge,Costa Rica,Puerto Viejo de Talamanca,,0,Playa Chiquita/Carretera a Manzanillo km 10
+,El Milagro Hotel,Costa Rica,Tamarindo,,0,Playa 
+,Ailanto San Jose B&B,Costa Rica,Alajuela,,0,300 Metros Oeste Del Rtv
+,Baldi Resort,Costa Rica,La Fortuna,,0,4 km West of the town of Fortuna on the way to the volcano
+,Condominios Cormoran By Tropical Gardens,Costa Rica,Culebra,,0,"Urbanizaci -N Las Palmas, Playas Del Coco / Guanacaste"
+,Flor de Tortuguero,Costa Rica,Tortuguero,,0,Caño Penitencia
+,Villas Sol Costa Rica,Costa Rica,Playa Hermosa,,0,A 20 minutos del Aeropuerto Internacional de Liberia
+,Hacienda Flamingos Casa del Arbol,Costa Rica,Playa Flamingo,,0,Playa Flamingo
+,Hotel Punta Islita Samara,Costa Rica,Samara,,0,Nandayure; Nicoya; Guanacaste
+,Tiskita Jungle Lodge Zancudo,Costa Rica,Pavones,,0,De Pavona 7 Km Al Sur
+,Hotel Aurora Montezuma Costa Rica,Costa Rica,Montezuma,,0,50 meters east of Iglesia Catolica
+,Vista Bela-Ocean View Private Loft,Costa Rica,Playa Negra,,0,Last house on the right in front of ocean
+,Esencia Hotel & Villas Santa Teresa,Costa Rica,Santa Teresa,,0,Santa Teresa de Cobano
+,Hotel Carlos Lodge,Costa Rica,La Fortuna,,0, 500 Metros Oeste De Tabacon Carretera Principal Al Volcan Arenal
+,RigoHouse Hostal,Costa Rica,San Vito,,0,Bº Lourdes 100m sur de la entrada principal
+,Hotel Tropico Latino Malpais,Costa Rica,Malpais,,0,25 north supermarket Trebol Maya Playa santa Teresa de Cobano
+,Hotel Sueno Espanol,Costa Rica,Escazu,,0,Calle vieja a Santa Ana
+,Casa Pampa,Costa Rica,Santa Teresa,,0,50 mts East from Super Costa
+,Hotel Geliwa,Costa Rica,Turrialba,,0,1km Al Norte Del Centro De Turrialba
+,El Baile de la Iguana Aparthotel,Costa Rica,Manuel Antonio,,0,"Kilometro 3.5 de la carretera de Manuel Antonio, zona centro, junto al Super Joseth."
+,Hotel Villa Belmar Sevilla Resort,Costa Rica,Playa Hermosa,,0,Segunda Entrada a Playa 400 Metros 
+,Banana Azul Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,Puerto Viejo De Talamanca Caribbean Coast / Tortuguero
+,El Bambu De Sarapiqui,Costa Rica,Puerto Viejo de Sarapiqui,,0,Puerto Viejo De Sarapiqui
+,Villa Lapas Hotel,Costa Rica,Tarcoles,,0,"4 km despues del puente Tarcoles Garabito, Jaco"
+,Manga Rosa Hotel Carara,Costa Rica,Tarcoles,,0,From Tarcoles Bridge 4 km South and 2.5 km East
+,Condominios Green Turtle By Tropical Gardens Culebra,Costa Rica,Culebra,,0,"Urbanizacion Las Palmas, Playas Del Coco / Guanacaste"
+,Stay In Costa Rica Condominios Colina,Costa Rica,Playa Herradura,,0,"Ruta 27, A La Derecha En Plaza Herradura Hasta La"
+,Las Mareas,Costa Rica,Tamarindo,,0,"Condominio El Tesoro, 100 mts. Oeste de Automercado"
+,Buena Vista Alajuela,Costa Rica,Alajuela,,0,De la Corte de Justicia en Alajuela 6 km al norte carretera al Volc In Poas
+,Arenal Paraiso,Costa Rica,La Fortuna,,0,7km Oeste de la Carretera al Volc In Arenal
+,The Ocean Hotel Puerto Limon,Costa Rica,Manuel Antonio,,0,Manuel Antonio Quepos
+,Country Club Happy Land Hotel,Costa Rica,Tortuguero,,0,Cl Moin Puerto Limon Contiguo Urb. Recope
+,Kiana Resorts,Costa Rica,Dominical,,0,1 Km Sur del Puente del Rio Baru
+,Le Paradise Vert,Costa Rica,Carara,,0,900 South Mataplatano School
+,Bahia Azul Hotel,Costa Rica,Jaco,,0,"Calle Morales Avenida Pastor Diaz Jaco Jaco 05, Costa Rica 
+ "
+,Hotel Suerre Caribbean Beach,Costa Rica,Puerto Viejo de Talamanca,,0,Frente A Punta Uva S/N
+,Sol Papagayo Resort,Costa Rica,Playa Panama,,0,Playa Panama
+,Timarai Bamboo Resort,Costa Rica,Parrita,,0,Playa Palo Seco 
+,Divisa Mar,Costa Rica,El Roble,,0,Manuel Antonio
+,El Cafetal Inn,Costa Rica,Atenas,,0,Carretera Sta. Eulalia; 5 minutos de la ciudad de Atenas
+,Isla Los Angeles Costa Rica,Costa Rica,Santo Domingo,,0,San Luis de Santo Domingo
+,Hotel La Plazuela,Costa Rica,Liberia,,0,4 Km Sur de Guardia Carretera a Catsa
+,Mansion del Parque Bolivar Hotel,Costa Rica,San Jose,,0,"Avenida 9, calle 11 y 13 Barrio Otoya"
+,Hacienda Tayutic,Costa Rica,Turrialba,,0,Sitio de Mata
+,Hotel Puerto San Luis,Costa Rica,Nuevo Arenal,,0,Nueva Tronadora
+,Cabinas Sax's Caribe,Costa Rica,Puerto Viejo de Talamanca,,0,1 Kilometro del cruce de Hone Creek ISQ
+,Hotel De Lucia Inn,Costa Rica,Monteverde,,0,125 mts South Of Public School Cerro Plano
+,Vista Bahia Beach Resort,Costa Rica,Playa Panama,,0,Golfo de Papagayo Playa
+,Royal Dutch Hotel & Casino,Costa Rica,San Jose,,0,Avenida Segunda Calle 4
+,Casa Caresa,Costa Rica,Tambor,,0,Lot. 14 Villas del Mar
+,Condominios Jade By Tropical Gardens,Costa Rica,Culebra,,0," Urbanizaciã“n Las Palmas,Playas Del Coco Guanacaste"
+,La Condesa Hotel Heredia,Costa Rica,San Rafael,,0,San Rafael de Heredia
+,Hotel La Garza,Costa Rica,Muelle de San Carlos,,0,Costado Noroeste de la Plaza de Deportes de Platanar de Florencia San Carlos.
+,Rancho Leon,Costa Rica,Quepos,,0,Nos Encontramos en Paquita
+,Villa Cacao,Costa Rica,Santa Teresa,,0,Calle entrada a Fercosta First house on the right
+,Bahia Encantada Hotel,Costa Rica,Jaco,,0,"Avenida Pastor Diaz Jaco 5, Costa Rica 
+
+ "
+,Pacific Palms Playas del Coco,Costa Rica,Playas del Coco,,0,Calle de chorrera
+,Cabinas Bucus,Costa Rica,Manzanillo,,0,75mts from the Aquamor
+,Whales & Dolphins Hotel & Restaurant,Costa Rica,Caldera,,0,"17 Km. Sur de Playa Dominical, Jardines del Morete, Uvita de Osa, Puntarenas, Costa Rica"
+,BEST WESTERN Hotel Casa Roland,Costa Rica,San Jose,,0,Final del Boulevard de Rohrmoser Pavas100 metros Sur
+,Hotel El Mirador del Pacifico,Costa Rica,Quepos,,0,Carretera a Manuel Antonio Manuel Antonio National Park
+,De Luxe Backpacker,Costa Rica,San Jose,,0,Barrio Amon Avenida 9 Calle 7
+,Wagelia Dominica,Costa Rica,Turrialba,,0,1 km from Turrialba Central Park
+,Guayabo Lodge,Costa Rica,Cartago,,0,Turrialba Valley
+,Hotel La Posada Hacienda Pinilla,Costa Rica,Tamarindo,,0,8 Miles West From Tamarindo Tamarindo
+,Pure Vibes Backpackers Resort,Costa Rica,Playas del Coco,,0,Calle de chorrera
+,Los Suenos Marriott Ocean & Golf Resort Puntarenas,Costa Rica,Chacarita,,0,800 MTS West from Herradura
+,Hotel Punta Islita Carrillo,Costa Rica,Punta Islita,,0,"Nandayure, Guanacaste"
+,Sol y Mar Cabinas Rooms & Restaurant,Costa Rica,Samara,,0,400 Oeste del Banco Nacional
+,Palomas Heights,Costa Rica,Escazu,,0,Escazu Calle Vieja Alto de las Palomas
+,Lodge la Ilusion,Costa Rica,Montana Grande,,0,La Ilusion de Lepanto
+,Apartotel Plaza Real,Costa Rica,San Jose,,0,La Uruca Del BCR 200 sur 100 este Ave 31 calle 25A
+,Marina Loft Playas del Coco,Costa Rica,Playas del Coco,,0,"Camino Hacia Playa Ocotal, Playas Del Coco"
+,Hotel Portofino Tamarindo,Costa Rica,Tamarindo,,0,Cruce de Langosta 10 m mano izq frente al bar Falafel
+,Casitas Goonga,Costa Rica,La Fortuna,,0,150 meters east from the main bus stop
+,Costa Rica Morazan,Costa Rica,San Jose,,0,Calle 7 Ave 1 100 Sur Del Parque Morazan
+,Blurose Hotel,Costa Rica,San Jose,,0,Calle 9 No. 677 Paseo de Estudiantes Frente a Cinema
+,Nativa Resort Jaco,Costa Rica,Jaco,,0,Central Pacific Coast
+,Hotel Magica Cantarrana,Costa Rica,Samara,,0,Playa Samara de Nicoya
+,Colina Hotel Jaco,Costa Rica,Jaco,,0,Los3 Suenos Marina Village
+,Cabinas Bella Vista,Costa Rica,Monteverde,,0,"150 meters north of the, CPI Monteverde. Next to Cerro, Plano Gas Station."
+,Arenal Kioro Suites And Spa,Costa Rica,La Fortuna,,0,From Fortuna down town 10km North west - 435-1200 Pavas San Jose
+,The Sanctuary Resort And Spa,Costa Rica,Playa Azul,,0,Playa Azul Marbella
+,Mediterraneus Hotel Potrero,Costa Rica,Potrero,,0,400 Meters East from Potrero Downtown
+,Finca Rosa Blanca Coffee Plantation & Inn,Costa Rica,Santa Barbara,,0,"Santa Barbara, Heredia 41-3009"
+,Sunset Reef Marine Hotel,Costa Rica,Malpais,,0,"Mal Pais Beach, Nicoya Peninsula"
+,Villa Altavista Townhouse Jaco,Costa Rica,Playa Herradura,,0,Contiguo A Tucan Calvo
+,The Ocean Club of Manuel Antonio,Costa Rica,Manuel Antonio,,0,"Manuel Antonio, Punta Quepos"
+,Centro Cultural Bribripa,Costa Rica,Buenos Aires,,0,Territorio Indigena Salitre Buenos Aires
+,Rio Perdido Canas,Costa Rica,Bagaces,,0,"6 Kms Este De San Bernardo De Bagaces , Bagaces, Costa Rica, 50402"
+,The Peace Lodge At La Paz Waterfall Gardens,Costa Rica,Alajuela,,0,"Vara Blanca, Alajuela , Alajuela, Costa Rica,"
+,Casa Amada Tambor,Costa Rica,Tambor,,0,Villas del Mar
+,Hotel Casa Tago,Costa Rica,Alajuela,,0,Social 75 mts al Este
+,Hotel Los Heroes,Costa Rica,La Fortuna,,0,Nuevo Arenal
+,Hotel Coconut House,Costa Rica,Alajuela,,0,Del Supermercado La Trinidad 100 Sur y 350 oeste
+,Samoa Lodge & Resort,Costa Rica,Tortuguero,,0," Tortugero , 10736-1000"
+,Volcano Turrialba Lodge,Costa Rica,Turrialba,,0,Betweenn Irazu and 1 Turialba Vocanoes
+,Beso del Viento - ADULTS ONLY,Costa Rica,Parrita,,0,Playa Isla Palo Seco
+,San Lorenzo Inn,Costa Rica,San Pedro,,0,Residencial San Lorenzo San Lorenzo de Flores
+,Hotel Cafe de Paris Nicoya,Costa Rica,Nosara,,0,Apdo 5233 
+,Hostel Van Gogh,Costa Rica,San Jose,,0,"Calle 7, 150 mts North Parque Morazan, Amon"
+,Hotel Capital San Jose,Costa Rica,San Jose,,0,4th. Street Between Ave. 3 y 5 - 25 Meters North Side from National Bank
+,FlorticaHostel,Costa Rica,Manuel Antonio,,0, Manuel Antonio
+,Sanctuary Resort and Spa,Costa Rica,Santa Cruz,,0,Playa Azul - Guanacaste Costa Rica Central
+,Charly's Place Hotel,Costa Rica,Alajuela,,0,200m North 20m East From Central Park
+,Hotel Royal Limon,Costa Rica,Puerto Limon,,0,"Calle 7, Ave 6"
+,Palacio Zephyr,Costa Rica,Puntarenas,,0,2 Km South Punta Leona entrance Jaco; next to Villa Caletas Hotel
+,Apartmentos Agapi,Costa Rica,Puerto Viejo de Talamanca,,0,Road to Cocles Beach
+,Lake Arenal Hotel & Brewery,Costa Rica,Naranjos Agrios,,0,Arenal ruta 142 8 Km de TilarA n camino hacia Nuevo
+,Villas del Mar,Costa Rica,Jaco,,0, Cahuita National Park
+,Puerto Vargas Lodge,Costa Rica,Puerto Viejo de Talamanca,,0,2 Km Al Sur De La Entrada A Parque Nacional Puerto Vargas
+,Sarapiquis Rainforest Lodge Puerto Viejo de Sarapiqui,Costa Rica,Puerto Viejo de Sarapiqui,,0,"300 M Norte Del Hogar De Ancianos, La Virgen Northern Mountain Zone / Arenal"
+,Makanda By The Sea Manuel Antonio,Costa Rica,Manuel Antonio,,0,800 Mts Oeste Del Hotel La Mariposa
+,Backyard Hotel Puerto Limon,Costa Rica,Puerto Limon,,0,Playa Hermosa 4km Playa Jaco - Jaco
+,Arenal Kioro Suites and Spa La Fortuna,Costa Rica,La Fortuna,,0,"164-417 La Fortuna, San Carlos - Fortuna "
+,Hacienda Pinilla Beach Resort,Costa Rica,Tamarindo,,0,"5150 Playa Avellanas, Santa Cruz Guanacaste - Guanacaste - North Pacific Coast"
+,Tamarindo Beach Cabinas,Costa Rica,Tamarindo,,0,"Langosta Road in front of, Kahiky and next to, Chun's Chinese Restaurant"
+,Garden Court Hotel & Casino,Costa Rica,Alajuela,,0,1000 Airport Blvd
+,Best Western Tamarindo Vista Villas Jaco,Costa Rica,Jaco,,0,"Calle Principal 1000,Playa Tamarindo Tamarindo"
+,Villa Caletas Playa Herradura,Costa Rica,Playa Herradura,,0,2km. South From Punta Leona Main Entrance Central Pacific - Puntarenas
+,Cariblue,Costa Rica,Tortuguero,,0,"1,5 Kms Al Sur De Pto.Viejo De Talamanca - Tortuguero"
+,Rancho Margot La Fortuna,Costa Rica,La Fortuna,,0,"El Castillo, San Isidro De Penas Blancas, San Ramo - Arenal"
+,Hotel Poas Volcano Lodge,Costa Rica,Vara Blanca,,0,"Vara Blanca, San Jose 31698"
+,Hotel Finca Valverde Monteverde,Costa Rica,Monteverde,,0,Santa Elena Cloud Forest Reserve
+,Backpacker's Hostel Montelena,Costa Rica,Monteverde,,0,25 Metros Oeste Del Banco Nacional
+,City One,Costa Rica,San Jose,,0,"09 Avenue, Central Street"
+,Tierras Enamoradas Ciudad Quesada,Costa Rica,San Ramon,,0,Route 272
+,Finca Luna Nueva Lodge La Fortuna,Costa Rica,La Fortuna,,0,San Isidro Penas Blancas - Arenal
+,Suerre Caribbean Beach,Costa Rica,Puerto Viejo de Sarapiqui,,0,Frente A Punta Uva - Tortuguero
+,Hotel Zelandia,Costa Rica,Colonia dos Rios,,0,Finca Nueva Zelandia
+,The Chocolate Hotel,Costa Rica,Tamarindo,,0,"50 Meters East From Stella Restaurant, Playa Tamarindo, Guanacaste, Costa Rica
+"
+,Casa Corcovado Jungle Lodge Drake Bay,Costa Rica,Drake Bay,,0,Corcovado
+,Hotel Villa Lapas Rainforest Eco Resort,Costa Rica,Playa Herradura,,0,185-4021 Orotina
+,Gran C Rica Ascend Collection,Costa Rica,San Jose,,0,CALLE 3 Avenida Central y SegundaSan Jose 1000
+,Arenal Springs,Costa Rica,Nuevo Arenal,,0,7km Western From La Fortuna
+,Arenal Springs La Fortuna,Costa Rica,La Fortuna,,0,Apdo: 99-4417
+,Hotel Villas Rio Mar,Costa Rica,Dominical,,0,PO Box 185-8000
+,El Manantial Lodge,Costa Rica,San Jose,,0,San Gerardo de Dota
+,Apartotel Los Yoses Orosi,Costa Rica,Orosi,,0,De la Fuente de la Hispanidad 125 Mts Oeste Barrio
+,Bahia del Sol Potrero,Costa Rica,Potrero,,0,Playa Potrero - Santa Cruz 1
+,Sol Samara Samara,Costa Rica,Samara,,0,Playa Samara
+,Arenal Nayara La Fortuna,Costa Rica,La Fortuna,,0,600 Mts NORESTE DEL HOTEL Volcano Lodge
+,Suites De Luxe Costa Rica,Costa Rica,Santa Ana,,0,"Avalon Country Club, Destello"
+,La Posada Tamarindo,Costa Rica,Tamarindo,,0,"2km Oeste Cruce De Villareal,carretera A Tamarindo"
+,Premier Fiesta Resort & Spa,Costa Rica,Playa Panama,,0,"Playa Arenilla, Golfo De Papagayo"
+,Hotel Ambassador Cariari,Costa Rica,Cariari,,0,Th And 38 Th Street 26
+,L'Acqua Viva,Costa Rica,Bagaces,,0,Playa Guiones Nosara
+,Villas Sol Hotel & Beach Resort Santa Teresa,Costa Rica,Puerto Coyote,,0,Promotora La Costa; Playa Hermosa
+,Villas Club Las Palmas,Costa Rica,La Virgen,,0,506 50 Mts Al Norte Del Ebais De Chilamate
+,Arenal Volcano Hostel,Costa Rica,La Fortuna,,0,500 Mts Norte Banco Nacional
+,Giada Nicoya,Costa Rica,Nicoya,,0,Playa Samara / Nicoya - Playa Samara
+,Belmar Hotel Santa Teresa,Costa Rica,Santa Teresa,,0,Monteverde Costa Rica
+,Punta Islita Hotel San Jose,Costa Rica,San Jose,,0,PO Box 242-1225 Plaza Mayor
+,Mirador Osa Osa,Costa Rica,Osa,,0,"Los Mogos de Sierpe,18 km del Chacarita Carretera a Puerto Jimenez"
+,Arenal Jireh,Costa Rica,La Fortuna,,0,150 Mtrs.Oeste Del Parque Central La Fortuna
+,Villas Rio Mar Manuel Antonio,Costa Rica,Manuel Antonio,,0,Playa Dominical
+,Cristal Ballena Resort,Costa Rica,Caldera,,0,"7km al Sur de Uvita, Osa Playa Ballena"
+,Reserva Conchal Beach Resort Golf & Spa,Costa Rica,Siquirres,,0,Cabo Velas; Santa Cruz
+,Occidental El Tucano & Spa Aguas Zarcas,Costa Rica,Ciudad Quesada,,0,La Marina San Carlos
+,De Campo Cano Negro,Costa Rica,Cano Negro,,0,"Cano Negro Los Chiles, Guanacaste, Cr"
+,Villa Pochote,Costa Rica,Montezuma,,0,"Calle Linda Vista, Montezuma"
+,Beacon Escazu,Costa Rica,Alajuela,,0,150 Meters West Of Bcr Bank
+,La Foresta Nature Resort Quepos,Costa Rica,Quepos,,0,200M Norte del Aeropuerto Quepos
+,La Condesa Hotel,Costa Rica,Escazu,,0,"San Rafael Ctra. , Ctra. De La Monte De Cruz"
+,Sol Samara,Costa Rica,Samara,,0,South and 250 m East from the
+,Bahia Del Sol Beach,Costa Rica,Playa Flamingo,,0,2km Oests National Bank At The
+,Villas Hermosa Heights,Costa Rica,Playa Hermosa,,0,Playa Hermosa
+,Marbella Hotel Jaco,Costa Rica,Playa Herradura,,0,Los5 Suenos Marina Village
+,Savegre Hotel De Montana,Costa Rica,San Gerardo de Dota,,0,1 Km Al Sur De La Escuela La Lidia
+,Guanamar Beach Resort,Costa Rica,Dominical,,0,Playa Carrillo Guanacaste
+,Villa Nacara,Costa Rica,Tamarindo,,0,Villareal - Hernandez
+,Royal Heights Nicoya,Costa Rica,Jicaral,,0,Jicaral
+,Monarch Resort Playa Hermosa,Costa Rica,Playa Panama,,0,Boulevard De Papagayo Papagayo
+,Hacienda Guachipelin Guanacaste,Costa Rica,Bagaces,,0,Rincon De La Vieja Rincon De La Vieja
+,Sol Papagayo,Costa Rica,Culebra,,0,Papagayo Gulf Northern
+,Finca Rosa Blanca Coffee Plantation and Inn,Costa Rica,Santa Barbara,,0,1km west from Britt Coffee Distribution Santa Barbara de
+,El Sesteo All Suites,Costa Rica,San Jose,,0, Sabana
+,Le Cameleon Hotel Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,Puerto Viejo
+,Costa Verde Manuel Antonio,Costa Rica,Manuel Antonio,,0,3 Miles from the village of Quepos
+,The Bed & Breakfast the Rock,Costa Rica,San Jose,,0,950mts north from the Embassy of the USA
+,Kekoldi Beach Hotel,Costa Rica,Quepos,,0,From Quepos 2.5 Miles Main Road To Manuel Antonio National Park
+,HERMOSA DEL MAR Siquirres,Costa Rica,Siquirres,,0,"Playa Hermosa, Guanacaste"
+,GUANAMAR Puerto Carrillo,Costa Rica,Samara,,0," 1,5 km south and 1,5 km west from La FortunaA´s Ca,"
+,Los Suenos Rentals Playa Herradura,Costa Rica,Playa Herradura,,0,"800mts West Herradura Road, Puntarenas, Costa Rica"
+,Zancudo Beach Resort,Costa Rica,Zancudo,,0,"Playa Zancudo; Golfito; Puntarenas
+ "
+,Isolina Beach Hotel,Costa Rica,Culebra,,0,"200 Mts Bar La Perla, Playa Potrero, Santa Cruz / Guanacaste"
+,Hotel Conchal,Costa Rica,Culebra,,0,"Conchal Hotel, 200 M Sur Escuela, Playa Brasilito / Guanacaste"
+,Lapa Rios,Costa Rica,Carate,,0,"Pen Nsula De Osa, Playa Carbonera"
+,Claro de Luna Puntarenas,Costa Rica,Pitahaya de Puntarenas,,0,Santa Elena de Monteverde
+,Hotel Kamuk,Costa Rica,Quepos,,0,"Central Avenue, across the street from the ocean PO Box: 18-635"
+,Trapp Family Lodge Monteverde,Costa Rica,Monteverde,,0,Santa Elena
+,Pacuare Lodge Turrialba,Costa Rica,Turrialba,,0,Pacuare Lodge
+,Tierras Enamoradas Santo Domingo,Costa Rica,San Isidro,,0,Route 272 32 km from San Ramom to La Fortuna
+,Hotel Le Chameleon,Costa Rica,Puerto Viejo de Talamanca,,0,De La Torre Ice 500 Metros Sur Y 250 Metros Este
+,Hotel Plaza San Jose,Costa Rica,San Jose,,0,Central Avenue between 2nd and 4th street
+,Banana Azul,Costa Rica,Tortuguero,,0,Puerto Viejo de Talamanca - Tortuguero
+,Quinta del Sol,Costa Rica,Nicoya,,0,Residencial Rio Santo
+,Occidental El Tucano & SPa,Costa Rica,San Carlos,,0,Aguas Zarcas
+,Hotel Tamarindo Diria Beach,Costa Rica,Liberia,,0,Calle Principal
+,Allegro Papagayo Alajuela,Costa Rica,Marsella,,0,"Playa Manzanillo, Liberia, Golfo de Papagayo, Guanacaste. Costa Rica"
+,Rio Celeste Posada Rural,Costa Rica,San Rafael de Guatuso,,0,"100 norte, 200 este de la escuela Rio Cel, Guatuso Alajuela,CR"
+,La Ruka Hostel,Costa Rica,Puerto Viejo de Talamanca,,0,400 meters passed Salsa Brava
+,Alma Del Pacifico,Costa Rica,Parrita,,0,Playa Esterillos Este
+,Hacienda Guachipelin Buenos Aires,Costa Rica,Buenos Aires,,0,22 Kilometros Al Norte De Liberia
+,Best Western Ecoplaya,Costa Rica,La Cruz de Guanacaste,,0,Bahia Salinas - Playa La Coyotera 2228-7146
+,Catalinas Beach Hotel Potrero,Costa Rica,Potrero,,0,Playa Prieta
+,Hostal Kontiki,Costa Rica,Tamarindo,,0,"500m N de la, Plaza, Los Pargos,Paraiso, Sta Cruz"
+,Oceans Bahia Azul,Costa Rica,Jaco,,0,"Calle Bohio 50 Mts West, Jaco, Costa Rica"
+,El Cafetal Inn Hotel,Costa Rica,Atenas,,0,"105 Atenas Santa Eulalia of Atenas, Costa Rica "
+,Casa Marbella,Costa Rica,Marbella,,0,San Juanillo
+,Corcovado Pura Vista Eco Camp,Costa Rica,Drake Bay,,0,"Bahia Drake, Peninsula de Osa"
+,Rancho Casa Grande Quepos,Costa Rica,Quepos,,0,"Quepos, 200 Km Al Norte Del Aeropuerto"
+,Arenal Paraiso Hotel & Spa,Costa Rica,Ciudad Quesada,,0,"8 Km De La Fortuna, Arenal"
+,Mediterraneus Hotel And Spa,Costa Rica,Siquirres,,0,400 Meters East From Potrero Downtown
+,B W San Jose - Grupo Marta,Costa Rica,Moravia,,0,"Avenida 7, Calles 6 Y 8"
+,La Colina Hotel,Costa Rica,La Fortuna,,0,Manuel Antonio
+,Casa Conde Del Mar San Jose,Costa Rica,San Jose,,0,Playa Panama - 68240
+,Playa De Las Palmas,Costa Rica,Playas del Coco,,0,Centro Commercial El Pueblito
+,Hotel Vista del Valle,Costa Rica,El Rosario de Naranjo,,0,"Calle Indio, El Rosario de Naranjo."
+,El Nakuti Resort,Costa Rica,Playa Flamingo,,0,Golfo De Papagayo
+,Canyon De La Vieja Lodge Culebra,Costa Rica,Culebra,,0,Rincon De La Vieja Mountains
+,Magica Cantarrana Hotel,Costa Rica,San Jose,,0,Playa Samara - Guancaste
+,Santa Teresa Sunset Villas,Costa Rica,Santa Teresa,,0,Playa Carmen & Santa Teresa
+,Mini Hostel Malpais,Costa Rica,Santa Teresa,,0,"500 mts north, and after the first bridge, 100 m, Mal Pais Santa Teresa"
+,Hacienda Pinilla Vacation Rentals,Costa Rica,Tamarindo,,0,"Carretera Tamarindo, 3 km south"
+,Hotel California Manuel Antonio,Costa Rica,Manuel Antonio,,0,2 Kilometers main road to
+,Hostel Sinai,Costa Rica,Monteverde,,0,150 mts from Down Town Sata Elena
+,Hotel Recreo Culebra,Costa Rica,Culebra,,0,"800 West Playa Rejada, Liberia 00000"
+,Flamingo Marina Resort,Costa Rica,Nuevo Arenal,,0,Centro De Flamingo
+,Condominios Monaco,Costa Rica,Jaco,,0,"Jaco Downtown, 50 mts east from KFC"
+,Bello Horizonte Jungle Hostel,Costa Rica,Puerto Jimenez,,0,"Calle la Balsa, Puerto Jimenez"
+,Casa Caletas,Costa Rica,Caldera,,0,Punta Coyete en Guanacaste
+,Coloso del Arenal La Fortuna,Costa Rica,La Fortuna,,0,1 km este del parque central de La Fortuna
+,Mirador Lodge Hotel,Costa Rica,Santa Teresa,,0,Cloud Forest Monteverde Costa Rica
+,Tropicana Hotel,Costa Rica,Tamarindo,,0,Tamarindo Beachfront St
+,Hotel Villas del Papagayo Playa Panama,Costa Rica,Playa Panama,,0,Playa Panama
+,Chill Out Backpackers,Costa Rica,La Fortuna,,0,San Carlos
+,De Lucia Inn Hotel Monteverde,Costa Rica,Monteverde,,0,"Cerro Planno, Monteverde, Costa Rica 
+"
+,Shangri la Hostel,Costa Rica,Cahuita,,0,Contiguo Estacion de Autobuses
+,Casa Camarona,Costa Rica,Puerto Viejo de Talamanca,,0,Cocles Beach Puerto Viejo
+,Condo Amazing Ocean Views,Costa Rica,Samara,,0,800mts Camino Hacia Playa Carrillo Condominio Veneto
+,Veranda Hotel Jaco,Costa Rica,Playa Herradura,,0,Los6 Suenos Marina Village
+,Bahia Encantada,Costa Rica,Jaco,,0,Costa Pacifico Central - san jose
+,Hotel H&B Cabinas & Restaurante,Costa Rica,Tambor,,0,"Carretera a Cobano, playa Tambor Puntarenas"
+,Esencia Santa Teresa,Costa Rica,Santa Teresa,,0,Santa Teresa Mal Pais
+,Puerto Carrillo Hotel Nicoya,Costa Rica,Nicoya,,0,25 Mt Oeste Iglesia
+,Best Western San Jose Downtown,Costa Rica,Tibas,,0,"7 Ave, 6-8 Street, San Jose, Costa Rica"
+,Whales And Dolphins,Costa Rica,Jaco,,0,"Playa Uvita , Playa Uvita, Costa Rica,"
+,Casa Bavaria,Costa Rica,Alajuela,,0,"From the main junction in Carrizal, 500m on the road to the Poas Vulcano."
+,Hotel Rancho Cerro Azul,Costa Rica,La Fortuna,,0,"1 km sur y 600 metros oeste de la Iglesia Catolica de La Fortuna, San Carlos."
+,Lake Arenal Hotel and Microbrewery,Costa Rica,Naranjos Agrios,,0,"km. 30, Route 142, Tilaran, Guanacaste"
+,Cabinas Arrecife,Costa Rica,Cahuita,,0,100 al este y 25 metros al sur de la Estacion de policia
+,Piscina Natural,Costa Rica,Cahuita,,0,Playa Negra
+,Villa Andalucia Designer Hotel,Costa Rica,Tamarindo,,0,250 Meters East of Condos Pueblo del Mar
+,Hotel Moctezuma,Costa Rica,Montezuma,,0,Montezuma downtown
+,Hostel Gran Imperial,Costa Rica,San Jose,,0,Calle 8 y Avenida 1
+,Costa Rica Surf Camp by SUPERbrand,Costa Rica,Jaco,,0,150 Meters Southwest Of Municiplaity Jaco Located At Morgans Cove Resort & Casino On The Beach
+,Mango Moon Hotel,Costa Rica,Manuel Antonio,,0,200 meters Oeste from the entrance of Hotel la Mariposa
+,Cabinas Chale,Costa Rica,Playas del Coco,,0, 600mts Norte Del Bar Lizard
+,Cabinas El Sueno,Costa Rica,Parrita,,0,200 Oeste de la RTV (revision tecnica vehicular) de Parrita
+,Hotel Don Robert,Costa Rica,Puntarenas,,0,"Costado norte de la Catedral, contiguo Escuela Delia"
+,Hotel Rio Piedras,Costa Rica,Naranjos Agrios,,0,Route 142 Halfway Between Tilaran And Nuevo Arenal
+,Hotel Rancho De La Playa,Costa Rica,Samara,,0,25 metros oeste de Casa Paraiso
+,Casitas Las Flores,Costa Rica,Puerto Viejo de Talamanca,,0,"Casa Amma Road, Playa Negra"
+,Hotel Maribu Caribe,Costa Rica,Puerto Limon,,0,Del hospital Tonifacio 4km al norte carretera asi a Moin
+,Hotel Villas Vista Arenal,Costa Rica,La Fortuna,,0,800 metros oeste de la Iglesia Catolica
+,Hotel El Pequeno Gecko Verde,Costa Rica,Samara,,0,Hotel El Pequeno Gecko Verde - Cantarrana
+,Cabinas El Muellecito,Costa Rica,Tortuguero,,0,Barra de Tortuguero frente al muelle principal
+,Hotel Gran Arenal,Costa Rica,La Fortuna,,0,1.3 KM North of National Bank
+,Cabinas El Colibri,Costa Rica,Puerto Carrillo,,0,"50 meters Este de la Iglesia de Puerto Carrillo, Hojancha, Guanacaste"
+,Hotel Playa Bonita,Costa Rica,Puerto Limon,,0,Playa Bonita
+,Hotel Las Orquideas Jaco,Costa Rica,Jaco,,0,Monteverde
+,Hotel Sierra Arenal,Costa Rica,La Fortuna,,0,"300 metros Oeste de la Iglesia Catolica, Camino al Volcan"
+,Royal Heights,Costa Rica,Jicaral,,0,100 metros sur Plaza del Toros
+,Playa Hermosa Lodge,Costa Rica,Jaco,,0,"Calle Hermosa, Playa Hermosa, Puntarenas"
+,Funky Manza Hostel,Costa Rica,Manzanillo,,0,"In Front of the beach, near the bus station"
+,Hotel Calle de Alcala,Costa Rica,Santa Cruz,,0,Santa Cruz
+,Hotel Vista Hermosa Playa Hermosa,Costa Rica,Playa Hermosa,,0,"Playa hermosa, de la plaza de futbol 300 mts sur sobre carretera principal"
+,Hotel Cayuga,Costa Rica,Puntarenas,,0,Puntarenas centro 50 metros sur de la bomba Acon
+,Mirador del Mar,Costa Rica,Esterillos,,0,Costanera
+,Cabinas Ostional,Costa Rica,Ostional,,0,35m costado Sur Plaza de Deportes de Ostional 
+,Vista Guapa Surf Camp,Costa Rica,Jaco,,0,1ra Entrada A Jaca3 250 Metros Este Y 300 Metros Noreste En Las Lomas
+,Hotel Paso Caribe,Costa Rica,Puerto Limon,,0,Bufalo - Limon ruta 32
+,Centro Turistico Playa Blanca,Costa Rica,Osa,,0,Playa Blanca De Puerto Jimenez
+,Hotel Palmeras Carrillo Beach,Costa Rica,Puerto Carrillo,,0,Costado este soccer Field Puerto Playa Carrillo
+,La Perla del Golfo,Costa Rica,Playa Tamarindo,,0,Playa Naranjos 1 Km despues del Ferry Camino a Jicaral
+,Gecko House,Costa Rica,Ostional,,0,Route 907
+,Hotel Sue,Costa Rica,La Fortuna,,0,De La Iglesia Catolica 4 Kms Carr Hacia El Volcan Northern Mountain Zone / Arenal
+,The Goddess Garden Eco-Resort,Costa Rica,Cahuita,,0,Playa Grande
+,Turtlehouse B&B,Costa Rica,Ostional,,0,400mE Hotel Luna Azul 400mN
+,Casa Bougainvillea Jaco,Costa Rica,Playa Hermosa,,0,"Residential Opera Salvaje, 19A"
+,Hotel Pepito's Place,Costa Rica,La Fortuna,,0,75 metros de la oficina de Alamo rental cars
+,Hotel Villa Adra,Costa Rica,Tamarindo,,0,Playa Avellanas
+,La Josefina,Costa Rica,Tamarindo,,0,Villa Real
+,Hotel SueA+-o EspaA+-ol,Costa Rica,Escazu,,0,Calle vieja a Santa Ana Contiguo subestaciA³n ICE
+,Sue,Costa Rica,La Fortuna,,0,De La Iglesia Catolica 4 Kms Carr Hacia El Volcan Northern Mountain Zone / Arenal
+,Luxury Condominio Coco 22,Costa Rica,Jaco,,0,Villas del Paraiso
+,Los Amigos,Costa Rica,Tortuguero,,0,Costado sur del colegio de Tortuguero
+,502 S Tres Regalos,Costa Rica,Jaco,,0,Jaco Beach
+,Vihara Rentals,Costa Rica,Montezuma,,0,Calle Linda Vista
+,Casa Vista del Mar,Costa Rica,Playa Langosta,,0,150 meters North from Supermercado Langosta
+,Casa Batsu,Costa Rica,Monteverde,,0,"Los Llanos Street, 606. 100 meters East from El Tubu Gas Station"
+,Hostel Casa Celeste,Costa Rica,Monteverde,,0,Monteverde
+,Villa Aragon,Costa Rica,Puerto Viejo de Talamanca,,0,"calle del hotel VIP, segunda casa a mano izquierda."
+,Vista Al Mar Lodge,Costa Rica,Tortuguero,,0,Jaime Palma frente a la estacion biologica
+,Hotel Papa de Paramo,Costa Rica,San Gerardo de Dota,,0,San Ramon Sur de Paramo en Perez Zeledon
+,Hotel Villas Playa Samara Nosara,Costa Rica,Nosara,,0,Playa Samara
+,Elizondo's House,Costa Rica,Barva,,0,San Pablo de Barva
+,Villa Hermosa,Costa Rica,Playa Azul,,0,4 km Sur de Marbella at Playa Azul
+,Hotel y Cabina los Suenos,Costa Rica,Samara,,0,150 metros al oeste del Banco Nacional de Costa Rica camino hacia playa Cangrejal
+,Cocomarindo Gated Community - 1 bed Apt,Costa Rica,Playas del Coco,,0,Cocomarindo Community Playas del Coco
+,Ojo del Mar,Costa Rica,Puerto Jimenez,,0,Pto. Jimenez
+,Hostel HP,Costa Rica,Tamarindo,,0,Cruce de Langosta 10 m mano izq frente al bar Falafel
+,Manta Raya,Costa Rica,Santa Teresa,,0,1000m del Cruce Mal Pais Santa Teresa y a 200m del Super Fresco
+,Hospedaje El Bosquecito,Costa Rica,Uvita,,0,500 m. este del BCR
+,Duende de Oro,Costa Rica,Ojochal,,0,Calle Buganvilla
+,Cabinas Carrillo,Costa Rica,Puerto Carrillo,,0,50mE del Antiguo Mirador
+,Chez Mu Luxury Villa,Costa Rica,Montezuma,,0,1 km road towards Las Delicias
+,Cabinas el Tuete,Costa Rica,Monterrey,,0,"600mts Norte, 800mts Este, 1600mts Norte, Del Spring Resort, La Fortuna de San Carlos"
+,Hotel y Parque Acuatico La Boya,Costa Rica,Santa Cruz,,0,Del cruce de Huacas 800 metros Sur
+,Sandy Bottoms Costa Rica,Costa Rica,Santa Teresa,,0,50 Meters East of Rocamar Restaurant
+,The Kinkajou Hut,Costa Rica,Puerto Jimenez,,0,"La Choza del Manglar, 150 m oeste del aeropuerto"
+,The Milarepa,Costa Rica,Santa Teresa,,0, 2 Km Norte De La Plaza De Futbol
+,Riu Palace Costa Rica Culebra,Costa Rica,Culebra,,0,Playa Matapalo - Sardinal / Guanacaste
+,Christina's Bar & Grill Hideaway,Costa Rica,Potrero,,0,Calle Naranja S/N
+,Monkeys Guest House Vacation Rental,Costa Rica,Quepos,,0,25 N.W. Calle Estero de Damas
+,Villas Rio Ora,Costa Rica,Samara,,0,4 Km Antes Del Centro De Playa Samara
+,Feliz Vida,Costa Rica,Jaco,,0," Street Jerusalem, In Contiune The Ice Factory"
+,Casa Miramar Potrero,Costa Rica,Playa Flamingo,,0,Playa Flamingo
+,Senderos de Paz,Costa Rica,Santa Teresa,,0,1 Playa Hermosa / Manzanillo Beach Road
+,The Mango Tree Villas and Spa,Costa Rica,Ojochal,,0,200 meters after the walking bridge over Rio Coronado
+,The Gilded Iguana,Costa Rica,Nosara,,0,Playa Guiones
+,Club del Mar Condo Resort Jaco 18,Costa Rica,Jaco,,0,Club del Mar
+,The Hummingbird,Costa Rica,Quepos,,0,Valle Pura Vida
+,Condo Palmas,Costa Rica,Tamarindo,,0,50 meters East from Supercompro
+,Villas Costa Grande Casa Sol,Costa Rica,Playa Grande,,0,400 meters north-west from Kieke Restaurant
+,Casa Verona,Costa Rica,Quepos,,0,En la Cuesta de Chito a la par del Hotel 3 Banderas
+,Hotel Montezuma Pacifico,Costa Rica,Montezuma,,0,A costado suroeste de la iglesia catolica
+,Monkey Hut,Costa Rica,Puerto Jimenez,,0,La Choza del Manglar
+,Hotel Casa de Palma Coco,Costa Rica,Playas del Coco,,0,"Del Bar restaurante Lizard 200 m N ,Playa del Coco"
+,Macaws Ocean Club Jaco Rentals No 2,Costa Rica,Jaco,,0,"Jaco, Costa Rica"
+,Casa Estrella Playa Hermosa,Costa Rica,Culebra,,0,Peninsula Papagayo
+,Villa Verde 2 Tamarindo,Costa Rica,Tamarindo,,0,Condominio Villa Verde 2
+,Martin Pescador House,Costa Rica,Playas del Coco,,0,Urbanizacion Mapache
+,Odreman Suites Costa Rica,Costa Rica,Belen,,0,"350 SW Fresh Market La Marina Avenue, Ciudad Cariari, Belén,, San Antonio"
+,Surf Inn Hermosa,Costa Rica,Playa Hermosa,,0,500 Meters South of Pochotal School
+,Amapola Surf Village,Costa Rica,Santa Teresa,,0,"100 metros norte desde la cancha de futbol, en frente a Brunela Hostel"
+,Emerald Abode,Costa Rica,Santa Teresa,,0,Northern Santa Teresa Hhillside property
+,El Portico Costa Rica,Costa Rica,Barva,,0,4 Km Este Del Cruce De Barva Birri
+,Villa Mar Y Sol,Costa Rica,Quepos,,0,Valle Pura Vida
+,Coco54,Costa Rica,Jaco,,0,Condominimum Villas del Paraiso
+,Hotel Nacazcol and Beach Club,Costa Rica,Sardinal,,0,Located Just 04 Kilometers
+,Hotel Tilawa,Costa Rica,Naranjos Agrios,,0,Tilaran
+,Costa Rica Holiday Homestays,Costa Rica,Herradura,,0,San Gerardo de Rivas
+,Hotel Novelty Playa,Costa Rica,Puerto Viejo de Talamanca,,0,"Playa negra, 50 metros oeste de hotel Banana Azul"
+,Panacea de la Montana,Costa Rica,Tamarindo,,0,"Tamarindo Guanacaste, Costa Rica"
+,Hotel Las Brisas del Pacifico,Costa Rica,Samara,,0,Playa 
+,Cabinas Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,Puerto Viejo de Limon; 200 mts del centro pasando por Playa Salsa Braba contiguo al Restaurante Elena Brown
+,Harry's El Escondite,Costa Rica,Tamarindo,,0,Cabinas El Escondite
+,Aracari,Costa Rica,Tortuguero,,0,100 metros Este y 50 metros Sur del muelle
+,Hotel Quetzal Inn,Costa Rica,Monteverde,,0,"Santa Elena, del Banco Nacional 50 mtrs al este santa elena monteverde costa rica, 60109 Monteverde"
+,Villas Escondidas,Costa Rica,Grecia,,0,200 metros oeste Pulperia Y con Puente Piedra
+,Hotel Healthy Day Inn,Costa Rica,Grecia,,0,100 Metros Sur Del Mall Plaza Grecia
+,Hotel Tapanti Media,Costa Rica,Orosi,,0,"1.5 km sobre carretera principal de la iglesia colonial de Orosi, entrada a mano derecha"
+,Cabinas Los Almendros,Costa Rica,Puerto Viejo de Talamanca,,0,Detras de la estacion de policia
+,Hostel Boutique A Cachete,Costa Rica,San Pedro,,0,"8th Avenue, Max Jimenez Street. Los Yoses"
+,Cabinas Vista Miravalles,Costa Rica,Bijagua de Upala,,0,75 metros sur y 25 metros Oeste del Banco Nacional de Bijagua
+,Hotel Pacific San Jose,Costa Rica,San Jose,,0,"Avenida 2, Calles 38 - 40"
+,Eco Lodge Hotel Alajuela,Costa Rica,Nuevo Arenal,,0,"Lago Coter, Lago Arenal, Tilaran, Guanac Arenal, Alajuela, Costa Rica"
+,Hotel Villas Pepitas,Costa Rica,Samara,,0,200 West From Super Market Pali
+,Hostel Camping Rio Carmen,Costa Rica,Santa Teresa,,0,400 Mts Norte Del Cruce De Playa Carmen
+,Hotel Villas de la Colina,Costa Rica,Atenas,,0,Calle Plancillo S/N
+,Hotel & Resort Monte Escondido,Costa Rica,Boca Arenal,,0,4 Kilometros de Santa Teresa De Cutris
+,Dayka Complejo Turistico,Costa Rica,Santa Teresa,,0,"Plaza de Deportes de Playa Manzanillo, 600 metros al Sur"
+,Casa Sofia Caribbean Lodge,Costa Rica,Puerto Viejo de Talamanca,,0,Margarita s/n
+,Cabinas Mor,Costa Rica,Puerto Viejo de Talamanca,,0,"Puerto Viejo De Talamanca, Contiguo al Restaurante Miss Sam"
+,Ecopacific Santa Teresa,Costa Rica,Santa Teresa,,0,200 Meters North Of The Soccer Field Penansula De Nicoya
+,Zona Two,Costa Rica,San Jose,,0,Calle 3A Av 9 Barrio Amon Diagonal de INVU
+,Cabinas El Bosque,Costa Rica,Santa Teresa,,0,300mt North From The Soccer Field In Front Of Brunela Hostel
+,Villa Saint Tropez,Costa Rica,Uvita,,0,Bejuco Road
+,Gecko Rustik Lodge,Costa Rica,La Fortuna,,0,10 Km Al Ne De La Iglesia En Palma
+,Hotel y Restaurante Yare,Costa Rica,Puerto Viejo de Talamanca,,0,Playa Cocles Puerto Viejo Limon
+,Cabinas Arsol Fortuna,Costa Rica,Fortuna,,0,Esquina De La Ave 333 Y Calle 464
+,Guest Room Veranera,Costa Rica,Tambor,,0,"La Abuela de Cobano ,Tango Mar,lot # 49"
+,Casa Colores Montezuma,Costa Rica,Montezuma,,0,1 km de Montezuma
+,Blue River Resort Canas,Costa Rica,Aguas Claras,,0,Gavilan De Dos Rios Upala
+,Hotel Boutique Indalo Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,219A street
+,B&B La Finca,Costa Rica,San Isidro,,0,"500m North & 300m East of Plaza deportivo La Saca, San Francisco de San Isidro de Heredia"
+,Gary & Kathy's Caribbean Beach House,Costa Rica,Puerto Viejo de Talamanca,,0,100 Meters beyond Arrecife Restaurant
+,Hotel The Place Malpais,Costa Rica,Malpais,,0,"Cobano, Puntarenas, Costa Rica"
+,Big Wave Dave's Villa del Sol,Costa Rica,Nosara,,0,"Playas de Nosara, Nosara"
+,Playa Hermosa Inn,Costa Rica,Playa Hermosa,,0,Frente a Playa Hermosa
+,Condominios Jaco Bay,Costa Rica,Jaco,,0,"Jaco, Garabito, 1 km oeste de Maxi Pali"
+,Las Gaviotas Tamarindo,Costa Rica,Tamarindo,,0, 50 Metros Este De Oro Del Sol
+,El Patio Hostal & Camping,Costa Rica,Alajuela,,0,"Avenida 3, calles 7 y 5. 25 metros oeste de la estacion de bomberos de Alajuela"
+,Casa Colonial de Langosta,Costa Rica,Playa Langosta,,0,300 mts South from Hotel Capitan Suizo
+,Villa Hanny,Costa Rica,Parrita,,0,"Palo Seco Beach Road km 4.9, Palo Seco, Parrita, Puntarenas, Costa Rica"
+,2 Secluded Huts,Costa Rica,Osa,,0,400 Meters to Town Centre
+,Casa Mafalda,Costa Rica,Jaco,,0,Calle Hidalgo
+,Pura Vida Condo,Costa Rica,Puerto Carrillo,,0,Calle por Carrillo Defrente Punto Indio
+,Hacienda Tayutic Turrialba,Costa Rica,Turrialba,,0,En Turrialba Al Lado Del Volc 'N Iraz Y Y Turrialba San Jos ' / Central Valley
+,Country Club Suerre,Costa Rica,Guapiles,,0,"800 M Norte, Servicentro Santa Clara Guapiles"
+,Camp Supertramp Playa Samara,Costa Rica,Samara,,0,500 Meters Northeast Of Iguana Verde Supermercado Y Licorera / Camino Buena Vista
+,Cabinas Caracolas,Costa Rica,Malpais,,0,1 km a Mal Pais del Cruce de Playa Carmen
+,Casa Tus Peces Amarillos,Costa Rica,Potrero,,0,Calle Aguacate Km 3
+,Bombero Adventures B&B,Costa Rica,Playa Hermosa,,0,50 Meters South of Gingers Monte Bello Norte
+,Pacific Park 2,Costa Rica,Tamarindo,,0,Cruce de Playa Langosta
+,Casita Limon,Costa Rica,Atenas,,0,Barrio Fatima
+,Casa Montezuma,Costa Rica,Montezuma,,0,Montezuma
+,Ticalinda,Costa Rica,La Fortuna,,0,Calle 476 Av 319a
+,Cabinas Nelson,Costa Rica,Muelle de San Carlos,,0,Florencia San Carlos
+,Cabinas Elena Brown,Costa Rica,Puerto Viejo de Talamanca,,0,300 Sur Del Bar Lazy Mon Talamanca
+,Cariblue Beach & Jungle Resort,Costa Rica,Puerto Viejo de Talamanca,,0,117-7304 Playa Cocles 1 Km Sur De Puerto Viejo De Limon Puerto Viejo
+,Luxury Beach Colina 3,Costa Rica,Playa Herradura,,0,1 Los Suenos
+,Tempisque Eco Lodge,Costa Rica,Liberia,,0,4km Se De La Entrada Principal De Catsa Guardia Liberia Gte Cr
+,Daisyta City and Resort,Costa Rica,Liberia,,0,"Costado Sur del Estadio de Futbol, Casco Antiguo"
+,Hotel Loma Verde,Costa Rica,Ciudad Quesada,,0,Centro de Ciudad Quesada al norte 5kms pasa Alamacen Colono a su derecha 500 mts hasta pasar la plaza del pueblo
+,Casa David Nosara,Costa Rica,Nosara,,0,"Next to ""4 you hostal"" , Playa Guiones"
+,Hermosa Rentals,Costa Rica,Santa Teresa,,0,7 meters North of Malpais
+,Hotel & Club Punta Leona Puntarenas,Costa Rica,Puntarenas,,0,Garabito; Puntarenas; Costa Rica
+,Casa Fortuna La Fortuna,Costa Rica,La Fortuna,,0,Carretera a la Catarata
+,Nosara Verde,Costa Rica,Nosara,,0,"Nosara, guiones"
+,Avalon Country Club Santa Ana,Costa Rica,Santa Ana,,0,Santa Ana
+,Borinquen Mountain Resort,Costa Rica,Alajuela,,0,Apartado 108-5000
+,El Viandante Hotel B And B,Costa Rica,Bagaces,,0,Contiguo Hotel Sapo Dorado
+,Los Jardines Hotel,Costa Rica,Santa Teresa,,0,350 Metros Suroeste De La Escuela De Cero Plano Monteverde Costa Rica
+,Arenal Kioro Suites And Spa Punta Islita,Costa Rica,Punta Islita,,0,6 MI NW from La Fortuna
+,Fortuna Lodge,Costa Rica,La Fortuna,,0,Fortuna
+,Studio Los Almendros,Costa Rica,Montezuma,,0,3.5 km al sur de Montezuma
+,Art House La Floresta,Costa Rica,Playa Cabuya,,0,7km de Montezuma a Cabuya pasando el hotel Celaje
+,Mountain Forest House,Costa Rica,Santa Barbara,,0,"Barrio Jesus, Santa Barbara de Heredia"
+,Paradise Lodge,Costa Rica,San Rafael de Guatuso,,0,600 mts Este de La Escuela Delicias-Jicarrito
+,B W Irazu - Grupo Marta,Costa Rica,Cariari,,0,Km.3 Autopista General Canas
+,Casa Veranera,Costa Rica,Playa Grande,,0,50 meters east from Minae
+,Casa Arrecife - Tamarindo Beach,Costa Rica,Tamarindo,,0,Villa Verde Condos
+,Mi Casa es Tu Casa - Tamarindo Beach,Costa Rica,Tamarindo,,0,Sunrise Resort
+,La Flor,Costa Rica,Playa Cabuya,,0,7km de Montezuma a Cabuya pasando el hotel Celaje
+,Experience Avellanas Villas,Costa Rica,Tamarindo,,0,Despues de Hacienda Pinilla 6 kilometros camino a Playa Avellanas Despues Rotulo Mot Mot 150 al Sur a mano derecha
+,Casa Don Ciccio,Costa Rica,Puerto Viejo de Talamanca,,0,"Despues del Hotel Bananas, segunda entrada a mano izquierda"
+,Hummingbird Beach House,Costa Rica,Jaco,,0,"Playa hermosa, Puntarenas, Garabito"
+,Travelers Inn Heredia,Costa Rica,Heredia,,0,150MTS Oeste Entrada Arcos Ciudad Cariari
+,Villa Mariposa 4,Costa Rica,Tamarindo,,0,Plaza Conchal A1
+,Condominio Tropical Villa,Costa Rica,Jaco,,0,Avenida Pastor Diaz Contiguo al parque de Jaco Condominios Tropical 48
+,Casa de Cinema,Costa Rica,San Isidro de El General,,0,Dominicalito - Escaleras - Marina Visa
+,Hamaca Surf Camp,Costa Rica,Tamarindo,,0,200 metro a la par del restaurante el Pescador
+,Casa Gold Coast - Langosta Beach,Costa Rica,Playa Langosta,,0,Crystal Sands Langosta Paya Langosta
+,Cabinas Linda Vista Bed & Breakfast,Costa Rica,Monteverde,,0,Santa Elena Monteverde
+,Ecoplaya,Costa Rica,Culebra,,0,Bahia Salinas - Playa La Coyotera 2228-7146 / Guanacaste
+,Casa Conde San Jose,Costa Rica,San Jose,,0,68-2400
+,Hotel Robledal,Costa Rica,Naranjo,,0,500 Mts Oeste De La Iglesia Catolica Del Roble De Alajuela
+,Hotel Agapi Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,800 metros sur de Puerto Viejo camino a Playa Cocles
+,Flamingo Marina Resort Cabo Velas,Costa Rica,Playa Flamingo,,0,"P.O Box 321 - 1002, Guanacaste"
+,Lisatec Bed & Breakfast and Spanish School,Costa Rica,Belen,,0,"Ave la Marina, Calle La Ronda #99"
+,Samara Palm Lodge,Costa Rica,Samara,,0,200 m oeste del Banco Nacional
+,Playa Casa Matapalo,Costa Rica,Matapalo,,0,500m From Casa Aba Matapalo
+,Casa Trinidad,Costa Rica,Colon,,0,"Barrio La Trinidad, 50 mts al este de la Iglesia de La Trinidad"
+,Hotel Condor Lodge,Costa Rica,Cabo Velas,,0,"Matapalo, Santa cruz, Guanacaste."
+,Tabacon Grand Spa Thermal Resort Fortuna,Costa Rica,Fortuna,,0,La Fortuna De San Carlos Alajuela
+,Ahki Retreat,Costa Rica,Nosara,,0,"Garza, Las Delicias"
+,Cabins La Pura Esquina,Costa Rica,Puerto Jimenez,,0,Segundo Piso de Almacen El Gollo
+,Pacifico Condominiums,Costa Rica,Playas del Coco,,0,"Coco Beach, 20 miles from the international Airport"
+,Playa Grande Inn,Costa Rica,Playa Grande,,0,Playa Grande
+,Hotel Osa Palmar Norte,Costa Rica,Palmar Norte,,0,"Calle Central del Comercio, Palmar Norte, Puntarenas"
+,Casa Oro del Sol,Costa Rica,Tamarindo,,0,"Del Centro comercial plaza Conchal, 800 metros al este y 200 al sur"
+,Endless Summer - Tamarindo Beach,Costa Rica,Tamarindo,,0,Sunrise Resort
+,Surf Paraiso,Costa Rica,Santa Teresa,,0,"700 meters from Crossroads, Cobano"
+,Guest Room Amapola,Costa Rica,Tambor,,0,La Abuela de Cobano Tango Mar Lote #49
+,Beach Front Paradise Villa,Costa Rica,Santa Teresa,,0,Playa carmen (Luz de Vida)
+,Casa Panasa,Costa Rica,Playas del Coco,,0,300 Meters West From Post Office
+,Casa Caletas Bagaces,Costa Rica,Bagaces,,0,"Punta Coyote , Golfo De Nicoya, Pacifico Norte 1"
+,Eladio's Place,Costa Rica,Canas Dulces,,0,"12 kms al norte de Liberia sobre la ruta 1 se localiza la interseccion a Canas Dulces, continua 500 metros mas hacia al"
+,MotMot Surf B&B,Costa Rica,Tamarindo,,0,From San Jose de Pinilla 3km west and 200 meters south. Sign on main road entrance
+,In the Shade Tamarindo,Costa Rica,Tamarindo,,0,Calle Corona Between Ret La Baula and Dragonfly
+,Fiesta Resort and Casino,Costa Rica,Puntarenas,,0,El Roble
+,Cabinas Don Carlos,Costa Rica,Playas del Coco,,0,De la iglesia Catolica 75 metros suroeste
+,Hotel Tree House Monteverde,Costa Rica,Monteverde,,0,Frente a la iglesia catolica de Santa Elena
+,Cabinas Princesa del mar,Costa Rica,Tortuguero,,0,50 Metros Al Oeste De La Estacion De Policia
+,Casa Kristell,Costa Rica,Puerto Viejo de Talamanca,,0,Playa Negra de Puerto Viejo a un Costado del Super La Violeta
+,Novaloft,Costa Rica,Santa Ana,,0,Calle Margarita Norte S N
+,Mar Inn Hotel Santa Teresa,Costa Rica,Santa Teresa,,0,400 Mts North National Bank Santa Elena Monteverde Puntarenas Costa Rica
+,Frijoles Locos Surf & Spa,Costa Rica,Playa Grande,,0, 25 Metros Oeste De La Escuela
+,Cormoran10,Costa Rica,Playas del Coco,,0,Playas del Coco
+,Casa Serena Playa Grande,Costa Rica,Playa Grande,,0,Parque Nacional Marino Las Baulas
+,Daystar Bahia Azul Parrita,Costa Rica,Parrita,,0,Pastor Diaz Avenue Morales St
+,Si Como No - Ep,Costa Rica,Alajuela,,0,Manuel Antonio Quepos Costa Rica
+,Villas del Caribe Puerto Viejo de Sarapiqui,Costa Rica,Puerto Viejo de Sarapiqui,,0,Puerto Viejo
+,Sweet Conchal,Costa Rica,Brasilito,,0,100m Norte del Colegio Country Day
+,Tortuguero Dorms,Costa Rica,Tortuguero,,0,In front of the Tortuguero High School
+,Casa de Serenidad,Costa Rica,Playa Flamingo,,0,800 meters west of the Flamingo Marina Resort Hotel
+,Hotel Luna Llena Siquirres,Costa Rica,Siquirres,,0,1 Calle Real Playa Tamar
+,Tropical Bed & Breakfast,Costa Rica,Alajuela,,0,"Las Llanos, La Garita, Alajuela, Costa Rica 20113"
+,Camping Villa Cala,Costa Rica,Alajuela,,0,Rio Segundo del supermercado la Julieta 125 metros sur casa del Dr Ardon
+,Guapinol 6,Costa Rica,Playa Langosta,,0,Villa Guapinol 6
+,Hostel & Cabinas Secret Garden,Costa Rica,Cahuita,,0,Frente al Restaurante tipico Cahuita.
+,Rental in Paradise,Costa Rica,Atenas,,0,Barrio los angeles
+,Espadilla Ocean Club,Costa Rica,Manuel Antonio,,0,"Espadilla Ocean Club, Playa Manuel Antonio"
+,Divisamar Hotel And Casino,Costa Rica,Palmar Norte,,0,Calle Manuel Antonio 82
+,New Earth Springs Farm,Costa Rica,Alajuela,,0,Rio Segundo
+,Villa Le Mas,Costa Rica,Escazu,,0,Calle Hoja Blanca
+,El Arbol,Costa Rica,Manzanillo,,0,350m Oeste De Centro Vacacional Recope
+,Pension Orosi View,Costa Rica,Paraiso,,0,"Paraiso Cartago , Bomberos de Paraiso - Left side - Picacho Rastaurant Right side 500 mts sureste"
+,Sol Samara Hotel,Costa Rica,Nicoya,,0,Playa Samara
+,Luna LLena,Costa Rica,Culebra,,0,Calle Real / Guanacaste
+,Best Western El Sitio,Costa Rica,Culebra,,0,"175 mts al este de la entrada principal, Liberia / Guanacaste"
+,Cabinas Katakolo,Costa Rica,Ballena,,0,7 5 Km Al Sur De Uvita Costa Ballena
+,Condo's Vista Volcan,Costa Rica,La Fortuna,,0,"141 La Fortuna de San Carlos, Alajuela"
+,Lake Arenal Casita 17,Costa Rica,Tilaran,,0,"Buena Vista 1, Casa 17, Puerto San Luis, Tronadora, Tiliaran"
+,Luigis Hotel & Adventure,Costa Rica,La Fortuna,,0,200 Mts Oeste Del Parque De La Fortuna Costa Rica
+,Honali House,Costa Rica,Nosara,,0,In Front Of The Mini Super Las Delicias In North Guiones Playas De Nosara
+,Hotel Villa Flores Playas del Coco,Costa Rica,Playas del Coco,,0,400 Norte De El Bar Lizard Direccion A Chorrera
+,Finca Maquenque Falls Resort,Costa Rica,Siquirres,,0,Off Highway 32 Alegria Rd
+,Colibri Paradise,Costa Rica,Cahuita,,0,Calle Marcellino 84
+,Hotel Belmar Bagaces,Costa Rica,Bagaces,,0,East Of the Gas Station 300
+,The Miller - Tamarindo Beach,Costa Rica,Tamarindo,,0,Sunrise Resort
+,Hotel Oasis Monteverde,Costa Rica,Monteverde,,0,Monteverde
+,Hotel Ciudad Perdida,Costa Rica,Tortuguero,,0,"Cahuita,por la carretera a Pto Viejo,500m S 300m E - Tortuguero"
+,Lands In Love Hotel And Resort,Costa Rica,San Jose,,0,Route 272
+,Hostel El Tucan Monteverde,Costa Rica,Monteverde,,0,"Banco Nacional , 75 metros al Este"
+,Refugio Lodge Monteverde Monteverde,Costa Rica,Monteverde,,0,7km noroeste del Centro de Santa Elena
+,Cristal Ballena Hotel Resort,Costa Rica,Uvita,,0,Coastal Highway 34
+,Punta Islita Hotel,Costa Rica,Siquirres,,0,"Guanacaste, Nanayure, Costa Rica"
+,Mirador Lodge Monteverde Monteverde,Costa Rica,Monteverde,,0,"Monteverde, Monteverde, Cr"
+,Beleza De Costa Rica,Costa Rica,Tamarindo,,0,Canafistola
+,HARMONY Nosara,Costa Rica,Nosara,,0,Guiones Beach
+,BAHIA ENCANTADA Desamparados,Costa Rica,Corralillo,,0,"Pastor Diaz Av. on El Jardin St 100 west, BF"
+,Naranjal,Costa Rica,Jaco,,0,"Playa Jaco, PuntarenasnullPacifico Central"
+,El Viandante Hotel,Costa Rica,Siquirres,,0,250mtr South Escuela Creativa
+,Kiana Resorts Dominical,Costa Rica,Dominical,,0,"Playa Dominical, Puntarenas, Costa Rica"
+,Casa Rapanui,Costa Rica,Puerto Viejo de Talamanca,,0,En Cocles Puerto Viejo de Talamanca.
+,Hotel Bar Restaurante Arena y Sol,Costa Rica,Dominical,,0,Dominical
+,Apartahotel Arenal,Costa Rica,La Fortuna,,0,600 meters east from Banco de Costa Rica
+,Arenas del Mar Manuel Antonio,Costa Rica,Manuel Antonio,,0,Quepos
+,Amapola Puntarenas,Costa Rica,Puntarenas,,0,Jaco
+,Paradisus Playa Conchal Santa Cruz,Costa Rica,Santa Cruz,,0,"Bahia Brasilito,Playa Conchal"
+,The Sanctuary Resort,Costa Rica,Caldera,,0,Playa Azul Marbella
+,Mirador Lodge Monteverde,Costa Rica,Monteverde,,0," Monteverde , 19-5655"
+,La Mansion Inn Arenal,Costa Rica,Nuevo Arenal,,0,Lg Lago de Arenal - Alajuela
+,Casa Romantica Nosara,Costa Rica,Nosara,,0,Playa Guiones
+,1bd Santa Ana Eagle Nest,Costa Rica,Santa Ana,,0,"La Mina Rio Oro, Calle La Chimba,"
+,Casa De Linford,Costa Rica,Samara,,0,Playa Azul Sanctuary Resort
+,Rainforest CRC,Costa Rica,Alajuela,,0,1km Norte del Parque Nacional Laguna de Fraijanes
+,Claro De Luna Bagaces,Costa Rica,Bagaces,,0,Monteverde Cloud Forest
+,Condado del Parque,Costa Rica,San Jose,,0,"Mata Redonda, cerca del Parque La Sabana. apto 612 B"
+,Stay in Costa Rica Playa Herradura,Costa Rica,Playa Herradura,,0,800mts West Herradura Road
+,Hotel Alajuela,Costa Rica,Alajuela,,0,"Diagonal al Parque Central de Alajuela, costado suroeste, contiguo a Farmacia Chavarria."
+,Namuwoki Tortuguero,Costa Rica,Tortuguero,,0,PLAYA CHIQUITA - Tortuguero
+,La Mansion Inn Alajuela,Costa Rica,Alajuela,,0,Manuel Antonio
+,Totem Hotel Resort And Restaurant,Costa Rica,Puerto Viejo de Sarapiqui,,0,"1,5 km south Puerto Viejo"
+,Hotel Cuna Del Angel Puerto Limon,Costa Rica,Puerto Limon,,0,9km South of Dominical
+,Sunset Reef Marine Hotel La Virgen,Costa Rica,La Virgen,,0,"Mal Pais Beach, Nicoya Peninsula"
+,Esencia Alajuela,Costa Rica,Alajuela,,0,Pen. De Nicoya
+,Buena Vista Lodge Siquirres,Costa Rica,Siquirres,,0,Pacifico Norte
+,Flamingo Beach Resort And Spa,Costa Rica,Siquirres,,0,Main St Playa Flamingo
+,Waves Costa Rica Surf Adventures,Costa Rica,Tamarindo,,0,1500 Calle Principal Guanacaste
+,Allegro Resort Papagayo,Costa Rica,La Cruz de Guanacaste,,0,Po Box 434-1150
+,Las Terrazas De Ballena Puntarenas,Costa Rica,Puntarenas,,0,Uvita; Across From The Gas Satation 1.5 Km Up The Hill
+,Minotel Guachipelaa N,Costa Rica,Liberia,,0,"5Km Norte De Liberia,17Km Direction Parque Rincaa"
+,Pranamar Oceanfront Villas And Yoga Retreat,Costa Rica,Playa Tamarindo,,0,"Cabo Blanco Nature Reserve, Nicoya Peninsula"
+,Hotel Sugar Beach Culebra,Costa Rica,Culebra,,0,"Guanacaste, Santa Cruz, Playa Pan De Azucar Pacific North Coast / Guanacaste"
+,Hotel Bahia Esmeralda Culebra,Costa Rica,Culebra,,0,Playa Portero Pacific North Coast / Guanacaste
+,Hotel El Volcan Real,Costa Rica,La Fortuna,,0,"8 Kilometros del Centro de la Fortuna, frente al Volcan Arenal"
+,The Palapa Hut,Costa Rica,Puerto Jimenez,,0,"La Choza del Manglar, 150 m oeste del aerodromo"
+,La Orquidea Lodge,Costa Rica,La Fortuna,,0,1.5 kilometers from La Fortuna Town next to Parque Mundo Aventura
+,Borinquen,Costa Rica,Liberia,,0,32 NE from Liberia; Guanacaste; Ca
+,Casa Margarita Potrero Beach,Costa Rica,Potrero,,0,"Potrero Beach, Pacific Hights"
+,Casa Blanca Costa Rica,Costa Rica,Nuevo Arenal,,0,Nuevo Arenal
+,Cocal And Casino,Costa Rica,Puntarenas,,0,Jaco Beach
+,Casa Baula - Tamarindo,Costa Rica,Tamarindo,,0,Sunrise Resort
+,Hotel Campo Verde La Fortuna,Costa Rica,La Fortuna,,0,Calle 470
+,4 You Hostel,Costa Rica,Nosara,,0,Playa Guiones
+,Casita Mango,Costa Rica,Atenas,,0,19 Hacienda Atenas
+,French Riviera,Costa Rica,Cahuita,,0, Calle Principale
+,El Refugio Tropical,Costa Rica,Playas del Coco,,0,Condominio Pequeno Paraiso Apt. 40
+,Esencia Hotel & Villas Chirripo National Park,Costa Rica,Santa Teresa,,0,"Santa teresa, Mal Paisc, Puntarenas, Costa Rica
+"
+,Bahia Esmeralda Hotel Apartments & Suites,Costa Rica,Playa Panama,,0,"100mt este de la Plaza Deportiva de Potrero Santa Cruz, Guanacaste, Costa Rica
+ "
+,Hotel Capitan Suizo Tamarindo,Costa Rica,Tamarindo,,0,"Playa Tamarindo, Guanacaste
+"
+,Cala Luna Boutique Hotel & Villas Guanacaste,Costa Rica,Bagaces,,0,"Playa Tamarindo, Costa Rica "
+,Costa Rica Luxury Rentals At Los Suenos Resort & Marina,Costa Rica,Playa Herradura,,0,"PO Box 4023-196 Playa Jaco, Costa Rica 
+ "
+,Tierras Enamoradas,Costa Rica,San Ramon,,0,"45 minutos de La Fortuna, Arenal."
+,Le Colibri Rouge Appartement,Costa Rica,Cahuita,,0,300 metros al norte de la entrada del Parque Nacional Cahuita
+,La Hacienda Lodge,Costa Rica,Malpais,,0,200 metros pasada la torre del ICE
+,The Toucan,Costa Rica,Quepos,,0,Valle Pura Vida
+,Casa Real - Luxury Oceanview House,Costa Rica,Santa Teresa,,0,Paradise Hills
+,Pelican's Perch,Costa Rica,Cabo Velas,,0,650 Meters or 2/10 of a mile from Playa Real
+,Apartamentos Jopacai,Costa Rica,Puerto Limon,,0,Del hotel Maribu Cariba 160 metros al este
+,Condominio Macaw,Costa Rica,Jaco,,0,Pastor Diaz.
+,Lumbres del Arenal,Costa Rica,La Fortuna,,0,"12 km Oeste del parque de La Fortuna, carretera al Parque Nacional"
+,Hotel Aguamarina,Costa Rica,Puntarenas,,0,Calle 15 Avenida 4 Leon Cortes Castro
+,Hacienda Tayutic Irazu Volcano National Park,Costa Rica,Turrialba,,0,"En Turrialba Al Lado Del Volcan Irazu Y Turrialba , Turrialba, Costa Rica, 3439-1000"
+,Martino Resort Casino & Med Spa,Costa Rica,Alajuela,,0,"La Garita De Alajuela, 200mt A"
+,El Establo Siquirres,Costa Rica,Siquirres,,0,Monteverde
+,Art House Las Sirenas,Costa Rica,Playa Cabuya,,0,"7 km from Montezuma to Cabuya, after Celaje Hotel"
+,Hotel Villa Grace,Costa Rica,Montezuma,,0,Cobano 100 metros del Banco Nacional
+,Art-house El Chante,Costa Rica,Playa Cabuya,,0,"7 km from Montezuma to Cabuya, 3 minutes from the Restaurant Bakery - La Panaderia Cabuya"
+,Kassandra House,Costa Rica,Montezuma,,0,"Montezuma, Hotel Lucy is the reception"
+,Casa Makasi,Costa Rica,Malpais,,0,800m South and 800m East of the Mal Pais / Santa Teresa crossroads
+,Flor de Paraiso Bungalows,Costa Rica,Montezuma,,0,Carrete Cobano 6 km hacia Montezuma contiguo a la torre telefonica
+,Hostal del Parque,Costa Rica,Montezuma,,0,Frente a la Plaza de Deportes contiguo a la parada de buses
+,Ambrosia en la Montana B&B,Costa Rica,Orosi,,0,From Hotel Tapanti Media 2km West Up The Mountain
+,Caribbean Dream cottages,Costa Rica,Puerto Viejo de Talamanca,,0,Manzanillo
+,Villa Ordonez,Costa Rica,Playa Hermosa,,0,300 metros norte de la Iglesia Catolica
+,Santa Fe B&B,Costa Rica,Monteverde,,0,"Cerro Plano 150 oeste banco BCR, Monteverde Puntarenas Costa Rica"
+,Villa Beach Playas del Coco,Costa Rica,Playas del Coco,,0,Villa Riviera
+,Hotel Casa Corcovado Jungle Lodge,Costa Rica,Carate,,0,Peninsula de Osa Corcovado
+,Bebedero Condo,Costa Rica,Escazu,,0,Bebedero s/n
+,Cabinas Milanes,Costa Rica,Playas del Coco,,0,"100 mtrs norte del Banco de Costa Rica, Playas del Coco."
+,Vista Hermosa,Costa Rica,Culebra,,0,"Las Terrazas Condominium Complex, Peninsula Papagayo"
+,Puma Estate,Costa Rica,Culebra,,0,Peninsula Papagayo
+,Casa Bamboo Playa Hermosa,Costa Rica,Playa Hermosa,,0,Calle Hermosa
+,Jw Marriott Guanacaste Resort & Spa Siquirres,Costa Rica,Siquirres,,0,Haclenda Pinilla; Santa Cruz
+,Occidental Grand Papagayo Siquirres,Costa Rica,Siquirres,,0,Playa Buena N Golfo De Papagayo
+,Bahia Azul Jaco,Costa Rica,Jaco,,0,Costa Pacifico Central
+,Occidental Allegro Papagayo,Costa Rica,Marsella,,0,"Playa Manzanillo, Liberia, P.O. Box 48-5000"
+,De Campo,Costa Rica,Cano Negro,,0,"Cano Negro De Los Chiles, Alajuela"
+,Ecolodge,Costa Rica,Boca Arenal,,0,Lago Coter
+,Casa Julian - Langosta Beach,Costa Rica,Playa Langosta,,0,Playa Flamingo
+,La Tortuga - Tamarindo Beach,Costa Rica,Tamarindo,,0,Sunrise Resort
+,Playa Hermosa Apartments,Costa Rica,Santa Teresa,,0,500 meters North from Playa Hermosa entrance
+,Casa Ginger Jaco Beach,Costa Rica,Jaco,,0,"Jaco Beach, 200 meters past south entrance to Jaco, on the route 34"
+,Apartamento San Jose 501,Costa Rica,San Jose,,0,Fifth Avenue between Street 1 and 0/ p.o. box 3593-1000
+,Georgina's House,Costa Rica,Cartago,,0,"100 metros norte, 25 metros oeste del parque de la Basilica de Nuestra Senora de Los Angeles."
+,Samara Monkey Villa,Costa Rica,Samara,,0,Samara
+,Monkey's Tribe Hostel,Costa Rica,San Pedro,,0,300M Sur de la Ultima entrada de los Yoses San Pedro
+,BnB Casa Mandala,Costa Rica,San Jose,,0,"Avenida 39, Rohrmoser"
+,Laughing Falcon Nature Reserve,Costa Rica,Canas Dulces,,0,"Rancho Colibri, Canas Dulces, Guanacaste, Costa Rica"
+,Sanctuary Resort And Spa Santa Cruz,Costa Rica,Santa Cruz,,0,5M Sur De Marbells
+,The Retreat Costa Rica,Costa Rica,Atenas,,0,50 E Redondel De Toros
+,Villas Las Brisas de Flamingo,Costa Rica,Playa Flamingo,,0,Carretera a Flamingo
+,Rhodeside Bed and Breakfast,Costa Rica,Playa San Miguel,,0,1kn South East of Pueblo Nuevo
+,Villas A&R,Costa Rica,Guayabo,,0,"Guayabo, Bagaces"
+,Hotel Mayol Lodge,Costa Rica,Fortuna,,0,75 mts este de la Parada de autobuses. al lado de Tacos Serrano
+,Cabinas Catarino,Costa Rica,Playas del Coco,,0,50 metros oeste del Bar Lizard
+,Hostel Pura Vida Montezuma,Costa Rica,Montezuma,,0,Cerca de la parada de autobus y a unos 20 metros de la playa.
+,Mother Dear Ocean Cottages,Costa Rica,Puerto Viejo de Talamanca,,0,100 Meters West From The Point Sportsbar
+,Hostel Rio Danta,Costa Rica,La Fortuna,,0,La Fortuna de San Carlos
+,Guanamar,Costa Rica,Puerto Carrillo,,0,"1,5 km south and 1,5 km west from La Fortuna´s Catholic Church, San Carlos - san jose"
+,Veronica's Place Hostel,Costa Rica,Puerto Viejo de Talamanca,,0,Tierra aventura puerto viejo
+,Olguita's Place - Octagonal Cabin,Costa Rica,Puerto Viejo de Talamanca,,0,Punta Uva Noreste de la entrada de Arrecife Punta Uva Costa Rica
+,Olguita's Place - Two Bedroom House,Costa Rica,Puerto Viejo de Talamanca,,0,Punta Uva 600 metros noreste de la entrada de Arrecife
+,Jet Luxury at Tamarindo Villa Tamarindo,Costa Rica,Tamarindo,,0,Tamarindo
+,Casa la Palma de Samara,Costa Rica,Samara,,0,Esterones
+,Bw Jaco Beach,Costa Rica,Jaco,,0,Pastor Diaz Av.Jaco Beach
+,Apartotel Colaye,Costa Rica,Colon,,0,Sabana Sur de la Contralor ea General de la Rep ablica 1m Oeste/15 sur.Frente Almacen Mauro
+,Blue River Resort,Costa Rica,Culebra,,0,Rincon de la Vieja Rincon de la Vieja
+,Tilajari Resort Hotel,Costa Rica,Boca Arenal,,0,"San Carlos Valley, Near Lago Arenal, Po Box 81-4400"
+,Arenal Observatory Lodge La Fortuna,Costa Rica,Monterrey,,0,1.7 Mile Of Arenal Volcano
+,Hotel Finca Valverde La Fortuna,Costa Rica,La Fortuna,,0,"251 Mts SW of Banco Nacional de Costa Rica, Santa Elena"
+,Arenal Paraiso La Fortuna,Costa Rica,Monterrey,,0,Arenal Volcano
+,Magica Cantarrana,Costa Rica,Nicoya,,0,Playa Samara De Nicoya
+,Sol Samara Guanacaste,Costa Rica,Bagaces,,0,Del Centro Comunal El Torito
+,Casa Playa,Costa Rica,Santa Teresa,,0,2 km North of the Crossroads
+,Martina's Place Hostel,Costa Rica,Drake Bay,,0,Agujitas
+,700 Metres North West From Escuela De La Abundancia,Costa Rica,Ciudad Quesada,,0,700 metros noroeste de la Escuela Concepcion
+,Hotel Casa de Papel,Costa Rica,Liberia,,0,200 Mts sur de la Antigua Gobernacion
+,Holiday Home Villa del Mar,Costa Rica,Punta Islita,,0,Punta Islita
+,Hotel Vilas Caletas,Costa Rica,Jaco,,0,3km Playa Jaco
+,Borinquen Resort,Costa Rica,Nuevo Arenal,,0,12 Km Interamericana Norte 18 Km Mano Dcha
+,Chatelle Hotel by the Sea,Costa Rica,Nosara,,0,P.O. Box: 156 / 4060
+,Luxurious Villa Langosta 3,Costa Rica,Playa Langosta,,0,Villas Langosta Villa 3 Playa Langosta Tamarindo Guanacauste Costa Rica
+,Cala Luna Hotel & Villas,Costa Rica,Playa Langosta,,0,2mts del Capitan Suizo Playa Langosta
+,Oceans Bahia Encantada,Costa Rica,Jaco,,0,50 mts west Jardin St. Pastor Diaz Ave.
+,La Mansion Inn Arenal San Jose,Costa Rica,San Jose,,0, Lago De Arenal
+,Hotel Bella Vista La Cruz de Guanacaste,Costa Rica,La Cruz de Guanacaste,,0,150 Metros Sur Del Parque Central
+,Costa Rica Hampton Inn San Jose-Airport,Costa Rica,Cartago,,0,Panamerican Highway 1
+,Bahia Parariso Rain Forest Lodge,Costa Rica,Vasquez de Coronado,,0,Playa San Josecito BahAa Drake PenAnsula de Osa Puntarenas Costa Rica
+,Condominios Casa Blanca,Costa Rica,Tarcoles,,0,Punta Leona
+,Casa Vista Hermosa - Langosta Beach,Costa Rica,Playa Langosta,,0,Playa langosta penisula resort
+,Hotel Ginana,Costa Rica,Paquera,,0,Paquera centro frente a las oficinas del ICE
+,Casitas Mar y Luz Puerto Viejo de Talamanca,Costa Rica,Puerto Viejo de Talamanca,,0,Puerto Viejo de Talamanca Costa Rica
+,Volcan Turrialba Lodge,Costa Rica,Turrialba,,0, Cartago Costa Rica
+,Disfrutalo Ranchos Villas y Hostel,Costa Rica,Santa Teresa,,0, Santa Teresa-Cobano-Puntarenas-Costa Rica
+,Casa Hermosa,Costa Rica,Playa Grande,,0,"Palm Beach Estates, Playa Grande"
+,Casa Isla en el Cielo,Costa Rica,Potrero,,0,Pacific Heighs
+,The Toucan Hut,Costa Rica,Puerto Jimenez,,0,"La Choza del Manglar, 150 m oeste del aeropuerto"
+,El Paso De Las Lapas,Costa Rica,San Jose,,0,Playa Jaco
+,Airport Hotel Berlor Alajuela,Costa Rica,Alajuela,,0,Airport
+,Casa Naturales,Costa Rica,Puerto Viejo de Talamanca,,0,100 meter west Selvin's Restaurant
+,Paradisus Playa Conchal,Costa Rica,Santa Cruz,,0,"Bahia Brasilito, Playa Conchal"
+,Vlofts,Costa Rica,Vasquez de Coronado,,0,Av 91 calle 161 Barrio Los Cedros San Isidro de Coronado
+,Villas Nacazcol 322,Costa Rica,Sardinal,,0,Playas del Coco Guanacaste
+,My House in La Fortuna,Costa Rica,Fortuna,,0,Calle 468 La Fortuna de San Carlos Alajuela
+,Villas Sol And Beach Resort,Costa Rica,Puerto Coyote,,0,"Playa Hermosa, Carrillo - Guanacaste"
+,Hotel Bosque Del Mar,Costa Rica,Dominical,,0,Playa Hermosa Pacific North Coast / Guanacaste
+,Reserva Conchal Beach Resort Golf & Spa Dominical,Costa Rica,Dominical,,0,"Playa Conchal, Santa Cruz, Guanacaste"
+,Hampton Inn & Suites Airport-San Jose C R,Costa Rica,Alajuela,,0,Airport Parking
+,Hotel Arenal Carmela La Fortuna,Costa Rica,La Fortuna,,0,142
+,Iguana Surf Beachfront Cabinas,Costa Rica,Tamarindo,,0,100 Meters North of Hotel Diria
+,Hotel Mardeluz Jaco,Costa Rica,Jaco,,0,Po Box 143
+,Hotel Villa Lapas Playa Herradura,Costa Rica,Tarcoles,,0,Santa Lucia Town

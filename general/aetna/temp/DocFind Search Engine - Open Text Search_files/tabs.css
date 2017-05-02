@@ -1,0 +1,168 @@
+ol#tabs{        
+	border-bottom: 2px solid #D1D1D1;
+	margin: 0;
+	padding: 0;
+	height: 2.4em;
+}
+
+ol#tabs li{ 
+	display: inline;
+	list-style: none;	
+    float:left;
+    height:30px;
+}
+
+ol#tabs li a{
+	padding: 0 4px 14px 1px;
+	text-decoration: none;
+	background:inherit;
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 13px;
+	line-height:14px;
+	vertical-align: text-bottom;
+}
+
+
+
+ol#tabs li.first{
+	background:#333333;	
+	margin: 0px 0px 0px 0px !important;
+	margin-left: 0px 0px 0px -4px;	
+		
+}
+
+
+ol#tabs li.active{	 	
+	background: -moz-linear-gradient(top,  #E9ECBF 0%,  #FFFFFF 100%); /* for firefox 3.6+ */
+	background: -webkit-gradient(linear, top, bottom, from(#E9ECBF), to(#FFFFFF)); /*Safari4+*/
+	background: -webkit-linear-gradient(top , #E9ECBF 0%, #FFFFFF 100%); /*Chrome10+*/
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E9ECBF', endColorstr='#FFFFFF' GradientType=0); /* for IE */
+	border-top:2px solid #D1D1D1;
+}
+  
+ol#tabs li span{	
+	padding-right:15px;
+	padding-left:15px;
+	position:relative;
+	top:22%;
+	float: left;
+	color: #e1e1e1; 
+}
+
+ol#tabs li.active span{	
+	color: #333333;
+	padding-right:15px;
+	padding-left:15px;
+	position:relative;
+	top:22%;
+	float: left;
+}
+
+.fill_left{
+	background-repeat: no-repeat;
+	margin: 0 4px 0 0 !important ;
+	margin: 0 0 0 0; 
+	width: 1px;
+	background: url(/dse/assets/images/deselected_left.jpg) left top no-repeat;	
+}
+
+.fill_right{ 
+	background: url(/dse/assets/images/deselected_right.jpg) right top;
+	margin: 0 5px 0 0;	
+	background-repeat: no-repeat;
+}
+
+.fill_left_active{
+	border-bottom-style:none;
+	margin: 0 4px 0 0 !important ;
+	margin: 0 0 0 0; 
+	width:1px;	
+	background: url(/dse/assets/images/selected_left.jpg) left top no-repeat;	
+}
+
+.fill_right_active{ 
+	background: url(/dse/assets/images/selected_right.jpg) right top;
+	margin: 0 5px 0 0;
+	background-repeat: no-repeat;
+}
+
+#nav{
+	width:97%; 
+}
+
+#nav_rd{
+	width:117%;
+}
+#for pin search
+ul.tabs{
+	border-bottom: 2px solid #D1D1D1;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+
+ul.tabs li{
+	display: inline;
+	list-style: none;
+	margin: 0;
+	margin-left: 5px;
+	padding: 0;
+	padding-bottom: 10px;
+	
+}
+
+ul.tabs li a{
+	text-decoration: none;
+	background: #333333;
+	border: 1px solid #909A00;
+	margin: 0;
+	
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-family: Aerial;
+	font-size: 13px;
+	color: #e1e1e1;
+	
+	padding-right:15px;
+	padding-left:15px;
+}
+
+ul.tabs li a:hover{
+	background: #9C9;
+}
+
+ul.tabs li.active a{
+	background: #e9ecbf;
+	color: #333333;
+	font-weight: bold;
+	padding-bottom: 11px;
+	border-bottom: 0;
+	height: 34px;
+}
+
+ul.tabs li.first a{
+	margin-left: 0px;
+}
+
+ul.tabs li.active a:hover{
+	background: #e1e1e1;
+}
+
+ul.tabs li.help{
+	padding-left: 375px;
+}
+
+ul.tabs li.help a{
+	background: none;
+	color: blue;
+	border: 0;
+	font-weight: normal;
+}
+
+ul.tabs li.help a:hover{
+	background: none;
+	text-decoration: underline;
+}

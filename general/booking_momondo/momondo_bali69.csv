@@ -1,0 +1,977 @@
+country,rooms,area,street,price,chain,name
+Indonesia,,Canggu,Jalan Padang Lenjong - Gang Echo Beach,0,,Echo Beach Villas
+Indonesia,,Candi Dasa,Candidasa Karangasem,0,,Samudra Bali Resort
+Indonesia,,Seminyak,Jalan Sunset Road No 105,0,,Bella Villa Bali
+Indonesia,,Kuta,Jl. Dewi Sartika Gg Nusa Indah no 3A Tuban,0,,Easton Hotel
+Indonesia,,Seminyak,"Jl. Baik-Baik, Gang Pudak, Nomor 19",0,,Villa Belharra
+Indonesia,,Lovina,Jl. Kaliasem ,0,,Puri Manggala
+Indonesia,,Canggu,Jl. Raya Semat Gg. Giri Sunia No. 1 Desa Tibu Beneng - Canggu,0,,Kintamani House
+Indonesia,,Seminyak,Jl Kunti I No 1,0,,Valka Bali
+Indonesia,,Kerobokan,"Jl. Kuwum II, Kubu Bali Village",0,,Oasis Villas Umalas
+Indonesia,,Ubud, Banjar Sala Bali,0,,Indigo Tree Villas Spa
+Indonesia,,Denpasar,"Jl. Danau Tempe, Gang Pengiyasan III/ No. 17 Sanur",0,,Gerya Wimaha Guest House
+Indonesia,,Buwit,Jalan Jumbak Bayuh,0,,Villa Gabah Bali
+Indonesia,,Canggu,"Jalan Veteran No. 98X, Banjar Gunung, Desa Buduk, Mengwi, Canggu ",0,,Shreya Villa
+Indonesia,,Munduk,Jl. Gunung Sari Banyuatis,0,,Bebau Cottage
+Indonesia,,Kerobokan,Jalan Lestari,0,,Villa Lestari II
+Indonesia,,Denpasar,Jl. Kutat Lestari,0,,Joy Villas Sanur
+Indonesia,,Rejasa,"Br. Ngis Kelod 48, Jegu - Tabanan",0,,Bali Homestay Program
+Indonesia,,Seminyak,Jalan Petitenget.,0,,Dana Villa Bali
+Indonesia,,Seminyak,Jl. Club Villas No. 1,0,,Alexia Villa
+Indonesia,,Ungasan,Jalan Karang Kembar No 6,0,,Villa Six Karang Kembar
+Indonesia,,Kuta,Jl. Pararaton Raya No 9,0,,Isara House
+Indonesia,,Legian,Jalan Bunut Sari Gang Uluwatu II No 5 Kuta,0,,Arena House
+Indonesia,,Sanur,Jl Bypass Ngurah Rai no 201,0,,Villa Bintang Baru 2
+Indonesia,,Kuta,Jl. Pantai ,0,,Sahid Raya Bali
+Indonesia,,Ubud,Kedewatan,0,,Cahaya Dewata Resort and Spa
+Indonesia,,Nusa Lembongan,Jungut Batu Village - Lembongan,0,,Made's Homestay
+Indonesia,,Ubud,Jl. Tegalantang,0,,Legon Tegalantang Guest House
+Indonesia,,Denpasar,Jl. Raya Puputan Renon Niti Mandala no. 200,0,,Hotel Bumi Asih Bali
+Indonesia,,Denpasar,Jl. Seruni no 9 ,0,,Pondok Seruni Homestay
+Indonesia,,Canggu,"Jl. Tegalsari, Gg. Soka, Br. Tegal Gundul",0,,Villa Zigzag
+Indonesia,,Kerobokan,Jalan Kuwum II,0,,Airi Villa
+Indonesia,,Seminyak,"Jl. Pangkung Sari, Gg. Villa Catur Kembar, Kerobokan",0,,Villa Damai Kecil
+Indonesia,,Payangan,"Br. Tanggayuda, Ds. Kedewatan",0,,Umah Bali Villa
+Indonesia,,Legian,Jl Nakula 5 No 228,0,,The Akvilla Seminyak
+Indonesia,,Denpasar,"Jl. Ciung Wanara I No. 7 Renon, Denpasar",0,,Shagida Apartment
+Indonesia,,Ubud,Monkey Forest Road,0,,Waterfall Room at Rumah Jepun
+Indonesia,,Canggu,Jl Subaksari Complex The Santai No 1,0,,Villa Ikobana Bali
+Indonesia,,Legian,"Jalan Eka Laweya I / 4, Seminyak",0,,Surya Seminyak Villa
+Indonesia,,Legian,Jalan Sunset Road,0,,Fame Hotel Bali
+Indonesia,,Denpasar,Jl Raya Sesetan Gang Ikan Pari No 4,0,,Alamanda Town House by Gamma Hospitality
+Indonesia,,Ubud,"Banjar Silungan, Lodtunduh",0,,Dian Lestari Villas and Painting
+Indonesia,,Ubud,Jl.The Payogan Resort Banjar Bunutan Desa Kedewatan,0,,Kamala Villa Ubud
+Indonesia,,Seminyak,Jalan Nakula,0,,ZenRooms Legian Nakula 2
+Indonesia,,Ubud,Jl. Jembawan No. 25 Padang Tegal,0,,Jembawan House
+Indonesia,,Seminyak,"Jl. Batu Belig No. 5A, Kuta Utara",0,,Belong Batu Villa
+Indonesia,,Seminyak,Jalan Kayu Aya,0,,O'beroi Villa
+Indonesia,,Kerobokan,Jl. Bumbak No. 140 Gg. Pulau Roti ,0,,Villa Orange Kerobokan
+Indonesia,,Seminyak,"Jalan Sari Temuku No 8C , Seminyak",0,,Villa Ocean Arya
+Indonesia,,Nusa Lembongan,Jungut Batu - Lembongan,0,,Bunut Bali Homestay
+Indonesia,,Ubud,Jalan Bisma,0,,Sanjaya Home Stay
+Indonesia,,Canggu,"Raya Kayu Tulang, Perumahan Puri Sambadha",0,,Villa Long Grain
+Indonesia,,Ubud,"Jalan Tirta Tawar, Junjungan ",0,,Villa Uma Sari
+Indonesia,,Kerobokan,"Jl. Tegal Cupek No.79 Umalas, Bali ",0,,De Mellos Villa
+Indonesia,,Kuta,"Jl. Imam Bonjol, Perum. Taman Mutiara, Desa Margaya",0,,Intan Mutiara Seminyak Villa
+Indonesia,,Seminyak,Jalan Sarinande,0,,Villa Sarinande
+Indonesia,,Kerobokan,"Jalan. Kuwum II, Gang Rajawali, No.2 Lingkungan Kuwum",0,,Kubu d Kuwum Hotel
+Indonesia,,Gianyar,"Banjar siyut,desa tulikup. Gianyar",0,,Villa Griya Widiaastuti
+Indonesia,,Seminyak,Jalan Oberoi,0,,Uma Abah Hotel
+Indonesia,,Kerobokan,Jalan Batu Culung 2C ,0,,Omahqu Villa
+Indonesia,,Umeanyar,Desa Umeanyar - Seririt 81153 - Bali - Indsia,0,,Bali Nibana Resort
+Indonesia,,Taro,"Bayad,Tegallalang ,Bali",0,,Bali Eco Resort And Retreat Centre
+Indonesia,,Kerobokan,"Jalan Raya Kesambi No 14 Kuta Utara ,Bali",0,,Villa Donnys Bali
+Indonesia,,Canggu,Jl. Pemelisan Perancak Gg. Anggrek I No.5,0,,Ombak Residence
+Indonesia,,Legian,Jl Lebak Bene,0,,ZenRooms Legian Melasti
+Indonesia,,Kerobokan,"Puri Citra Pratama Citra Garden No. A-7 Jln. Taman Sari, Teuku Umar Barat",0,,VillaQU Bali
+Indonesia,,Gianyar,"Jl. Cucukan, Cucukan- Desa Medahan, Gianyar",0,,Puri Purnama Villa
+Indonesia,,Denpasar,Jl. Penyu Dewata Padanggalak Sanur,0,,Bali Bacchus Villas
+Indonesia,,Legian,"Jl. Sri Rama, Seminyak - Bali ",0,,Villa Lylah
+Indonesia,,Kerobokan,"Jl. Umalas Lestari, Gang Darma No. 555 ",0,,Happy Umalas Villas
+Indonesia,,Denpasar,Jl. Pulau Galang Gang Gunung Sari 2 No. 3 A,0,,Yobhis House I
+Indonesia,,Denpasar,Jl. Tukad Batanghari No. 55,0,,Batanghari Guesthouse
+Indonesia,,Seminyak,Jl. Petitenget Komplek Umasari Blok C No. 15 ,0,,Villa Sakura
+Indonesia,,Kerobokan,"Jl. Dukuh Indah, Gg. Sungai, Br. Semer - Umalas",0,,Villa Lulan
+Indonesia,,Ubud,Jalan Hanoman,0,,Jaya House
+Indonesia,,Kerobokan,Jl. Umalas 1 No. 106,0,,Puri Raisha Villa
+Indonesia,,Uluwatu,"Jl. Labuan Sait, Pantai Suluban",0,,The Istana
+Indonesia,,Seminyak,Jalan Laksmana Seminyak Basangkasa Kuta,0,,Villa Aya Hotel Bali
+Indonesia,,Seminyak,Jl. Bidadari II B No. 5,0,,JD Villa Seminyak
+Indonesia,,Canggu,"Echo Beach, Canggu Canggu 80361",0,,Sea Sentosa Canggu
+Indonesia,,Legian,"Jl. Werkudara, Gg. Arjuna No. 2 Legian",0,,Villa Raffaela
+Indonesia,,Canggu,"Jl. Raya Semat, Gg. Pepaya No. 01, Canggu",0,,Sunset Villa Bali
+Indonesia,,Seminyak,"Jl. Cendrawasih, Petitenget",0,,Luxury Villa Cantik Petitenget Bali
+Indonesia,,Lovina,"Jl. Laviana, Lovina, Bali - Bali Lovina",0,,Banyualit Spa 'n Resort
+Indonesia,,Kerobokan,"Jalan Raya Bumbak, Gang Curik, Banjar Kuwum 2",0,,Villa Bella Kerobokan
+Indonesia,,Denpasar,Jl. Karya Makmur No. 1,0,,Hotel Bagasta Bali
+Indonesia,,Ubud,Jalan Monkey Forest,0,,Kerta Accommodation
+Indonesia,,Kuta,"Jalan Poppies II, Gang Dewi",0,,Dewi Homestay Kuta
+Indonesia,,Ungasan,Bali Cliff Street No.14,0,,Villa Tolroy
+Indonesia,,Denpasar,Jalan Nakula timur No 7 Denpasar Barat 80119 Bali Indonesia,0,,RedDoorz @ Nakula Sunset Road
+Indonesia,,Buwit,Desa Buwit Jl. Mulyoto,0,,Q4 Villas
+Indonesia,,Seminyak,Jl. Nakula Gg. Baik Baik Gg. Gita Ayu No. 7a,0,,Villa Koko
+Indonesia,,Seminyak,Jl. Mertanadi no 35,0,,Villa Kaia
+Indonesia,,Kerobokan,"Jl. Kedampang No 9, Pengubengan Kauh",0,,Dwi Bunga Villa
+Indonesia,,Ubud,"Banjar Penestanan Kaja, Campuhan",0,,Kajeng House
+Indonesia,,Denpasar,Jalan Ciung Wenara II no 20A,0,,Rumah Citra
+Indonesia,,Denpasar,"Jalan Gatot Subroto IV, no 18",0,,The Grand Bali Park Hotel
+Indonesia,,Ubud,"Jl. Jembawan No. 71, Padang Tegal Kelod",0,,Citrus Tree Villas - Belos
+Indonesia,,Seminyak,"Jalan kayu Jati, Petitinget 20 A",0,,Aqua Hotel Bali
+Indonesia,,Ungasan,"Jl. Toya Ning, Banjar Wanagiri",0,,Villa Ungasan
+Indonesia,,Pulukan,"Jalan Ciwa, Yeh Kuning, Pekutatan, Jembrana ",0,,Villa Dewa
+Indonesia,,Seminyak,"Jl. Nakula, Gang Baik-Baik",0,,Sandat Villa
+Indonesia,,Seminyak,Jl. Bali Deli ,0,,The BC Suite Seminyak Bali
+Indonesia,,Kerobokan,"Jl. Umalas 1, Gang 11 ",0,,Adyssa Villa
+Indonesia,,Lovina,"Kaliasem Village, Enjung Sanghyang ",0,,Adirama Villa Lovina
+Indonesia,,Canggu,Jl. Nelayan 9x ,0,,D' Djabu Villa Canggu
+Indonesia,,Ketewel,"Jl. Pantai Ketewel 26, Ketewel ",0,,Kolonial House
+Indonesia,,Ungasan,Jl. Raya Goa Gong No. 80 Uluwatu,0,,Heron Villa Jimbaran
+Indonesia,,Ubud,Jalan Sri Wedari,0,,Villa Shinta Dewi Ubud
+Indonesia,,Denpasar,Jl. Tukad Badung GG I No.11 ,0,,Hotel Graha Cempaka
+Indonesia,,Canggu,Jalan Pura Gede Batur Pererenan ,0,,Villa East Indies
+Indonesia,,Kerobokan,"Jalan Raya Bumbak, Br.Anyar Kelod - Kerobokan",0,,Marlee Villas
+Indonesia,,Ubud,"Jl. Raya Katiklantang, Singakerta",0,,Ubud Mupu Villa
+Indonesia,,Canggu,"Jl. Tegalsari Gang Kana No 99 Banjar Tegal Gundul, Pantai Berawa",0,,Villa Kanten by Nakula Management
+Indonesia,,Lovina,Jl. Raya Seririt Singaraja,0,,Adi Homestay
+Indonesia,,Denpasar,Jalan W.R. Supratman 168 ,0,,Hotel Puri Sokasati
+Indonesia,,Ketewel,Jl. Pantai Pabean ,0,,Majapahit Beach - Villa Maya
+Indonesia,,Legian,"Jl. Padma Utara, Gang XXI ",0,,Bali Villa Stayz IV
+Indonesia,,Kuta,Jl. Wana Segara Gang Teratai II No 2 Br. Segara Tuban - Kuta,0,,Rena House
+Indonesia,,Denpasar,"Jl. Imam Bonjol, Residence No 29 ",0,,Residence 29
+Indonesia,,Seminyak,Jl. Nakula Gang Baik Baik No.2 ,0,,Villa Indiana
+Indonesia,,Kerobokan,Jl. Raya Umalas ,0,,Villa Bali Bali One
+Indonesia,,Amed,"Jl. Raya Amed, Banyuning, Bunutan, Abang, Karangasem ",0,,Villa Flamboyant Amed
+Indonesia,,Kuta,Jalan Legian 121A,0,,Legian Express Hotel
+Indonesia,,Kerobokan,Jl. Umalas 1,0,,Astama Villa
+Indonesia,,Kerobokan,"Jalan Bumbak, Gang P.Medang No 1 Banjar Anyar Kelod",0,,Putri Malam Villa
+Indonesia,,Canggu,Jl. Pantai Batu Bolong no.66 Behind Gold Dust,0,,Paradise Villa - Echo Beach
+Indonesia,,Buwit,Jl. Raya Munggu,0,,Sunhaven Villa
+Indonesia,,Seminyak,Different locations in Seminyak,0,,Alexa Villas
+Indonesia,,Kerobokan,Jalan Tegal Cupek II ,0,,Villa Puri Bali-Passion
+Indonesia,,Pererenan,Jalan Pantai Seseh,0,,Villa The Shore
+Indonesia,,Nusa Lembongan,"Jalan Sandi Bay, ",0,,Dodol Lembongan Cliff Villa
+Indonesia,,Legian,Jl.Dewi Sri VIII/ Catriona,0,,Marley Heaven Villa
+Indonesia,,Seminyak,"Jl. Sari Temuku, Gang Sandat",0,,Villa Jepun Seminyak
+Indonesia,,Seminyak,"Jl. Sari Temuku, Gg Sandat",0,,Villa Issi
+Indonesia,,Seminyak,"Jalan Laksmana, No. 14 Oberoi",0,,Villa Lilibel
+Indonesia,,Seminyak,Jl. Beraban No. 92,0,,Villa Karma
+Indonesia,,Denpasar,"Jalan Padang Gajah, Padang Sambian",0,,Penginapan Dwi Santika
+Indonesia,,Ubud,"Jl. Gootama No. 6, Padang Tegal Kaja",0,,Citrus Tree Villas - Darta
+Indonesia,,Kubupenlokan,"Penelokan, Kintamani",0,,Bumi Ayu
+Indonesia,,Jimbaran,Temple Hill Grand Residence #A2 Jalan Uluwatu,0,,Villa Arona
+Indonesia,,Seminyak,"Jl. Petitenget 2000xx, Seminyak",0,,Apartment 303 Seminyak
+Indonesia,,Sanur,Jl.Danau Tamblingan 60 ,0,,Villa Tulip II
+Indonesia,,Canggu,"Banjar Berawa, Desa Canggu 80361 P.O. Box 3271, - Denpasar",0,,Wana Resort
+Indonesia,,Payangan,"Jl. Payangan, Ubud",0,,Hotel Mawar Sari
+Indonesia,,Denpasar,Jalan Pura Demak IV No. 88,0,,Premisol 88
+Indonesia,,Dencarik,Jalan Melati No. T6 Dencarik,0,,Villa Akasa Segara
+Indonesia,,Munduk,Munduk village - Banjar district - Singaraja - Bali,0,,Nu Homestay
+Indonesia,,Amed,Jalan Ammed - Jemeluk,0,,Panji Homestay
+Indonesia,,Ubud,Jl. Raya Lod Tunduh ,0,,Marfenta Villa
+Indonesia,,Kerobokan,Jl. Umalas 2 No. 84 ,0,,Asana Asmara Villa
+Indonesia,,Tabanan,Jl. Desa Uma Abian ,0,,Ume Abian Village
+Indonesia,,Seminyak,Jl. Pangkung Sari No. 1A,0,,Nilaya Villa
+Indonesia,,Ubud,"Br. Pengosekan Kaja, Mas",0,,Pengosekan Guest House
+Indonesia,,Nusa Lembongan,PO Box 3846 Nusa Lembongan Island Denpasar,0,,Nusa Lembongan Resort
+Indonesia,,Ubud,"Jalan Penestanan Kelod, Sayan ",0,,Kubu Made
+Indonesia,,Canggu,Jalan. Pantai Mengening Cemagi - desa Cemagi - Mengwi,0,,Cemagi Residence
+Indonesia,,Singaraja,Jalan. A. Yani 194A,0,,Hotel Hawaina
+Indonesia,,Amed,Jalan Raya Amed - Seraya Banyuning Abang Karangasem Bali 80572 Indonesia,0,,Nalini Resort
+Indonesia,,Seminyak,"Jalan Raya Petitenget 2000XX, Seminyak, Kerobokan",0,,The Sunset Suite Bali
+Indonesia,,Canggu,Jl. Subak Sari Canggu,0,,Villa Elanora
+Indonesia,,Legian,Jl. Dewi Sri Kuta,0,,C Hotel
+Indonesia,,Seminyak,"Jl. Kayu Aya, Gang Cargo ",0,,Villa Matt
+Indonesia,,Jimbaran,"Jalan Segara, Gang. Wangi , No.4, Kedongangan - Jimbrana",0,,Shinta House
+Indonesia,,Ababi,"Jalan Yudistira, Desa Temega, Amlapura, Karangasem",0,,Villa Mega Tirtagangga
+Indonesia,,Seminyak,"Jalan Petitenget Gang Bulan Bali No.8, Petitenget - Kerobokan",0,,Villa Rumah Maria
+Indonesia,,Banjar,"Banjar Tegehe, Desa Banjar, Singaraja",0,,Kubu Aji Banjar
+Indonesia,,Legian,"Jl. Raya Legian, Gg. XXI no. 3",0,,Villa Kubu D'Kubu
+Indonesia,,Canggu,Jl. Pantai Berawa No 26,0,,Villa Dion
+Indonesia,,Ubud,Banjar Tegallantang,0,,Villa Pura Padi
+Indonesia,,Ubud,Jl. Raya Sanggiangan,0,,Kopi Kats Poolside Villas
+Indonesia,,Pecatu,Jalan Labuan Said ,0,,Villa Capung Bawah
+Indonesia,,Seminyak,Jalan Arjuna,0,,Home Legian Hotel Bali
+Indonesia,,Pancasari,"Jl. Kedongsong, Danau Buyan",0,,Lake Buyan Villas
+Indonesia,,Denpasar,Jalan Mahendradatta Selatan,0,,Puri Segina Residence
+Indonesia,,Denpasar,Jalan Teuku Umar 108 Denpasar ,0,,Guest House Samudra Bali
+Indonesia,,Seminyak,Jl. Raya Seminyak No. 42 ,0,,Villa Topeng Seminyak
+Indonesia,,Denpasar,Banjar Padang Tawang ,0,,Jatayu Villa
+Indonesia,,Denpasar,Jl. Pulau Ayu GG 15 No.6 ,0,,Griya Ayu Homestay
+Indonesia,,Denpasar,"Jl. Pulau Moyo, Perumahan Moyo Permai No. 3 ",0,,Moyo Residence
+Indonesia,,Legian,Jalan Dewi Ratih No 9,0,,Legian Living House
+Indonesia,,Denpasar,Pandawa street No.86 kuta,0,,Dewi Sri Villa
+Indonesia,,Denpasar,Jalan Tukad Barito Timur No. 1,0,,Umahku Apartment
+Indonesia,,Sanur,Jl. Batur Sari Gang Zamrud,0,,KS Sanur Hotel
+Indonesia,,Kerobokan,Jl. Tunon No. 14 ,0,,Villa Artis Kerobokan
+Indonesia,,Saba Bai,"Perumahan Bethe Lestari, Batu Bulan - Sukawati ",0,,Sakawesi
+Indonesia,,Nusa Dua,"Jalan Gunung Payung, Banjar Sawangan",0,,The Shanti Residence Bali
+Indonesia,,Ubud,Jl. Raya Pejeng Kawan,0,,Ubud Riverview Villa
+Indonesia,,Denpasar,Jl. Tukad Badung XXI/2 No. 3,0,,Rumah Badung
+Indonesia,,Canggu,Jalan Veteran Gang Manga,0,,Villa Kristi
+Indonesia,,Canggu,"Jl. Kebon Bambu, Banjar Umabuluh",0,,A Satu Villa Canggu Bali
+Indonesia,,Seminyak,Jalan Raya Seminyak Gg Taman Sari No 8,0,,La Leela Asta Bali Seminyak
+Indonesia,,Tabanan,Desa Jebaud Marga Blayu,0,,Villa Jempiring Tepi Sawah
+Indonesia,,Seminyak,Jalan Drupadi gang Kubu Carik,0,,Villa Gading Seminyak
+Indonesia,,Seminyak,Jl. Bidadari ,0,,Villa Vida
+Indonesia,,Buwit,Jalan Raya Pererenan,0,,Nusa Villa and Restaurant
+Indonesia,,Tabanan,Jalan Raya Tanah Lot,0,,BE Villas
+Indonesia,,Tanjung Benoa,"Jl. Setra Ganda Mayu 3, Tanjung Benoa",0,,Villa Cantik Hotel
+Indonesia,,Seminyak,"Jalan Oberoi, Gang 1B",0,,Villa Semeton
+Indonesia,,Sanur,Jl Batur Sari Gang VI No.2,0,,Villa Paradise Hotel Bali
+Indonesia,,Kerobokan,"Jalan Dukuh Indah, Gang Sungai, Br. Semer",0,,Villa Leoli
+Indonesia,,Seminyak,"Jalan Kunti 1, Gang Melati No 1",0,,Villa Anggrek
+Indonesia,,Ubud,"Campuhan, Ubud ,Bali",0,,Mulawarman Guesthouse Ubud
+Indonesia,,Ungasan,"Jl. Tundun Penyu, Balangan",0,,Villa Rumah Putih Ungasan
+Indonesia,,Canggu,"Jl. Danau Batur Gg. Mangga, Banjar Padonan",0,,Villa Sarsana Bali
+Indonesia,,Denpasar,"Jalan Juwet Sari Gg. Anyar Sari, Suwung Kauh",0,,Villa Juwet 57
+Indonesia,,Seminyak,Jl. Baik baik Gg. Gita Ayu no. 7B,0,,Villa Manja
+Indonesia,,Canggu,Jalan Pantai Berawa,0,,Bali Green House
+Indonesia,,Canggu,"Banjar Cepaka, Cepaka Village, Canggu",0,,Villa Alam Damai
+Indonesia,,Kuta,Jalan Dwi Sri II no 88 ,0,,Sri Devi Villas
+Indonesia,,Seminyak,Jl Kayu Aya Gg Damai No 29,0,,Villa Avani Seminyak
+Indonesia,,Singaraja,Jalan. Ahmad Yani 55,0,,Duta Karya Hotel
+Indonesia,,Seminyak,Jl. Raya Seminyak Gang Keraton No. 77B,0,,Villa Kampung Kecil Seminyak
+Indonesia,,Seminyak,"Jalan Drupadi, Gang Melati No: 1ab",0,,AB Villas
+Indonesia,,Denpasar,"Jalan Pandu No. 50, Desa Dalung",0,,Pondok Indah Dalung
+Indonesia,,Seminyak,Jalan Kayu Aya,0,,Villa Silviana
+Indonesia,,Canggu,"Jalan Batu Mejan No 20, Banjar Padang Linjong",0,,Cinta Villa d'hotes
+Indonesia,,Jimbaran,Jalan Segara Madu No.8 Kedonganan - Jimbaran,0,,Villa Ledang
+Indonesia,,Legian,Padma Utara Street Legian Kaja,0,,Maharta Beach Resort Legian Bali
+Indonesia,,Kerobokan,"Jl. Umalas Lestari, Gang Batukaru No. 1 ",0,,Villa Biru Kerobokan
+Indonesia,,Antasari,Desa Surabrata Kec Selemadeg Tengah,0,,Taksu Holiday Club Hotel Bali
+Indonesia,,Seminyak,"Jalan Arjuna (Double Six), gang Villa Coco Legian",0,,Tune Hotel - Double Six Legian
+Indonesia,,Seminyak,"Jl. Yudistira No. 69, Banjar Tatag Kunti II",0,,Yudistira 69 Resort
+Indonesia,,Sanur,JL. Danau Tamblingan,0,,Bali Hyatt
+Indonesia,,Lovina,Jalan Lovina Beach,0,,Sri Homestay
+Indonesia,,Amed,Jalan Raya Amed - Bunutan,0,,Cest Bon Homestay 1
+Indonesia,,Ubud,"Banjar Sumampan, Kemenuh ",0,,Villa Santi Gianyar
+Indonesia,,Legian,Jl. Legian Kaja 494 ,0,,Legian Beach Villa
+Indonesia,,Seminyak,Jl. Laksmana,0,,The Christin Villa Seminyak
+Indonesia,,Seminyak,"Jalan Raya Petitenget, Perumahan Umasari No 9",0,,M Residence Seminyak
+Indonesia,,Legian,Jalan Dewi Sri ,0,,Villa Martha Legian
+Indonesia,,Kerobokan,Jl. Umalas 2 No. 7 ,0,,Umalas 7 Villa
+Indonesia,,Seminyak,Jalan Batubelig Gang Gelatik No.12,0,,Villa Batubelig
+Indonesia,,Tejakula,Desa Bukti ,0,,Villa Bukti Paradise
+Indonesia,,Ubud,Jalan Penestanan Kelod ,0,,Puri Sari Cottage
+Indonesia,,Ubud,"Br. Silungan, Ds. Lodtunduh ",0,,Villa Bangla Bali
+Indonesia,,Seminyak,"Padang Sumbu, Denpasar Barat",0,,Athena Hot Spring Villa
+Indonesia,,Ungasan,"Jl. Tundun Penyu No. 68, Balangan, Bukit Jimbaran ",0,,Ascent Villa
+Indonesia,,Kerobokan,"Jl. Bumbak No. 140, Gg. Pulau Roti ",0,,Villa Kuning
+Indonesia,,Jimbaran,"Jl. Pratama, Tanjung Benoa ",0,,Matahari Villa
+Indonesia,,Kerobokan,Jl. Umalas Gang Ruku ,0,,Villa Ruku Ruku Umalas Bali
+Indonesia,,Jimbaran,Jalan Aneka Warga No 12 Perumahan Puri Mumbul permai jimbaran,0,,Villa Oasis Nusa Dua
+Indonesia,,Seminyak,Gang Bisma ,0,,Villa Kupu-Kupu Seminyak Bali
+Indonesia,,Canggu,"Jalan Munduk Batu Belah, Pererenan ",0,,Bali Serenity Villa
+Indonesia,,Canggu,"Jalan Segara Perancak, Pantai Berawa",0,,Villa Kaira
+Indonesia,,Canggu,"Jl. Nelayan, Canggu, North Kuta",0,,Villa Nelayan By Nakula Management
+Indonesia,,Ubud,"Br. Kelod Belumbang, Desa Kenderan Kec. Tegalalang, Gianyar",0,,Kenderan Villas
+Indonesia,,Seminyak,"Jl. Beji Ayu Gang 2, Sunset Road",0,,Sunrise Villa Kuta
+Indonesia,,Tuban,Jl. Puri Gerenceng,0,,The Alit
+Indonesia,,Seminyak,Jl Sari Temuku,0,,Villa Avisha by Nagisa Bali
+Indonesia,,Bedugul,Jl. Raya Denpasar-Singaraja km.51,0,,Villa Sinta
+Indonesia,,Seminyak,Jl. Raya Oberoi,0,,The Suites Villa
+Indonesia,,Canggu,Jl. Subaksari Berawa,0,,Segara Bayu Villa Bali
+Indonesia,,Tanjung Benoa,Jl. Pratama No. 99 Tanjung Benoa,0,,81 Degrees East Benoa Hotel Bali
+Indonesia,,Ubud,PO Box 165 Nyuhkuning ,0,,Alam Indah
+Indonesia,,Padangbai,"Gang Melanting 5, Bali",0,,Lemon House Padangbai
+Indonesia,,Sanur,"Jalan Tirta Ening Gang 2 No's, 6 SANUR Bali.",0,,BIG Pineapple Backpackers
+Indonesia,,Nusa Lembongan,Br. Kaja,0,,The Point Resort Lembongan
+Indonesia,,Seminyak," Cendrawasih Street, Petitenget",0,,Mahala Hasa
+Indonesia,,Legian,Padma Utara Street Legian Kuta,0,,Sari Beach Hotel
+Indonesia,,Kuta,Kuta Square Blok A/20,0,,Rumah Kayu Bali
+Indonesia,,Jimbaran,Jl Toyaning gg Drupadi I no 2,0,,Ganggas Homestay
+Indonesia,,Seminyak,Petitenget street,0,,Villa Prana Bali
+Indonesia,,Ubud,Jalan Raya Ubud,0,,Puri Saren Agung
+Indonesia,,Candi Dasa,"Jl. Ndalem Agung Mendira, Next to Crystal Beach Hotel, Sengkidu",0,,Candidasa Backpacker
+Indonesia,,Kuta,Jl Wana Segara Gang Handayani No. 8,0,,Segara Villas Kuta
+Indonesia,,Kuta,Jl Abimanyu Seminyak - Kuta,0,,Bali Holiday
+Indonesia,,Uluwatu,"Jl. Labuhan Sait, Padang Padang Pecatu",0,,Castello Matasapi Villas
+Indonesia,,Seminyak,Jalan Sunset No. 88,0,,Safin Inn Harmony Seminyak
+Indonesia,,Seminyak,"Jl. Petitenget, Komplek Villa Kendal No 30",0,,Villa Aroha Seminyak
+Indonesia,,Jimbaran,Jalan Raya Uluwatu Gang Mecutan 7,0,,Suzanne Home Stay
+Indonesia,,Seminyak,Jl. Braban No. 47C,0,,Villa Teman Seminyak
+Indonesia,,Kuta,"Jl. Dewi Sartika,Gg Nusa indah",0,,Nom House
+Indonesia,,Ubud,"Jl. Tirta Tawar, Br. Junjungan, Ubud",0,,Kishi-Kishi House
+Indonesia,,Saba Bai,"Ida Bagus Mantra, Banjar Saba - Belah Batu",0,,Villa Le Jardin de Bali
+Indonesia,,Legian,"Jl. Kayu Jati Petitenget, Kuta, Seminyak",0,,Bora Bora Villas
+Indonesia,,Sanur,"Jalan Batursari ,Bali 80228",0,,Sanur Village
+Indonesia,,Kerobokan,"Jalan Pengubugan, Gang Kayu Nagasari No.12, Banjar Silayukti",0,,La Bali Home Stay
+Indonesia,,Pecatu,Jln. Labuan Sait ,0,,Top Hill Villas Uluwatu
+Indonesia,,Seminyak,Jl Pura Bagus Teruna - Kuta,0,,Saphir Mabisa Inn
+Indonesia,,Canggu,"Jl. Subak Sari, Berawa Beach, Canggu, Bali 5",0,,Subak Sari
+Indonesia,,Kintamani,Penelokan Kintamani Bangli,0,,Mertasari Hotel and Restaurant
+Indonesia,,Kerobokan,"Jl. Lestari No. 9x, Br. Umalas Kauh Kerobokan - Bali-Nusa Dua ",0,,Umalas Equestrian Resort
+Indonesia,,Celukan Bawang,Jl Ayodya Pura,0,,Villa Brongbong Pantai
+Indonesia,,Jimbaran,Jl. Taman Giri,0,,The Hill Villas at Nusa Dua
+Indonesia,,Ungasan, Jalan Balangan Banjar Werdhi,0,,Rental Villas Bali
+Indonesia,,Seminyak,"Jl. Bali Deli, Kunti - Seminyak",0,,VILLA FRANGIPANI Seminyak
+Indonesia,,Amed,Jln Raya Bunutan Amed Beach,0,,Tradisi Villas
+Indonesia,,Seminyak,Jalan Kerta Rahayu A33suwung Kangin,0,,Villa Dua Seminyak
+Indonesia,,Pulukan,"Banjar Samblong, Madewi Village, Negara",0,,The Puri Shanti Villas at Madewi
+Indonesia,,Nusa Dua,"Taman Ayun Street no 10, Taman Mumbul",0,,Villa Balipusri
+Indonesia,,Ubud,Banjar Sebali Tegal Alang Gianyar,0,,Chapung SeBali Resort & Villa
+Indonesia,,Canggu,"Jalan Batu Mejan, Gang Kampung Bali 2 no 2, Echo Beach,",0,,Ole Ole Ollie
+Indonesia,,Legian,Jalan Kunti Utara No 9 Rk Seminyak Kuta Bali Indonesia,0,,Ratu Kharisma Villa
+Indonesia,,Kuta,Jalan Wenara Wana,0,,Citrus Tree B&B - Pering
+Indonesia,,Canggu,"Jl. Pantai Berawa, Kunti No. 31 ",0,,Villa Rock Canggu
+Indonesia,,Seminyak,Jalan Beji Ayu Vi Sunset Road Semin Kuta,0,,Vinly Villa Bali
+Indonesia,,Uluwatu,"Jl. Labuan Sait ,Bali",0,,Sundaram S Guest House
+Indonesia,,Denpasar,"Jl. Sekarsari Gang Batur Indah No.2, Padang Galak, - Sanur",0,,The Raifu Batur Indah Villas
+Indonesia,,Kubutambahan,"Jl. Airsanih ,Bali",0,,Tara Airsanih
+Indonesia,,Seminyak,Jalan Kayu Cendana Braban Seminyak,0,,Braban Villas
+Indonesia,,Bunutan,"Jemeluk - Amplapura ,Bali",0,,Kusuma Jaya Indah Bungalow
+Indonesia,,Antasari,"Balian Beach Pengasahan ,Bali 82162",0,,Krisna Villas Guest S House
+Indonesia,,Amed,"Jl. Raya Amed Banyuning ,Bali 80852",0,,Paradise Bungalow & Restaurant
+Indonesia,,Ubud,Jl. Suweta No.24,0,,Rumah Rio
+Indonesia,,Legian,Jl Dewi Sri IV No 5 Sunset Road Seminyak,0,,Tanjung Lima Seminyak Villas
+Indonesia,,Nusa Lembongan,"Br. Kaja, Sanghyang Bay ,Bali",0,,Alam Nusa Hut's & Spa
+Indonesia,,Seminyak,Jl Petitenget Gang Rahayu IV No 7 Petitenget Seminyak 80361 Bali Indonesia,0,,Artisane Villas by Premier Hospitality Asia
+Indonesia,,Seminyak,Jalan Batubelig No.7,0,,Pondok Chandra
+Indonesia,,Kerobokan,Jalan Umalas 2,0,,Villa Pearl Bali
+Indonesia,,Kerobokan,Jl. Muding Batusangian VII No. 05,0,,Cahya Residence
+Indonesia,,Kuta,Gang Poppies 1,0,,New Arena Beach Resort
+Indonesia,,Denpasar,Jl. Hang Tuah Sanur - Bali,0,,Inna Grand Bali Bch-Dlx Twr Wg
+Indonesia,,Kuta,Jl Kubu Anyar No 40 Banjar Anyar,0,,Hotel Kuta A1
+Indonesia,,Candi Dasa,"P.O. Box 3055, Denpasar, Central Karangasem",0,,Kubu Bali
+Indonesia,,Ungasan,"Jl. Pura Melang, Kelod, Banjar Pantigiri",0,,Alam Bali Villa
+Indonesia,,Ubud,Jl Penestanan Kelod,0,,Le Sabot
+Indonesia,,Jimbaran,"Jl. Darmawangsa No. 168 Kampial, Nusa Dua",0,,Kevala Villa
+Indonesia,,Amed,"Jl.Raya Amed, Desa Amed Purwakerti",0,,Redana Homestay
+Indonesia,,Canggu,"Jl. Pantai Brawa, Gang Pura Daton No. 1, Bali",0,,Moments Canggu
+Indonesia,,Seminyak,"Jl. Raya Seminyak, Gg. Cafe Moka",0,,Villa Leopold
+Indonesia,,Kerobokan,Jalan Kuwun II Gang Rajawali No.2,0,,Kavilla Bali
+Indonesia,,Tua,"Jl. DEWI SRI, LEGIAN 8",0,,Aston At Grand Kuta
+Indonesia,,Pemuteran,"Desa Pemuteran ,Bali 81155",0,,Bagus Home Stay Pemuteran Pemuteran
+Indonesia,,Singaraja,"Jalan Pattimura ,Bali 81111",0,,Vineyard Bali Villa
+Indonesia,,Payangan,"Jalan Raya Payangan, Ubud",0,,Como Shambhala Estate Payangan
+Indonesia,,Ubud,Banjar Baung Desa Sayan Ubud,0,,Gayatri Villa
+Indonesia,,Seminyak,Jl. Abimanyu 66 Seminyak Kuta-Bali - Denpasar,0,,Contiki Resort for 18-35s
+Indonesia,,Seminyak,Jalan Telaga Waja No.1,0,,Villa Bunga Melati
+Indonesia,,Legian,Jl. Padma Utara Legian Kaja Legian Beach 80361,0,,Maharta Hotel & Spa
+Indonesia,,Seminyak,Jalan Sarinande 22,0,,Luna2 Private Hotel Seminyak
+Indonesia,,Tanjung Benoa,"Jalan Pratama 66, Nusa Dua 80361, Bali Indonesia - Bali-Nusa Dua ",0,,Royal Beach Benoa
+Indonesia,,Seminyak,"Jalan Arjuna (66), Gg. Kebyar 1 No.1",0,,Blue Caviar Bali Villa
+Indonesia,,Sanur,Jalan Duyung No.5,0,,Villa Chantique
+Indonesia,,Jimbaran,"Jalan Perumahan Dosen Udayana blok D - 24, Jimbaran ",0,,Joy Hills Hotel
+Indonesia,,Uluwatu,Jl.Batu Belig No.999ab Kerobokan,0,,The Akasha Private Beach Villa
+Indonesia,,Pecatu,Blok 5 Pecatu Indah Resort,0,,U Agathis
+Indonesia,,Kuta,Jalan Kartika Plaza,0,,Santika Kuta Beach Hotel
+Indonesia,,Denpasar,"Jalan raya Uluwatu,Kahuripan Street",0,,The Dreamland Luxury Villas And Spa
+Indonesia,,Legian,Jl. Werkudara 525,0,,Puri Anggrek Hotel
+Indonesia,,Nusa Lembongan,"PO Box 3548 Denpasar, Benoa Harbour",0,,Hai Tide Beach Resort
+Indonesia,,Tua,Banjar Baru,0,,Rumah Desa
+Indonesia,,Canggu,Jl. Semat Gg. Jalak 8 No 19 ,0,,Villa Bukaya
+Indonesia,,Jimbaran,"Jalan Jimbaran Hill, No. 99, Bali",0,,Villa Paradise Jimbaran
+Indonesia,,Seminyak,"Jalan Pangkung Sari, Banjar Taman - Seminyak",0,,Aston Bhavana Villas Seminyak
+Indonesia,,Canggu,Jalan Raya Semat Gang Nuri,0,,Villa Athena Canggu
+Indonesia,,Manggis,Jalan Pantai Buitan Kelod,0,,Lumbung Damuh
+Indonesia,,Legian,Jalan Dewi Sri No.19,0,,Gosyen Hotel Bali
+Indonesia,,Ubud,8 Jl.Raya Pengosekan Main Road,0,,Arma Villas
+Indonesia,,Baturiti,"Desa Pacung ,Bali",0,,Pacung Indah
+Indonesia,,Seminyak,JL Saraswati I Gang Bidadari IV No 2 Seminyak 80361 Indonesia,0,,Villa Umah Puri Seminyak
+Indonesia,,Kuta,Wanasegara Street Number 123tuban Kuta,0,,Bali Wood Property At Aston Kuta Residence Kuta
+Indonesia,,Pemuteran,Various Addresses,0,,Del Nomad
+Indonesia,,Ubud,Penestanan Kelod,0,,Pondok Nang Rinta
+Indonesia,,Kerobokan,"Jl. Umalas 2, Banjar Umalas Kauh",0,,Satnam Villas
+Indonesia,,Nusa Lembongan,Tamarind Beach Lembongan Island,0,,Bali Tamarind Lembongan Cottage
+Indonesia,,Candi Dasa,"Pantai Mendira Banjar Mendira Desa Sengkidu, Manggis",0,,Villa Nilaya Bali
+Indonesia,,Seminyak,Jalan Pangkung Sari - Seminyak,0,,Sesari Bali
+Indonesia,,Kerobokan,Jalan Bumbak,0,,Villa Rumah Shiraz
+Indonesia,,Seminyak,Jl Bidadari 2 B no 7,0,,S Villa
+Indonesia,,Ungasan,Jl Pura Batu Pangeh Ungasan - Denpasar,0,,Bali Cliff Resort
+Indonesia,,Ubud,Jl. Jukut Paku,0,,Michi Retreat Ubud
+Indonesia,,Tanjung Benoa,Jl. Pratama Gg. Nusa Indah No. 10,0,,Villa Bintang Tanjung Benoa
+Indonesia,,Kuta,Jalan Legian 190 Kuta,0,,Samsara Hotel and Spa
+Indonesia,,Kuta,"Jl. Kayu Jati Petitenget, Seminyak",0,,Casa Indigo
+Indonesia,,Canggu,Jalan Pantai Pererenan Gg.Hikari No.77,0,,Hikari Villas
+Indonesia,,Legian,"Jl Raya Senggigi Km 4, PO Box 1112, Mataram, Lombok,",0,,Jayakarta Beach Resort
+Indonesia,,Umeanyar,Umeanyar Seririt,0,,Ratu Ayu Villas
+Indonesia,,Tua,"Candidasa Area, Karang Asem, Bali, Indonesia.",0,,Kubu Bali Cottages
+Indonesia,,Subagan,Jalan Bisma,0,,Pringga Juwita Water Garden
+Indonesia,,Kerobokan,Jl. Bumbak Gang Kertha Rahayu No. 11,0,,Kamali Villas
+Indonesia,,Nusa Lembongan,"Tanjung Sanghiang Bay, Mushroom Bay",0,,Indos Diver Resort
+Indonesia,,Ubud,Desa Sayan,0,,Kayumanis
+Indonesia,,Ubud,Jalan Raya Nyuh Kuning Pengosekan,0,,Ubud Village Resort-Rice Field
+Indonesia,,Seminyak,"21 Plawa Street ,Bali",0,,Dinata Villa Seminyak
+Indonesia,,Tanjung Benoa,Jl. Setra Ganda Mayu Tanjung Benoa Nusa Dua 80361,0,,D & G Residence
+Indonesia,,Payangan,Banjar Semaon Desu Puhu Payangan,0,,The Vimala Wedding Pavilion And Villas
+Indonesia,,Denpasar,Jl Imam Bonjol No 45 45,0,,Taman Suci
+Indonesia,,Legian,Jalan Padma Utara,0,,Pondok Mesari Legian
+Indonesia,,Seminyak,Jl Raya Kampial Nusa Dua,0,,Ocean Blue Bali
+Indonesia,,Seminyak,Jalan Beraban Br Taman Kerobokan Kuta Bali Indonesia,0,,The Seminyak Village Resort & Spa
+Indonesia,,Legian,"Werkudara Street No. 523, Legian",0,,Sus Beach Hotel Legian Legian
+Indonesia,,Denpasar,"Jl. Cokroaminoto No. 23, Denpasar",0,,Balun Bali
+Indonesia,,Buwit,Cepaka Village Peti Tenget,0,,Villa Sungai
+Indonesia,,Ubud,P.O. Box 432 Penestanan Kaja,0,,Taman Rahasia Boutiques Resort
+Indonesia,,Legian,"Jalan Patih Jelantik No. 55, Legian",0,,Kubu Mentig Legian
+Indonesia,,Seminyak,Jl. Pangkung Sari No.45 Br. Taman Kuta-Seminyak,0,,Taman Individual Villa
+Indonesia,,Pererenan,"Kemah Tinggi Sogsogan, Mengwi",0,,Villa Kemah Tinggi
+Indonesia,,Seminyak,Kedewatan - Ubud,0,,Villa Indah Ubud Seminyak
+Indonesia,,Lovina,"Lovina, Po Box 195, Singaraja, Lovina Beach, Bali, Indsia",0,,Rambutan Lovina Hotel
+Indonesia,,Gianyar,"Br. Cucukan, Desa Medahan ,Bali 80581",0,,L Orange Villas
+Indonesia,,Tanjung Benoa,Jalan Pratama 62 Nusa Dua,0,,Puri Tanjung
+Indonesia,,Tanjung Benoa,Jalan Pratama 106 Tanjung Benoa,0,,Benoa Rose Residence One
+Indonesia,,Tulamben,"Puri Tulamben Dive Resortkarangasem, ,Bali",0,,Puri Tulamben Dive Resort & Spa
+Indonesia,,Kuta,Jalan Raya Petitenget 88X Banjar Umasari,0,,Casa Indigo Kuta
+Indonesia,,Kuta,Jl. Singosari 55,0,,Agung Beach Bungalows
+Indonesia,,Lovina,Jalan By Pass Ngurah Rai Suwung Denpasar 622 622,0,,Coconut Beach Resort Lovina
+Indonesia,,Ubud,Jalan Nyuh Bojog Banjar Nyuh Kuning Ubud 80571 Indonesia,0,,Chili Ubud Cottage
+Indonesia,,Ubud,Jalan Bisma,0,,Honeymoon 2nd Hotel
+Indonesia,,Pecatu,Jl Kartika Plaza 7 A Kuta,0,,Aisis Luxury Villas And Spa
+Indonesia,,Jimbaran,Jl Uluwatu I Jimbaran,0,,The Jimbaran
+Indonesia,,Kuta,Ji Bypass Ngurah Rai No 999,0,,Crystal Kuta
+Indonesia,,Ubud,Banjar Penestanan Kaja Sayan,0,,Taman Rahasia Tropical Sanctuary and Spa
+Indonesia,,Ubud,"Jl. Gunung Sari, Ambengan, Peliatan ",0,,Sri Sunari Guest House
+Indonesia,,Pemuteran,Jl. Raya Pemuteran,0,,Magus Homestay Pemuteran
+Indonesia,,Canggu,Jalan Pantai Pererenan ,0,,Pondok Nyoman Resort
+Indonesia,,Kuta,Jalan Poppies 1 Gang Sorga,0,,Mimpi Bungalows Kuta
+Indonesia,,Nusa Lembongan,Jungutbatu,0,,Hotel Suka Nusa Huts
+Indonesia,,Lovina,Jl Raya Tukad Mungga,0,,Kubu Beach Lovina
+Indonesia,,Canggu,Jalan Pantai Pererenan,0,,V I P Villa Indah Pragina
+Indonesia,,Ungasan,"Jln Karang Kembar No 2, Banjar Jabapura, Desa Kutuh",0,,Karang Kembar Estate Villa 2
+Indonesia,,Seminyak,Jalan Raya Seminyak Gang Anyelir No 5 Seminyak,0,,Villa Anyelir
+Indonesia,,Amed,Jemeluk Bay ,0,,Villa Disana
+Indonesia,,Lovina,Lovina Beach Kalibubuk,0,,Pulestis Beach Hotel
+Indonesia,,Ubud,"Banjar Pesalakan, Desa Pejeng Kangin",0,,Swallow Guesthouse
+Indonesia,,Denpasar,Jl. Pemuda 3 No. 30,0,,Puri Tresna Villa
+Indonesia,,Ubud,Penestanan Kelod,0,,Runa Guesthouse
+Indonesia,,Denpasar,Jl.Pidada No. 27,0,,Lavarta Hotel
+Indonesia,,Ubud,Jalan Sukma No.28,0,,Biang's Cafe & Homestay
+Indonesia,,Seminyak,Jl. Abimanyu No 15 X,0,,Puri Duyung Hotel
+Indonesia,,Ubud,Banjar Mawang Kaja No. 88 Lod Tunduh ,0,,Villa Ubud Corner 88
+Indonesia,,Denpasar,"Jl.Sekuta,gang Melati 24, Sanur , Bali , Indonesia",0,,Daydee Homestay
+Indonesia,,Senganan,"Jl. Raya Angsri, Banjar Angsri, Tabanan ",0,,WAA Angsri Jatiluwih Hotel
+Indonesia,,Denpasar,Jl. Pidada III ,0,,Ayunda Homestay
+Indonesia,,Legian,"Jl. Double Six, Pantai Arjuna No. 18 ",0,,Seaside Bali Villas
+Indonesia,,Sanur,Jalan Batur Sari Gg.6 no.66,0,,Kampung Batursari
+Indonesia,,Sanur,Jl. Betngandang I No.4 ,0,,Hotel Diyan Ayu
+Indonesia,,Seminyak,"Jalan Mertasari, Oberoi ",0,,Villa Vanilla Seminyak
+Indonesia,,Canggu,"Gang Villa Ayu, Jalan Munduk Catur, Echo Beach",0,,Villa Ranny
+Indonesia,,Seminyak,Jl. Laksmana ,0,,Villa Arria
+Indonesia,,Kuta,"Jl. Kubu Anyar no 20 xx, Kuta",0,,Hotel Tunas Pica
+Indonesia,,Canggu,"Jl. Pura Kayu Putih, Tegal Gundul ",0,,Brawa Villas
+Indonesia,,Ubud,Jalan Penestanan Kaja,0,,Villa Kita II
+Indonesia,,Denpasar,Jl. Teuku Umar Barat No. 888,0,,Swan Apartment
+Indonesia,,Ubud,Jalan Ketik Lantang ,0,,Chika Chika Villa
+Indonesia,,Denpasar,Jalan. Nusa Indah No. 81,0,,Hotel Puri Nusa Indah I
+Indonesia,,Denpasar,"Jl. Pandu, Gang Pandu Permai No.6, Banjar Dukuh, Dalung, Kuta Utara",0,,Puri Mutia Homestay
+Indonesia,,Denpasar,Jl. Tunggak Bingin Blok J No. 3 ,0,,Casa Apsara Guest House
+Indonesia,,Seminyak,Jalan Mertanadi No. 92,0,,Villa Lantana Seminyak
+Indonesia,,Sanur,Jl. Sekuta,0,,Villa Sekuta Sanur
+Indonesia,,Kuta,Jalan Poppies I Gang Sorga,0,,Sekar Bali Homestay
+Indonesia,,Negara,"Bl Subak, Pohsanten",0,,Bunga Bali Resort & Spa
+Indonesia,,Denpasar,Jalan Gatot Subrata Barat 309,0,,Hotel Puri Gatsu Indah
+Indonesia,,Negara,Jalan Ngurah Rai 96,0,,Graha Sekar Melati Hotel & Restaurant
+Indonesia,,Seminyak,Jl. Laksmana Gg. Astinapura No. 22,0,,Villa De Suma
+Indonesia,,Sanur,Jalan Hang Tuah No. 49 ,0,,Private Apartment at Alit Beach Hotel
+Indonesia,,Kubutambahan,"Jalan Raya Kubutambahan - Air Sanih, Kubutambahan, Bali 56102",0,,Air Sunny Homestay
+Indonesia,,Kerobokan,Jl. Pengubengan Kauh Simplicity Residence B-7,0,,The Harmony Villa at Kerobokan
+Indonesia,,Lovina,"Jl. Pemaron Lovina, Singaraja",0,,Villa Lotus Lovina
+Indonesia,,Tabanan,"Belalang Kediri, Tabanan",0,,Villa Tropicano
+Indonesia,,Seminyak,Jl. Nakula 88CD ,0,,Apsara Apartment
+Indonesia,,Jimbaran,"Jl. Pantai Balangan Gang 1, No. 110, Ungasan, Jimbaran",0,,Villa Helen Jimbaran
+Indonesia,,Ungasan,"Puri Bukit Pesona 5, Jln. Gunung Payung - Bukit Kutuh",0,,Amazing Villa on Bukit
+Indonesia,,Seminyak,Jl. Laksamana Gg. Putu No.3,0,,Villa Jesse
+Indonesia,,Seminyak,Jalan Pangkung Sari Gang Jepun,0,,Guest House Villa Ratu Seminyak
+Indonesia,,Blahbatuh,"Jl. Ida Bagus Mantra, Pering Riverview Estate G 1, Blahbatuh, Gianyar",0,,House Of Mastika
+Indonesia,,Denpasar,"Benoa Harbour, Denpasar - bali",0,,Lady R Yacht
+Indonesia,,Canggu,"Jl. Tumbak Bayuh. Desa Pererenan, Canggu Bali ",0,,La Villa Bali - Mansion Luxury Canggu Estate - The Mayan
+Indonesia,,Sanur,Jl. Pasar Sindu No. 10,0,,Villa Ning Sanur
+Indonesia,,Kerobokan,Jl. Umalas I Gg. XVII,0,,Villa Umalas Bali
+Indonesia,,Kuta,"Jl. Mataram, Gg. Samuantiga No. 3 Kuta",0,,Purwaka Guest House
+Indonesia,,Pererenan,"Jl. Pantai Seseh, Desa Cemagi ",0,,Villa Seseh Serasi
+Indonesia,,Amed,"Jalan Amed, Purwakerti - Karangasem",0,,Bungbung Homestay
+Indonesia,,Candi Dasa,Jl. Pura Segara Sengkidu,0,,Rumah Isah
+Indonesia,,Negara,Jalan Soka No. 99 ,0,,Karana Negara Hotel West Bali
+Indonesia,,Canggu,Jl. Pantai Berawa Gang Bima No. 4 ,0,,Love Villa Bali
+Indonesia,,Kerobokan,"Jl. Taman sari ,Citra garden Boulevard kav 10B",0,,Labina Villa
+Indonesia,,Seminyak,"Jl. Petitenget 2001, Gg. Kendal No. 2 ",0,,Villa Moon 2
+Indonesia,,Warnasari,"Dusun Kembangsari, Desa tukadaya, kecamatan melaya, jembrana-bali ",0,,Ariana Bali Villa
+Indonesia,,Ubud,"Br. Kalah, Peliatan ",0,,Villa Uma Soca
+Indonesia,,Dencarik,Jl. Tulip No. L 4 Temukus,0,,Villa Kupu Kupu Lovina
+Indonesia,,Pemuteran,Jl Singaraja-Gilimanuk,0,,The Lilliput Resort and Spa
+Indonesia,,Seminyak,Jalan Kayu Aya No. 60X,0,,Villa Exotic
+Indonesia,,Denpasar,"Banjar Pasekan, Desa Sembung, Mengwi, Badung, Bali",0,,Private Village House
+Indonesia,,Nusa Dua,"Jalan Bulakan Sari Gang Seruni, No. 5",0,,Rumah Adnyana Guest House
+Indonesia,,Canggu,Jalan Bantan Kangin,0,,Villa Becca
+Indonesia,,Jimbaran,Jalan Poh Gading No. 888,0,,Villa 888
+Indonesia,,Seminyak,"Jalan Bidadari 2, gang Ajurna, Kuta",0,,Villa Shiva
+Indonesia,,Seminyak,Jl. Raya Mertanadi 69 Lima Dua No. 3,0,,Kinky Karma Villa
+Indonesia,,Sidemen,"Jalan Raya Sidemen, Banjar Sidemen, Karangasem",0,,Pondok Wisata Sidemen
+Indonesia,,Kuta,Jl. Puri Grenceng GG. Mangga No. 9x Banjar Segara Kuta,0,,Uncle Peter Homestay
+Indonesia,,Ubud,Jl. Kajeng No. 3,0,,Han Snel Siti Bungalow
+Indonesia,,Sanur,Jalan Pungutan 42 B,0,,Sanur Pungutan House Villa
+Indonesia,,Nusa Dua,"Perum Nusa Damai, Jl. Angrek No.5",0,,Villa Anggrek Nusa Damai
+Indonesia,,Ungasan,"Jalan Tundun Penyu, Balangan",0,,Villa Rent Bali
+Indonesia,,Tulamben,"Tulamben, Kubu, Karangasem",0,,Deep Blue Studio Tulamben
+Indonesia,,Amed,"Jln. Raya Amed, Abang - Karangasem",0,,Moonshine Bungalows
+Indonesia,,Ubud,Banjar Gajah Tegallalang,0,,Villa Nirmala Nature Bungalow B&B
+Indonesia,,Candi Dasa,"Jl. Raya Candidasa No.9, Catra Apartments",0,,Rumah Nancy
+Indonesia,,Seminyak,"Jalan Beraban, 84 ",0,,Villa Soko
+Indonesia,,Ungasan,Jl. Tundun Penyu Ungasan Balangan,0,,Villa Frangipani by Nagisa Bali
+Indonesia,,Ubud,"Jl. Raya Tegalalang, Desa Ceking",0,,Tambora Ubud
+Indonesia,,Ubud,"Jalan Raya Sayan no 70. Br Kutuh, sayan ",0,,Matahari Spa & Villa
+Indonesia,,Sanur,Jl. Sekuta Gang. Seruni No. 8 ,0,,Villa Seruni
+Indonesia,,Kerobokan,"Gang XVI, Jalan Umalas 2",0,,Villa Padawan
+Indonesia,,Jimbaran,"Jalan Palem No.9, Balangan, Jimbaran - Bali",0,,Rumah Warna
+Indonesia,,Kerobokan,"Jl. Pengubengan Kauh, Gang Indra 1",0,,The White House Kerobokan
+Indonesia,,Seminyak,Jalan Mertanadi Gang Kubu Carik,0,,Pinewood Villa
+Indonesia,,Seminyak,Jalan Petitenget Gang Kendal No. 33,0,,Villa Cantik Seminyak
+Indonesia,,Seminyak,Jl Laksamana No 22 Laksmana Villas Estate 80361 Seminyak Indonesia,0,,Villa Sky Li by Nagisa Bali
+Indonesia,,Ubud,Pejeng Kanging desa Cemadik,0,,Puri Kia Ora
+Indonesia,,Ubud,Jl. Hanoman No. 60,0,,Ming Ming Homestay
+Indonesia,,Amed,"Jalan Amed, Purwakerti - Karangasem",0,,Bali Beach Amed Homestay
+Indonesia,,Bunutan,"Amed Street, Karangasem",0,,Eurodive and Amed Backpackers
+Indonesia,,Ubud,Jalan Bisma,0,,Villa Nyoman Bisma
+Indonesia,,Denpasar,Jalan. Nangka Selatan 98 A,0,,Taman Wisata Hotel
+Indonesia,,Sanur,Jalan Tunggak Bingin No. 5a,0,,Beautiful Villa Sanur Bali
+Indonesia,,Ubud,Jalan Penestanan,0,,Sradha Joglo Penestanan Ubud
+Indonesia,,Ubud,Jalan Tirta Tawar No 69,0,,Happy House Villa
+Indonesia,,Canggu,Jl Pantai Batu Mejan Padang Linjong,0,,Villa Asante - an elite haven
+Indonesia,,Jimbaran,"Jalan Karangmas Sejahtera 100X, F5, Jimbaran, Bali",0,,Javaconia Villa Bali
+Indonesia,,Denpasar,Jl Raya Celuk,0,,Sagario Villa
+Indonesia,,Blahbatuh,JL. Raya Pantai Saba,0,,Istana Impian 2
+Indonesia,,Denpasar,"Jl, Raya Hayam Wuruk 179XX Tanjung Bungkak Sanur ",0,,Hotel Trio Bali
+Indonesia,,Ketewel,Jalan Pantai Pabean - By Pass Klungkung ,0,,Majapahit Beach - Villa Raj
+Indonesia,,Ubud,Jalan Sok Wayah,0,,The Rice Joglo
+Indonesia,,Ubud,"Jalan Subak Sala, Banjar Sala, Pejeng Kawan",0,,Benno House
+Indonesia,,Kubu,"Jalan Puskesmas, Tulamben",0,,Villa Sharka
+Indonesia,,Seminyak,"Jl. Kayu Aya, Gang Damai No. 29 G, Sseminyak",0,,Villa Crystal Seminyak
+Indonesia,,Seminyak,"Jl. Yudistira, Gang Arjuna No. 1 ",0,,Nata House
+Indonesia,,Canggu,Jalan Pantai Pererenan,0,,Love Buzz Village
+Indonesia,,Ubud,"Br. Bangkiang Sidem, Keliki, Tegallang",0,,Wisnaya Guest House
+Indonesia,,Ubud,"Br. Bangkiang Sidem, Keliki, Tegallalang",0,,Novita Guest House
+Indonesia,,Seminyak,Jln. Drupadi gg. Mertasari No. 5,0,,Villa Dolphin
+Indonesia,,Kubutambahan,Depaha Sanglung,0,,Sanglung Villa
+Indonesia,,Lovina,"Jalan Mawar, Kalibukbuk",0,,Bayu Kartika Beach Resort
+Indonesia,,Canggu,Different locations in Canggu,0,,Sakova Villas Canggu 2
+Indonesia,,Seminyak,"Jalan Dyanapura, Gang Bunga Kecil No.10A",0,,Mutiara Selancar Bali Private Villa
+Indonesia,,Lovina,Jalan Mawar,0,,Taman Lily's Bungalow
+Indonesia,,Jimbaran,"Perumahan Padma Blok A No 5, Jl. Bukit Sari, Jimbaran",0,,Homy Holiday House
+Indonesia,,Sanur,Address : Jalan Muktisari Gang Biyu no.3 Sanur.,0,,Sanur Oasis Villa
+Indonesia,,Ubud,Jalan Bisma,0,,Ibu Dayu House
+Indonesia,,Ubud,Banjar Campuhan (belakang supermarket Bintang),0,,Suryahouse Ubud
+Indonesia,,Seminyak,Jalan Bidadari - Kerobokan - Mertanadi - Seminyak - Bali,0,,Villa Laurent
+Indonesia,,Ubud,"Jalan Raya Teges, Desa Peliatan",0,,Umah Bidadari Villa
+Indonesia,,Denpasar,Graha Melasti 1 No 1 Jalan Sekar Sari Kesiman Kertalangu ,0,,Villa Lotus Sanur
+Indonesia,,Canggu,"Jl. Veteran, Br Gunung - Canggu - Bali",0,,Yadnya Villa Bali
+Indonesia,,Denpasar,Jl. Glogor Carik Gg Monyet No. 11,0,,Asti Bali Guest House
+Indonesia,,Jimbaran,Jalan Mecutan 7 No.1,0,,Belindo House
+Indonesia,,Canggu,Jl Batubolong,0,,Villa Shanti Manis
+Indonesia,,Seminyak,Jl. Camplung Tanduk No. 28,0,,Z Hotel Dhyanapura
+Indonesia,,Ungasan,"Jalan Karang Kembar, Desa Kutuh, Badung",0,,Sakova Villas Ungasan
+Indonesia,,Seminyak,Jalan Yudistira,0,,Villa Nata Seminyak
+Indonesia,,Denpasar,Jl Subak Mungkul,0,,Guna's Joglo House
+Indonesia,,Nusa Dua,"Jl. Pantai Mengkiat, BTDC Comlex",0,,The Golf Residence Nusa Dua
+Indonesia,,Ubud,Jalan monkey Forest,0,,White House Villa Cinta
+Indonesia,,Seminyak,"Jalan Drupadi III, No. 19 ",0,,Villa 19 Seminyak
+Indonesia,,Blahbatuh,Jalan Pantai Saba ,0,,Villa Rumah Bunga
+Indonesia,,Kerobokan,"Citra Garden Boulevard, Taman sari PCP 7 Kerobokan, Bali",0,,Villa D'Alma
+Indonesia,,Kerobokan,"Jl. Taman Sari, Perumahan Citra Garden no A3",0,,Villa Matahari
+Indonesia,,Kerobokan,"Jalan Tunon No. 2, Umalas II",0,,Pondok Umalas
+Indonesia,,Lovina,"Jl. Pemaron Lovina, Singaraja",0,,Villa Pantai
+Indonesia,,Seminyak,"Jl. Raya Seminyak, Gang Keraton 11B",0,,Villa Jumah
+Indonesia,,Seminyak,"Jl. Nakula, Gg. Baik - Baik No. 10X, Seminyak",0,,Anne Villas & Apartment
+Indonesia,,Seraya Barat,"Jalan Puri Ayer, Seraya, Amlapura",0,,Villa Seraya
+Indonesia,,Seminyak,"Jalan Merthanadi, Gang Rama No. 97",0,,Villa Ago
+Indonesia,,Canggu,"Jalan Batu Mejan No. 1, Padang Linjong",0,,Isana Villa
+Indonesia,,Denpasar,Jl. Padang Galak No. 87,0,,Hotel Prada Bali
+Indonesia,,Kuta,Jl Kartika Plaza Kuta,0,,Rani Resort & Spa Bali
+Indonesia,,Sanur,Lantang Hidung 2,0,,Villa Jasmin Sanur
+Indonesia,,Lovina,"Jl. Damai - Lovina, Singaraja",0,,Villa Hilda
+Indonesia,,Ungasan,Jl. Toyaning Br. Wanagiri,0,,The Woods Homestay
+Indonesia,,Kerobokan,"Jl. Raya Semer, Gang Tunjung Mekar No. 16",0,,Zappa Bali Hostel
+Indonesia,,Canggu,Jalan Raya Batu Bolong No. 4,0,,House Batu
+Indonesia,,Seminyak,Jl. Raya Seminyak / Gang Anyelir No.5,0,,Villa Montana Seminyak
+Indonesia,,Canggu,"Jl. Subak Sari, Banjar Tegal Gundul - Tibubeneng ",0,,Bali Blue Duck Villa
+Indonesia,,Canggu,Jalan Raya Babakan,0,,Villa Umah Canggu
+Indonesia,,Ubud,"Br. Tatiapi Kaja, ",0,,Ubud Atrium
+Indonesia,,Amed,"Jl. Amed, Purwakerti, Abang, Karangasem",0,,Bertemu Kamu
+Indonesia,,Lovina,Jl. Seruni Kalibukbuk,0,,Villa Nia
+Indonesia,,Kerobokan,Banjar Kuwum / Semer,0,,Villa Cantik Kerobokan Hotel
+Indonesia,,Denpasar,Jl. Pidada V No. 22 ,0,,Pelangi Bali Homestay
+Indonesia,,Buwit,Different locations in Tabanan,0,,Sakova Villas Tanah Lot
+Indonesia,,Toya Bungkah,"Jalan Umum, Desa Songan, Dr. Dalem, Toya Bungkah",0,,Batur Bungalow
+Indonesia,,Seminyak,"Jl. Bidadari 2F, Banjar Taman, Mertanadi",0,,Villa Celine Seminyak
+Indonesia,,Jimbaran,Jalan Nusa Dua ,0,,Villa Pacifica Residence
+Indonesia,,Candi Dasa,"Jl. Puri Bagus, Dusun Samuh",0,,Hotel Ida Candidasa
+Indonesia,,Payangan,"Br. Tebe Kauh, Melinggih Kelod, Payangan",0,,Melinggih Guesthouse
+Indonesia,,Kuta,Jalan Kubu Anyar Gang Kingkong 1 No.8B,0,,Pondok Lestari
+Indonesia,,Nusa Lembongan,Mushroom Bay,0,,Lembongan Island Villas
+Indonesia,,Dencarik,Jl. Lotus No. 8 ,0,,Villa Hikume Bali
+Indonesia,,Candi Dasa,"Mendira Beach, Sengkidu, Karangasem",0,,Pondok Wisata Dwi Amerta
+Indonesia,,Canggu,Different locations in Canggu,0,,Sakova Villas Canggu Tegal Sari
+Indonesia,,Legian,Jalan Melasti Gang Lebak Bena Legian Kelod Kuta,0,,Lolo House Homestay
+Indonesia,,Saba Bai,"Jl. Alas Arum No. 48, Sukawati ",0,,Villa Pekandelan
+Indonesia,,Seminyak,"Jl. Drupadi 99X, Petitenget",0,,Villa Mata Hari
+Indonesia,,Ubud,"Jl. Suweta, Br. Samban",0,,Pondok Balok
+Indonesia,,Tua,"Jl. Dalem Tarukan No. 7, Taman Mumbul P.O. Box 133, Nusa Dua 80363 Bali - Indonesia",0,,Goodway Hotels And Resort
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Villa Yumi
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Villa Tamika
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Villa Paradise Seminyak
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Dayana Villa Canggu
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Villas De Kampoeng
+Indonesia,,Kerobokan,Jalan Dukuh Indah No. 24 B,0,,Villa Kupu Kupu Kerobokan
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Balinese House Package @ Klungkung
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Villa Reflections
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Villa Pondok Dewik
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Pondok Lembah Dukuh Homestay
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Padoba Mimpi Homestay
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Villa Segu
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Villa Homestay Sanur
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Hotel Ida Candidasa
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Melinggih Guesthouse
+Indonesia,,Gianyar,Dusun Kawan Desa Timuhun Klungkung - Bali,0,,Pondok Lestari
+Indonesia,,Nusa Lembongan,Mushroom Bay,0,,Lembongan Island Villas
+Indonesia,,Dencarik,Jl. Lotus No. 8 ,0,,Villa Hikume Bali
+Indonesia,,Candi Dasa,"Mendira Beach, Sengkidu, Karangasem",0,,Pondok Wisata Dwi Amerta
+Indonesia,,Canggu,Different locations in Canggu,0,,Sakova Villas Canggu Tegal Sari
+Indonesia,,Legian,Jalan Melasti Gang Lebak Bena Legian Kelod Kuta,0,,Lolo House Homestay
+Indonesia,,Saba Bai,"Jl. Alas Arum No. 48, Sukawati ",0,,Villa Pekandelan
+Indonesia,,Seminyak,"Jl. Drupadi 99X, Petitenget",0,,Villa Mata Hari
+Indonesia,,Ubud,"Jl. Suweta, Br. Samban",0,,Pondok Balok
+Indonesia,,Tua,"Jl. Dalem Tarukan No. 7, Taman Mumbul P.O. Box 133, Nusa Dua 80363 Bali - Indonesia",0,,Goodway Hotels And Resort
+Indonesia,,Kerobokan,Jl. Umalas Klecung Gg. Badung Kerobokan,0,,Villa Yumi
+Indonesia,,Denpasar,Jalan Tukad Punggawa 1 No.49,0,,Villa Tamika
+Indonesia,,Seminyak,Jalan Mertanadi No. 42,0,,Villa Paradise Seminyak
+Indonesia,,Canggu,Jalan Raya Semat . Gang Jatayu No.3 Berawa,0,,Dayana Villa Canggu
+Indonesia,,Kerobokan,"Jalan Gunung Salak Utara No.25, Padang Sambian - Kerobokan",0,,Villas De Kampoeng
+Indonesia,,Kerobokan,Jalan Dukuh Indah No. 24 B,0,,Villa Kupu Kupu Kerobokan
+Indonesia,,Seminyak,"Jalan Seminyak, Gang Bima no 7",0,,Villa Reflections
+Indonesia,,Seminyak,Jalan Drupadi No. 11 Gang Jayatu,0,,Villa Pondok Dewik
+Indonesia,,Ababi,"Tirtagangga, Karangasem",0,,Pondok Lembah Dukuh Homestay
+Indonesia,,Ababi,"Tanah Lengis, Ababi",0,,Padoba Mimpi Homestay
+Indonesia,,Denpasar,"Jalan Mahendradata, Pura Banyu Kuning No. A3 ",0,,Villa Segu
+Indonesia,,Sanur,Jalan Bet Ngandang 1/6c,0,,Villa Homestay Sanur
+Indonesia,,Seminyak,"Jalan Dewi Saraswati 2, Seminyak, Kuta",0,,La Chloe Magic Villa
+Indonesia,,Antasari,"Jalan Pedungan, Banjar Bonian, Antap-Selemandeg",0,,Villa Bonian
+Indonesia,,Seminyak,Different locations in Seminyak,0,,Sakova Villas Laksmana Complex
+Indonesia,,Payangan,Desa Singaprang,0,,Sharing Bali
+Indonesia,,Jimbaran,Different locations in Jimbaran,0,,Villa Monkey and Villa Maldino
+Indonesia,,Seminyak,Jl. Mertanadi Gg. Bidadari IIF,0,,Villa Shiva Reva
+Indonesia,,Seminyak,"Jalan Bidadari, Gang. Priuk",0,,Tri Villa 2
+Indonesia,,Seminyak,"Jalan. Sari Dewi No. 12, Basangkasa",0,,Seminyak Suites Resort
+Indonesia,,Baha,"Jl. Teleng , Desa Baha Mengwi - Badung ",0,,The Cengkoks Resort And Villas Badung
+Indonesia,,Sanur,Jalan Pungutan No. 3,0,,Villa Karo Sanur
+Indonesia,,Ubud,"Jl. Tirta Tawar, Br. Junjungan Ubud",0,,Deta Uma Pacung Junjungan House
+Indonesia,,Ubud,"Raya Melayang, Laplapan",0,,Villa Rumah Capung Ubud
+Indonesia,,Nusa Dua,Jalan Pulasari Gang Leci No 342,0,,Villa Evania
+Indonesia,,Dencarik,Jalan Lotus M3,0,,Villa Rigpa
+Indonesia,,Canggu,Jl. Pantai Batu Bolong - Canggu,0,,Pande Soul Canggu
+Indonesia,,Bebetin,"Menyali Village, Sawan District, Buleleng Regency",0,,Bali Nature Explorer
+Indonesia,,Kerobokan,"Jalan Merta Sari, Perum. Puri Priskila 46C",0,,Villa Belin
+Indonesia,,Seminyak,"Jalan Bali Deli, Gang Bali Santi No 19 ",0,,Villa Santi Seminyak
+Indonesia,,Seminyak,Sunset Road 105 ,0,,Shanti Villa Seminyak
+Indonesia,,Seminyak,Jalan Telaga Waja No 10,0,,Villa Victoria Jalan Telaga
+Indonesia,,Sanur,"Jl. Belanjong, No. 22A - B",0,,Rumah Colonial Blanjong
+Indonesia,,Jimbaran,Jl. Bantas Kangin 9B Kedonganan,0,,Mirah Homestay
+Indonesia,,Canggu,Jalan Pipitan Sari ,0,,Villa Joglo Alam
+Indonesia,,Seminyak,Jl. Braban,0,,Sally's Bungalows
+Indonesia,,Canggu,Jalan Pura Kayu Putih No. 90 A,0,,Villa Baraka
+Indonesia,,Kuta,Jl. Kediri 20,0,,Mutiara Homestay
+Indonesia,,Seminyak,"Jl. Yudistira, Puring alley No 8 ",0,,The Lontar Hotel
+Indonesia,,Seminyak,"Jalan Raya Seminyak, Gang Bima 2X & 3X ",0,,Villa E2
+Indonesia,,Kerobokan,Jalan Bumbak 126,0,,Bouganville
+Indonesia,,Nusa Dua,"Jl. Taman Sari, Taman Yasa 1",0,,Villa Francesca Nusa Dua
+Indonesia,,Nusa Penida,Jalan Pantai Kutampi,0,,Pemda Bungalow
+Indonesia,,Lovina,Jalan Damai Kalibukbuk,0,,Resident Lovina
+Indonesia,,Denpasar,Jln Raya Puputan II Blok B3 Renon - Denpasar - Bali,0,,Udayana Lodge Denpasar
+Indonesia,,Jimbaran,"Pasraman Universitas Udayana, Jl RS Udayana, Blok A6 ",0,,Place For Pleasure
+Indonesia,,Seminyak,Jl. Dyhana Pura,0,,Villa by Da Beach
+Indonesia,,Gianyar,Jl Ib Mantra Km 198,0,,Nirwana Beach Club & Spa
+Indonesia,,Nusa Lembongan,"Jungut Batu, Lembongan",0,,Jani Homestay
+Indonesia,,Seminyak,Jl.Raya Seminyak Gg.Keraton No.13,0,,Acacias Villa
+Indonesia,,Seminyak,Different locations in Seminyak,0,,Sakova Villas Sunset Road
+Indonesia,,Lovina,"Jl. Pemaron Lovina, Singaraja",0,,Villa Pemaron
+Indonesia,,Seminyak,Jl. Kayu Cendana No. 2A Oberoi,0,,Williams Studio Room
+Indonesia,,Jimbaran,"Jalan Raya Uluwatu, Gg. Gigit Sari Jimbaran",0,,Moments Jimbaran
+Indonesia,,Kerobokan,Jl. Raya Umalas ,0,,Villa Bali Bali Two
+Indonesia,,Seminyak,Jl. Bidadari ,0,,Villa Kalini
+Indonesia,,Tuban,Jl. Taman Sari 11 A ,0,,Chloe Cottage
+Indonesia,,Ubud,Jalan Kelaban Moding,0,,Komala 2
+Indonesia,,Ubud,Jalan Tirta Tarwar,0,,Pondok
+Indonesia,,Legian,"Jalan Dewi Sri IV, No. 69",0,,Villa Colourful
+Indonesia,,Ungasan,"Jl. Toyaning II Banjar Wanagiri, Gang Ganesha, Ungasan ",0,,Villa Orchidee Bali
+Indonesia,,Tabanan,Jl. Teleng No. 59 X Br. Cengkok Desa Baha,0,,The Cengkok's Resort and Villas
+Indonesia,,Kerobokan,Jl. Bumbak Dauh,0,,Villa Kraal
+Indonesia,,Ubud,Jl. Sriwedari No. 45,0,,Tjeku House
+Indonesia,,Kerobokan,Jl.Pengubengan Kauh No.14,0,,Villa Jasmine Kerobokan
+Indonesia,,Kerobokan,Jl.Tegal Cupek Gang Barata No 2,0,,Cozy Umalas Bali Guest house
+Indonesia,,Ababi,Jalan Desa Temega Kelurahan Padangkerta,0,,Mega View
+Indonesia,,Jimbaran,"Jl. Batur Raya No. 50 Taman Griya, Jimbaran",0,,Cozy House
+Indonesia,,Jimbaran,"Jalan. Uluwatu
+Gang Gigit Sari ",0,,Villa Kalyana
+Indonesia,,Canggu,"Jalan Pantai Berawa No 37, Tegalsari",0,,Villa Cocoon Bali
+Indonesia,,Tigawasa,"Jalan Cempaga / Jalan Air Singsing ,Bali",0,,Hamsa Resort
+Indonesia,,Ubud,Jalan Sriwedari No 78,0,,Yogalaya Ubud Resort
+Indonesia,,Seminyak,Jl. Camplung Tanduk Gang Melon ,0,,Lataliana I Villa
+Indonesia,,Kubu,"Kubu ,Bali",0,,Resort Relax Bali
+Indonesia,,Ubud,"Jalan raya bunutan, batukurung II no 2",0,,Honeymoon Green Villa
+Indonesia,,Amed,Jalan Raya Bunutan - Amed,0,,Om Shanti Cottages
+Indonesia,,Pemuteran,Jalan Singaraja Gilimanuk,0,,Kuda Laut Bungalows & Diving
+Indonesia,,Kubupenlokan,"Jalan Raya Penelokan, ,Bali 80652",0,,Volcania Guest House
+Indonesia,,Kuta,"Jalan Legian Gang Mangga No. 5, Kuta",0,,Mangga Lima Inn
+Indonesia,,Seminyak,Jalan Mertanadi Gg. Kubu Carik No.1,0,,Bliss Villa Bali
+Indonesia,,Seminyak,Jalan Drupadi,0,,Villa Sanook
+Indonesia,,Seminyak,Jalan Mertanadi no 56,0,,Villa Bali Cocoon
+Indonesia,,Tanjung Benoa,"Jalan Pratama, Tanjung Benoa Nusa Dua, Denpasar",0,,Pondok Agung Home Stay
+Indonesia,,Canggu,"Jl. Pantai Berawa, Canggu",0,,Surfer Village
+Indonesia,,Sanur,Jl. Danau Tamblingan Gang Penjor 7B Sanur,0,,Pondok Satria
+Indonesia,,Sanur,Jl Bumi Ayu Gang Jasmine No 1,0,,G Saskara Homestay
+Indonesia,,Seminyak,Jalan. Drupadi II,0,,Jero 1b Hotel
+Indonesia,,Seminyak,"Jl. Nakula, Gg. Baik Baik, Gg. Gita Ayu Seminyak",0,,VILLA NANI Seminyak
+Indonesia,,Canggu,Jalan Pantai Batu Mejan,0,,Ketapang Guest House
+Indonesia,,Canggu,Jalan Raya Semat,0,,Taman Perancak
+Indonesia,,Ungasan,Jalan Pura Masuka 12,0,,Rumah Orchid Ungasan
+Indonesia,,Ungasan,Jalan Songnipi No 8,0,,WG Hotel Jimbaran
+Indonesia,,Ubud,Jalan Sriwedari,0,,Legon
+Indonesia,,Ubud,Jalan Monkey Forest,0,,Kubu Saren
+Indonesia,,Seminyak,Jl.Bidadari III No.3,0,,Island C Villa
+Indonesia,,Canggu,Jalan Pantai Brawa,0,,Villa Batu Sari
+Indonesia,,Seminyak,Jalan Dyana Pura Gang Melon No 4,0,,Villa Baby Melon
+Indonesia,,Canggu,"Jl. Tegal Sari No. 29, Br. Tegal Gundul",0,,Ayu Guest House Canggu
+Indonesia,,Sanur,"Jalan Bumi Ayu, Gang 1 No. 2",0,,Villa Lotus Sanur Bali
+Indonesia,,Canggu,"Jalan Subak Sari No 30, Banjar Tegal Gundul,",0,,Sakova Villas Canggu Subak Sari
+Indonesia,,Legian,Jl. Pantai Kuta,0,,Komala Indah 2 Sunset
+Indonesia,,Jimbaran,Jl. Kutilang no. 9 Perum Puri Gading,0,,Bali Kaffirlime Inn
+Indonesia,,Seminyak,Jl. Raya Seminyak,0,,Pondok Pisang Seminyak
+Indonesia,,Seminyak,"Jl. Petitenget, Gg. Telaga Waja No. 18A",0,,Villa Koyama
+Indonesia,,Seminyak,Jl. Laksmana 12 x,0,,Mahalini Bungalow 3
+Indonesia,,Ubud,Jl Umalas Ii No 53,0,,Pelangi Estate Ubud
+Indonesia,,Amed,Jl. Raya Bunutan,0,,Ganeshamed Villa
+Indonesia,,Ubud,Different locations in Ubud,0,,Villa Ubud
+Indonesia,,Canggu,"Pantai Batu Bolong Street, Bali",0,,Soul Villa
+Indonesia,,Ubud,"Jalan Jembawan No.29, Padang Tegal, Bali",0,,Hutama Accomodation
+Indonesia,,Denpasar,Jl. Tukad Yeh Ho II No.5 Renon,0,,Pemondokan Putra's Siman
+Indonesia,,Canggu,Jl. Babakan Kubu No.1 Br. Babakan Kuta Utara,0,,Villa Marsuka
+Indonesia,,Kubutambahan,Jl. Raya Air Sanih Yeh Buah,0,,Villa Sisi Pantai
+Indonesia,,Seminyak,Jalan Merta Sari No. 2,0,,Dayana Villa
+Indonesia,,Seminyak,"Jalan Petitenget Gang Telaga Waja, Villa No 5, North Kuta, Badung, Indonesia",0,,Villa Telaga
+Indonesia,,Canggu,Jalan Pantai Nelayan No 75,0,,Villa Wiljoba
+Indonesia,,Seminyak,Jl. Abimanyu 66,0,,Contiki Resort Bali
+Indonesia,,Seminyak,Jalan Kayu Aya 99C Seminyak,0,,The Joglo Residence
+Indonesia,,Ubud,Jalan Suweta Lorong Mawar,0,,Anita's Ubud Villa
+Indonesia,,Jimbaran,"Jl. Blong Keker, Jimbaran",0,,Ombak Project
+Indonesia,,Nusa Lembongan,Jungut Batu - Lembongan ,0,,Villa Wayan J&S Jungle
+Indonesia,,Canggu,Jalan Tegal Sari Gang Jepun 13,0,,Villa Aad Kevala
+Indonesia,,Canggu,"Jalan Pura Blulang Yeh, Ds. Padang Linjong",0,,Tara Villa Canggu
+Indonesia,,Jimbaran,Jlpalapa Xi Perum Palapa Kencana B45,0,,Dedari Villa
+Indonesia,,Seminyak,Different locations in Seminyak,0,,VillaRu
+Indonesia,,Saba Bai,Jl. By Pass Prof Dr Ida Bagus Mantra Pantai Saba 80581 Gianyar - Bali - Indonesia,0,,Villa Kishi_kishi
+Indonesia,,Seminyak,"Jl. Tangkuban Perahu, Gg. Tunjung 2, No. 9 Br. Pengipian Kerobokan",0,,Bali Bliss Residence
+Indonesia,,Seminyak,Jalan Kerta Rahayu A33suwung Kangin,0,,Villa Surga Seminyak
+Indonesia,,Jimbaran,Jalan Karang Mas Sejahtera No 100X Bali,0,,Chedi Club Jimbaran
+Indonesia,,Canggu,"Jl. Pemelisan Agung, Gang Kembali, Brawa ",0,,Villa Cicak
+Indonesia,,Nusa Dua,Jalan Dharmawangsa,0,,Payung Garden Villa
+Indonesia,,Kerobokan,Jl. Bumbak Gang Pulau Buru ,0,,Bali Asih Villa Three
+Indonesia,,Seminyak,Jl. Petitenget Gg. Villa Kendal,0,,Villa Moon 1
+Indonesia,,Celukan Bawang,Jl. Ayodya Pura,0,,Villa Brongbong Rimba
+Indonesia,,Kuta,Jalan Pararaton Raya No 9A Kuta 80361 Bali Indonesia,0,,RedDoorz @ Dewi Sri 2
+Indonesia,,Nusa Dua,Po Box 6,0,,Baulu Village
+Indonesia,,Uluwatu,Jalan Pantai Suluban,0,,Uluwatu Surf House
+Indonesia,,Canggu,"Jl.Pantai Berawa, Br.Berawa, Desa Tibubeneng, Kecamatan Kuta Utara, Kabupaten Badung, BALI",0,,Widi Homestay
+Indonesia,,Ubud,061-,0,,Silintong
+Indonesia,,Jimbaran,"Jl. Danau Tamblingan II No. 12, Taman Griya ",0,,The Buga Guest House
+Indonesia,,Kuta,Jl.,0,,Holiday Bali Resort
+Indonesia,,Kerobokan,Jalan Kuwum II,0,,Elok Villa
+Indonesia,,Kerobokan,Jl. Gunung Salak Gang Palma,0,,Mahagauri Villa Bali
+Indonesia,,Kerobokan,Jl. Pekandelan 28C,0,,Villaveeta
+Indonesia,,Seminyak,"Jalan Baik Baik, Gang Taman Sari No. 7",0,,The Wood Double Six Villa Bali
+Indonesia,,Dawan Klod,J1 Raya Nusa Dua Selatan P O Box 76 Nusa Dua 80363 Bali - Indonesia,0,,The Bale Private Villa and Spa
+Indonesia,,Legian,"Jln Raya Sebali , Payogan , Ubud Bali - Denpasar",0,,Villa Prana Shanti Legian
+Indonesia,,Dalang,Nyuhkuning Ubud,0,,Alam Shanti
+Indonesia,,Seminyak,"Jalan Arjuna, Gang Raja",0,,Villa Lily Seminyak
+Indonesia,,Gianyar,"Desa Saba Kecamatan Belah Batuh Kabupaten Gianyar, P.O. Box 150, Saba Bai, Bali, 80500, Indonesia",0,,Lor In Hotel Saba Bai
+Indonesia,,Seminyak,"Jalan Sari Temuku 8b, Seminyak, Bali",0,,Villa Manik Seminyak
+Indonesia,,Lovina,Laviana Street,0,,Banyualit Spa And Resort
+Indonesia,,Bunutan,"Jl. Raya Bunutan, Br. Dinas Bunutan, Desa Bunutan, Karangasem ,Bali 80852",0,,Double Villas Ii
+Indonesia,,Sanda,"Sanda Village ,Bali 82163",0,,Sanda Boutique Villas
+Indonesia,,Kuta,Jl Bakung Sari No 81 Kuta 80361 Bali Indonesia,0,,Kuta Beach Club Hotel & Spa
+Indonesia,,Legian,Jl Nakula No 9 Legian Bali Indonesia,0,,Sara Residence Hotel Bali
+Indonesia,,Tanjung Benoa,"P.O Box 24, Pratama Street, Nusa Dua 80361, Bali, Indonesia",0,,Kind Villa Bintang Resort Tanjung Benoa
+Indonesia,,Jatiluwih,Jl H O S Cokroaminoto 23 - 25 Denpasar Bali,0,,POP Hotel Cokroaminoto Bali
+Indonesia,,Payangan,Jl Raya Klusa Desa Klusa Ubud - Bali,0,,Jiwaklusa Boutique Villa Bali
+Indonesia,,Seminyak,Jalan Raya Seminyak Gang Bima 2X-3X,0,,Bima Boutique Resort
+Indonesia,,Seminyak,"Jalan Villa Lalu, Nomor 5",0,,Villa Ziwa Seminyak
+Indonesia,,Kuta,Jl By Pass Ngurah Rai no 38 Kuta Bali,0,,Q Hotel Kuta
+Indonesia,,Denpasar,"Jl. Gunung Mas Gg. Dieng VI Ndeg13, Kerobokan, Br Tegal Buah Padang Sambian Kelod",0,,The Rouxel Villa
+Indonesia,,Seminyak,Jalan Nakula Barat Gang Baik-baik 1 80361 Seminyak Indonesia,0,,Vidya Bali Villa by Nagisa Bali
+Indonesia,,Jimbaran,Jalan Pantai Balangan 80361 Jimbaran Indonesia,0,,4 Bedrooms Luxury Casa De Balangan
+Indonesia,,Seminyak,Jl. Bidadari II No. 2,0,,Kalini Villas
+Indonesia,,Kerobokan,"Jalan Umalas Lestari Gg. Darma No. 555, Umalas",0,,Sakova Villa Umalas Lestari
+Indonesia,,Kuta,Jalan Mataram No.18E,0,,Pink Bali Hotel
+Indonesia,,Ubud,"Jalan Katik, Penestanan",0,,Hanoman's House
+Indonesia,,Manggis,"Jalan Raya Candidasa, Buitan, Manggis - Karangasem",0,,Beachfront Villas Lucia Stella
+Indonesia,,Seminyak,"Jl. Pura Telaga Waja, Petitenget, Bali",0,,Eminyak
+Indonesia,,Jimbaran,Park View Height Jl. Baru no.22 Kampial Nusa Dua,0,,Villa Rock Bali Nusa Dua
+Indonesia,,Nusa Dua,Po Box 77 80363 Nusa Dua,0,,The Laguna A Luxury Collection Resort & Spa Nusa Dua Bali
+Indonesia,,Seminyak,"Jl. Lebak Sari, Gang Star No. 3",0,,Darma House Villa Petitenget
+Indonesia,,Ungasan,Jalan Karang Putih Kutuh Beach 80361 Nusa Dua Indonesia,0,,Villa Karang Dua by Nagisa Bali
+Indonesia,,Jimbaran,"Jalan Uluwatu, Politeknik Negeri Bali",0,,The Wing Ed Hotel Bali
+Indonesia,,Jimbaran,Jalan bukit Damai No 2,0,,Villa Two Jimbaran
+Indonesia,,Kerobokan,"Jl. Bumbak, Gg. P. Bintan",0,,Villa Sunia Kund Bali
+Indonesia,,Nusa Dua,JL Terompong 8,0,,House Terompong
+Indonesia,,Seminyak,Jalan Kunti I no 98 Seminyak,0,,Mahalini 4
+Indonesia,,Ungasan,Jalan Melasti Ungasan Jimbaran Bali 80361 Uluwatu Indonesia,0,,Casablanca Villa by Nagisa Bali
+Indonesia,,Canggu,Jalan Raya Canggu Kuta Utara Kabupaten Badung Bali 80361 Indonesia,0,,Humawake Villa Canggu
+Indonesia,,Amed,Amed Beach Tukadze,0,,Rasta Bar & Bungalows
+Indonesia,,Kerobokan,Jl. Bumbak Dauh Gang P. Buton,0,,Zuma Villa Umalas
+Indonesia,,Ubud,Jalan Tirta Tawar,0,,Beji Sari
+Indonesia,,Ubud,Jl Sawah Indah Raya Teges Peliatan Ubud,0,,Villa Pancawara
+Indonesia,,Kerobokan,80361 Jl Tegal Cupek Banjar Anyar Kelod Kerobokan Umalas Seminyak Kuta Bali - Indonesia,0,,D bulakan Villa & Spa Umalas Ex Y Villa
+Indonesia,,Ubud,Jl Laksamana Seminyak Peti Tenget,0,,The Samaya Bali
+Indonesia,,Ubud,Jalan Nyuh Kuning Pengosekan Ubud,0,,The Ubud Village Resort Bali
+Indonesia,,Pecatu,"Jl. Raya, Gg. Merpati No. 3, Pecatu ",0,,Villa Di Kebun
+Indonesia,,Kuta,Jl.Benesari,0,,Bw
+Indonesia,,Jimbaran,Jalan Segara Madu No 101 Kelan,0,,Surya Madu Residence
+Indonesia,,Seminyak,Jl. Petitenget Gang Kubu Anyar,0,,Nyaman Villa Petitenget
+Indonesia,,Seminyak,"Jalan Batu Belig, Gang Daksina",0,,Villa Pondok Sugi
+Indonesia,,Seminyak,Jalan Gunung Athena 1 No 19,0,,Villa Emma Seminyak
+Indonesia,,Ubud,Jalan Pandu,0,,Serene Teak House
+Indonesia,,Legian,"Jalan Sriwijaya, Gang Pisang 2 Nomor 1, Kuta",0,,Apartment Ziwa Kuta
+Indonesia,,Amed,Jalan Raya Bunutan,0,,Villa Tymore
+Indonesia,,Legian,"Jl. Sri Rama Gang Puri Agung, Villa no.1 Nakula",0,,Villa Alannah
+Indonesia,,Nusa Lembongan,Jungut Batu - Lembongan,0,,Kubu Sari Guesthouse Lembongan
+Indonesia,,Seminyak,Jalan Beji Ayu,0,,Villa Shanti Seminyak
+Indonesia,,Denpasar,Jalan Raya Singapadu Gang Saraswati Gianyar Bali,0,,Ubud Saraswati Residence
+Indonesia,,Ubud,Jl Sriwedari 100 Br Taman Kaja Ubud,0,,Pondok Loris Guest House
+Indonesia,,Kerobokan,Jl. Umalas Klecung No. 5A,0,,Villa Membuka
+Indonesia,,Ungasan,Jalan Pura Masuka,0,,Villas Kencana
+Indonesia,,Jimbaran,"Jalan Batur Raya Taman Griya, Perumahan Pranagraha No. 88",0,,Villa Dilla
+Indonesia,,Seminyak,Jl Raya Kerobokan 111b,0,,Villa Mamasan
+Indonesia,,Canggu,Jalan Tegal Sari No. 37,0,,Bali Coconut Living Villa Madu
+Indonesia,,Kerobokan,"Jl. Umalas II, No. 87",0,,L'onda Villa
+Indonesia,,Celukan Bawang,"Jalan Raya Gilimanuk, Gang Labuan Muding, Desa Brongbong",0,,Villa Yudhistira
+Indonesia,,Sanur,80228 Jalan Karang Sari No 5 Sanur Bali Indonesia,0,,Bali Luxury Villa Rentals
+Indonesia,,Seminyak,"Jalan Arjuna, Gang Eddi Cottages No.9",0,,Balipop
+Indonesia,,Jimbaran,Jalan Nyuh Bojog Banjar Nyuh Kuning Ubud,0,,Mawa House Jimbaran
+Indonesia,,Jimbaran,Jl Nusa Indah N0 88 Br Manyar Ketewel,0,,Suarti Resort Villas & Gallery Jimbaran
+Indonesia,,Kuta,Jl Legian Poppies Lane Ii,0,,Barong Bali Hotel
+Indonesia,,Nusa Lembongan,Jalan Jungut Batu - Lembongan,0,,My Home Stay Nusa Lembongan
+Indonesia,,Seminyak,Jl. Dewi Saraswati 4,0,,D-Asih Villa
+Indonesia,,Ubud,"Br. Pengosekan, Mas",0,,Bali Dream House Oka's Bungalow
+Indonesia,,Seminyak,Jl. Mertanadi Gang Kubu Alit No. 3,0,,Villa Singken
+Indonesia,,Buwit,Buwit Village KM 8,0,,El Bari Villa
+Indonesia,,Legian,Jl Melasti No 1 Legian Kuta Bali 14450 Indonesia,0,,Oranjje Hotel Kuta
+Indonesia,,Sanur,Jalan Hang Tuah 46 Sanur 80228 Bali Indonesia,0,,Sanur Paradise Hotel And Suites
+Indonesia,,Antasari,"Jalan Pedungan, Banjar Bonian, Antap-Selemandeg",0,,Villa Belanda
+Indonesia,,Rejasa,Jl Bypass Ngurah Rai No 188 X,0,,POP Hotel Nusa Dua Bali
+Indonesia,,Legian,Jl. Sri Kresna No. 81X,0,,Villa Joglo Kuta
+Indonesia,,Sanur,Jalan Sudamala I no.12,0,,Apartment Gopa Dream
+Indonesia,,Legian,Jalan Dewi Sri 1,0,,Naga Villa
+Indonesia,,Nusa Dua,Ubud 80571 Sayan Bali Indonesia,0,,Kayu Manis Villa Nusa Dua
+Indonesia,,Pecatu,80364 Kawasan Pecatu Indha Resort Jl New Kuta Condotel Kuta Selatan Bali,0,,Lexington New Kuta Condotel
+Indonesia,,Nusa Dua,Jl Gunung Payung Sawangan Nusa Dua Bali,0,,Nirwana Kita Villa
+Indonesia,,Kuta,"Jalan Jenggala No. 31, South",0,,Shri Aryma Beach Resort
+Indonesia,,Ubud,0,0,,De Munut
+Indonesia,,Seminyak,0,0,,Villa Aya Seminyak
+Indonesia,,Candi Dasa,0,0,,Ashyana Candidasa Resort
+Indonesia,,Ubud,"Penestanan, Ubud, Bali, Indsia",0,,Dewa Bharata Ubud
+Indonesia,,Seminyak,"Laksmana Street, Gang Putu ,Bali 80361",0,,Villa Nougat Seminyak
+Indonesia,,Antasari,"Tangguntiti Village, East Selemadeg, Tabanan ,Bali 82162",0,,Villa Tangguntiti Antasari
+Indonesia,,Ubud,"Jalan Raya Sanggingan ,Bali",0,,Lumbung Beji
+Indonesia,,Nusa Lembongan,Jungut Batu,0,,Mango Tree Bungalow in the Jungle
+Indonesia,,Batunya,"Jl. Raya Luwus, Bedugul - Tabanan",0,,Mawar Lestari Homestay
+Indonesia,,Seminyak,"Jalan Kayu Aya, Gang Villa Bugis",0,,Villa Mareva
+Indonesia,,Seminyak,"Jalan Batu Belig, Gang Daksina 16, Kerobokan, Bali",0,,Umah Di Desa
+Indonesia,,Lovina,Jl. Pemaron Lovina Singaraja,0,,Villa Romantika Lovina
+Indonesia,,Kerobokan,Jl Umalas Tunon Gg Madeline No 2,0,,Villa Kalih
+Indonesia,,Kerobokan,Jalan Umalas Klecung Gang Badung No. 1,0,,Villa Dora Kerobokan
+Indonesia,,Seminyak,"Jl. Mertanadi, Gang Lima Dua, Kerobokan",0,,Villa Des Sens Bali
+Indonesia,,Canggu,Jalan Pura Baru Mejan,0,,Sea Sentosa
+Indonesia,,Amed,"Bunutan, Lipah",0,,Bintang Homestay
+Indonesia,,Seminyak,"Jalan Petitenget, Villa Lumbung Complek, No.3",0,,The Verandah Bali Villa
+Indonesia,,Legian,Jl. Lebak Bene Gg. Senen no 3 Legian,0,,Senen Beach Inn
+Indonesia,,Seminyak,Jalan Mertanadi Gang Kubu Alit No.2,0,,Villa Beng Beng Mertanadi
+Indonesia,,Tigawasa,"Jl. Raya Temukus, Seririt",0,,Pondok Bali Beachfront Homestay
+Indonesia,,Jimbaran,"Pura Dukuh, Kampial",0,,Benian Apartments Nusa Dua
+Indonesia,,Kuta,Jalan Kartika Plaza No 9X Kuta 80361 Bali Indonesia,0,,RedDoorz near Lippo Mall Kuta
+Indonesia,,Sanur,Jalan tambak Sari gang 4 no.9C,0,,La'Krissie-Hana Villa
+Indonesia,,Sanur,Jalan tambak Sari gang rurung no.3,0,,Rurung Villa
+Indonesia,,Seminyak,"Jalan Raya Seminyak, Gang Keraton 77B",0,,Villa Ziba
+Indonesia,,Ungasan,0,0,,The Hill Ungasan
+Indonesia,,Kerobokan,0,0,,The Widyas Bali Villas Kerobokan
+Indonesia,,Canggu,Jalan Subak Sari No. 19,0,,Waterfall Villa Canggu Bali
+Indonesia,,Canggu,Jalan Subak Sari,0,,Villa Body
+Indonesia,,Ungasan,"Jalan Villa Kandara, Banjar Wijaya Kusuma, Ungasan , 80362",0,,Bali Paradise Villa
+Indonesia,,Legian,"Jln. Raya Legian Kaja, Gang XXIX Kebun Damai No. 481",0,,Villa Kebun Damai Legians Best Kept Secret
+Indonesia,,Seminyak,Jalan Petitenget Gang Villa Kendal No. 1 ,0,,Villa Moon
+Indonesia,,Ubud,Jalan Monkey Forest,0,,Rumah Jelita
+Indonesia,,Kerobokan,Jalan Merta Agung Gang Jepang Villa No. 3,0,,Villa Luna Kerobokan
+Indonesia,,Tua,Jl Drupadi No 20xx Seminyak,0,,Uma Sapna Villa Bali
+Indonesia,,Canggu,Jl. Bimasena Gang Eropa No. 5 & 6,0,,Kanaka Villa
+Indonesia,,Kuta,"Villa Kuta Regency A-11, Kubu Anyar Street",0,,Lotuss Kuta Villa Regency
+Indonesia,,Legian,"Jl. Dewi Sri, Gang Campuhan",0,,Billys Villa Kuta
+Indonesia,,Jimbaran,"Jl. Mahoni No.6 , Beranda Mumbul, Nusa Dua, Bali",0,,Villa Beranda Mahoni
+Indonesia,,Ungasan,"Jalan By Pass Ngurah Rai, Ruko Segitiga Emas Kav 11-B, Kuta 80361",0,,Chandra Kirana Luxury Villas
+Indonesia,,Ababi,"Temega Village - Pekarangan, Near Tirta Gangga, Padangkerta - Karangasem ,Bali",0,,Cabe Bali Karangasem
+Indonesia,,Legian,Jalan Goa Lempeh Pecatu Uluwatu 80361 Bali - Denpasar,0,,Khayanga Estate Luxury Villa
+Indonesia,,Tabanan,Different locations in Canggu,0,,Sakova Villas Canggu 1
+Indonesia,,Canggu,"Jalan Pantai Berawa, Tibebunang",0,,Ariana Homestay
+Indonesia,,Canggu,"Jalan Batu Bolong Gang Nyepi No. 1 Echo Beach, Canggu",0,,Villa RonRon
+Indonesia,,Seminyak,"Jl. Batu Belig, Gang Gelatik no 8, Kerobokan Kelod",0,,Sakova Villas Seminyak Batu Belig
+Indonesia,,Seminyak,Different locations in Seminyak,0,,Sakova Villas Seminyak Petitenget
+Indonesia,,Jimbaran,"Petasikan II Street, #100",0,,Green Mangrove Villa
+Indonesia,,Kerobokan,Jl. Taman Sari PCV XVII No. 1,0,,The Lapan
+Indonesia,,Kerobokan,Jl. Umalas Tunon,0,,Villa Theo Bali
+Indonesia,,Sanur,Jl Danau Tandakan No 8,0,,Sanur Scuba Villa
+Indonesia,,Kuta,"Kuta Royal D15, Jl. Kubu Anyar ",0,,Ria Bali Resort
+Indonesia,,Ubud,Banjar Sembuwuk Desa Pejeng,0,,Agung Cottage Ubud
+Indonesia,,Ubud,"Jl. Tirta Tawar, Kutuh",0,,Umarana Retreat and Residence
+Indonesia,,Denpasar,Gg Penataran Sari IC no 2,0,,Bali house holiday
+Indonesia,,Jimbaran,Jl. Pantai Balangan 100 x,0,,Villa Balangan
+Indonesia,,Ubud,Jl. Pratama No 62 Nusa Dua Bali - Indonesia,0,,Puri Tanjung Hotel
+Indonesia,,Tua,"Jl. Pantai Suluban, Uluwatu, Bali",0,,Uluwatu Resort
+Indonesia,,Tua,"Jalan Yoga Perkanti 4, Jimbaran Bali",0,,VILLA HANANI Central Bali
+Indonesia,,Ungasan,Jalan Raya Uluwatu,0,,Villa Indah Ungasan
+Indonesia,,Ubud,Jalan Kelaban Moding,0,,Kasa Komala
+Indonesia,,Nusa Dua,Jalan Taman Kebo Iwa,0,,Queen Nusa Dua
+Indonesia,,Sanur,Jl. Bumi Ayu 13,0,,Villa Bella Sanur
+Indonesia,,Ubud,Jl. Tirta Tawar Br. Junjungan,0,,The Ark Villa
+Indonesia,,Jimbaran,Jalan Pantai Balangan Jimbaran - Bali,0,,Balangan Village Villa
+Indonesia,,Kerobokan,Jalan. Bumbak no.10,0,,Rooms at Villa Gunung
+Indonesia,,Sanur,Jalan Danau Toba No 9,0,,Puri Suar Hotel
+Indonesia,,Seminyak,"Jalan Astinapura 22, Seminyak",0,,Villa Aliya Bali
+Indonesia,,Seminyak,"Jalan Beraban, North Kuta, Badung",0,,Villa Allegra Seminyak
+Indonesia,,Jimbaran,Jalan Pantai Jimbaran No. 19,0,,Sakova Villa Kaizen Jimbaran
+Indonesia,,Seminyak,Different locations in Seminyak,0,,Sakova Villas Seminyak Laksmana
+Indonesia,,Seminyak,Jalan Dewi Saraswati 2 no 27 Banjar Basangkasa,0,,Studio 27 Homely Room
+Indonesia,,Legian,Jl. Dewi Sri I,0,,Naga II Villa
+Indonesia,,Amed,"Jalan Amed, Purwakerti - Karangasem",0,,Amed Santhi
+Indonesia,,Tabanan,Kawasan Wisata Tanah Lot Tabanan Tanah Lot Bali Indonesia,0,,Coco Hotel Bali
+Indonesia,,Jimbaran,Jalan I Gusti Ngurah Rai Gang Taman Sari Jimbaran 80363 Indonesia,0,,Vidi Boutique Hotel Bali
+Indonesia,,Ubud,Ubud - Bali Indonesia,0,,Puri Padi Hotel
+Indonesia,,Tabanan,Pantai Mengening Cemagi Mengwi Badung Indonesia,0,,Alke Villas Spa & Restaurant Bali
+Indonesia,,Legian,Jl Werkudara Legian Kaja Kuta Bali Indonesia,0,,Kumala Hotel Bali
+Indonesia,,Seminyak,Jl Kunti Gg Mangga No 7 Seminyak Bali Indonesia,0,,White Star Villa Seminyak
+Indonesia,,Ungasan,"Jl. Pantai Balagan, Gang Mangga no. 2",0,,Villa Andrea Ungasan
+Indonesia,,Nusa Dua,"Jl Taman Sari Gang Pudak No 2, Taman Mumbul",0,,Villa Rosa Nusa Dua
+Indonesia,,Bondalem,"Jalan Raya Singaraja-Amlapura, Dusun Tegal Sumaga",0,,Villa Sunrise Beach House on the Ocean
+Indonesia,,Ubud,Jl Kartika Plaza Tuban South Kuta,0,,J Boutique Hotel Bali
+Indonesia,,Denpasar,"Jalan Yos Sudarso No. 4 Denpasar, Denpasar",0,,Queen Hotel Denpasar
+Indonesia,,Canggu,Jalan Canggu Padang Linjong 37 Canggu North Kuta Bali,0,,Jungle Joglo
+Indonesia,,Canggu,Jl Raya Canggu tibubeneng,0,,Umawake Residence
+Indonesia,,Canggu,Jalan Pura Wates Babakan 12b,0,,Balifornia Suites
+Indonesia,,Kerobokan,Jl Umalas Tunon,0,,Villa Lima
+Indonesia,,Nusa Lembongan,"Nusa Lembongan Island, Bali 80771.",0,,Waka Nusa
+Indonesia,,Ungasan,"Jalan Pantai Balangan, Gang mangga",0,,Villa Kupu Kupu
+Indonesia,,Candi Dasa,"Jl. Raya Candidasa, Karangasem",0,,Saputra Bungalows
+Indonesia,,Ungasan,"Jl. Melasti, Ungasan",0,,Villa Edenia 5
+Indonesia,,Tua,Jl. Raya Keliki Tegallalang Gianyar 80561 Bali Indonesia.,0,,Alam Sari Resort & Spa
+Indonesia,,Singaraja,"Jalan Kesanda No 1, Banjar Ceblong, Desa Sudaji",0,,Bali Village Villa
+Indonesia,,Ungasan,"Jalan Raya Uluwatu, Kori Nuansa Ungasan blok Angkasa 8 No. 19X",0,,Jero Bukit Private Villa
+Indonesia,,Tabanan,"Desa Jatiluwih, Tabanan, Bali Bali",0,,Soka Jatiluwih Villas Tabanan
+Indonesia,,Ubud,Desa Buahan Payangan Gianyar 80571,0,,Ubud Hanging
+Indonesia,,Ubud,"Jl. Penestanan Kelod, Campuhan ,Bali 80571",0,,Villa Sujati Ubud
+Indonesia,,Nusa Dua,Perumahan Wisma Permai Blok D 10,0,,Rumah Wisma Nusa Dua
+Indonesia,,Nusa Dua,"Taman Mumbul, Phase II Gg. Dukuah No 2, Kuta Selatan",0,,Avisara Villa
+Indonesia,,Dalang,"Jl. Pratama 72; Tanjung Benoa; Nusa Dua 80363, Bali ",0,,CLUB BALI MIRAGE Central Bali
+Indonesia,,Sanur,Jl. Kesari No. 31,0,,Luxury Villa Onje Sanur Bali Bpb
+Indonesia,,Seminyak,Jalan Drupadi Seminyak,0,,Villa Mertasari
+Indonesia,,Nusa Lembongan,Jungut Batu,0,,Minami Bungalow
+Indonesia,,Denpasar,Jalan Glogor Carik,0,,Glogor Carik Guest House
+Indonesia,,Seminyak,Jl Dewi Saraswati Iii No 89 Seminyak Bali,0,,Villa KamarKamar Bali
+Indonesia,,Seminyak,Jalan Petitenget ,0,,Villa Joe Petitenget
+Indonesia,,Sanur,Jalan Danau Tondano No. 56,0,,Golden Pineapple Guesthouse
+Indonesia,,Kuta,Jl. Popies I,0,,La Inn Kuta
+Indonesia,,Legian,Jl. Pandawa No. 2B ,0,,Dedawe Budget Villa Bali
+Indonesia,,Ungasan,Jalan Pura Masuka No 8,0,,Bali Hill House
+Indonesia,,Ubud,"Tirwa Tawar Street 15 ,Bali 80571",0,,D Legon Villa
+Indonesia,,Payangan,"Jl. Banjar Bayad, Payangan ,Bali 80571",0,,Umah Luung Villa Ii
+Indonesia,,Ubud,"Jl. Penestanan, Sayan",0,,The Mansion Ubud
+Indonesia,,Blahbatuh,"Jalan Masceti, Gianyar - Bali",0,,Taman Pilah Villa
+Indonesia,,Kubupenlokan,"Kedisan Kintamani ,Bali 80652",0,,Batur Lakeside Hut Kubupenlokan
+Indonesia,,Ubud,Padang Tegal Mekarsari,0,,Citrus Tree Villas - Hutama Ubud
+Indonesia,,Seminyak,Jl. Plawa,0,,Rumah Putih Villa Seminyak
+Indonesia,,Umeanyar,Jalan Pantai Umeanyar,0,,Villa Zoubi
+Indonesia,,Jimbaran,Jl Pantai Pererenan Desa Pererenan Canggu Badung,0,,Fare Ti'i Villa Ti'i Bali Jimbaran
+Indonesia,,Pererenan,Jalan Babadan,0,,Ambra Luxury Beachfront Villa
+Indonesia,,Kerobokan,Jl.Umalas 1 No.22,0,,Villa Ayu Kerobokan
+Indonesia,,Ungasan,"JL Pura Matsuka 12 Ungasan, Gang Bouganville No 2",0,,Villa Safia
+Indonesia,,Ungasan,"Jl. Raya Uluwatu, Gg. Cempaka Gading",0,,Cempaka Gading Villa by Premier Hospitality Asia
+Indonesia,,Ubud,Br Katiklantang Jln Campuhan III Villa Alke,0,,Amazing Villa Alke's
+Indonesia,,Canggu,Jalan Pantai Berawa Gang Pondok Asri,0,,Bali Sweet Villas
+Indonesia,,Jimbaran,Jl Danau Tamblingan II No 12,0,,Villa Lovely
+Indonesia,,Seminyak,"Jl. Sunset Road, Gang Ratna",0,,Villa Bunga Sunset
+Indonesia,,Seminyak,Jalan Raya Seminyak No. 16,0,,Villa Ethnic
+Indonesia,,Ubud,Jalan Raya Campuhan,0,,Sari Aktif

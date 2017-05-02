@@ -1,0 +1,29 @@
+Number,Customer Name,Web page,City,contact email,Telephone contact,"Customer type 
+(WS / DIRECT)",SI 2012,banner,frame,newsletter,Other,Window,"POS (deviders, model tubes, shelf talkers etc.)",Display,Others,"CS 2013
+PLÁN",Internet / BM store,LEGO only,More toys,Cluster,direct / WH,Country,Currency,Functional discount
+1,Pompo,www.pompo.cz,,,,,,,,,,,,,,,,,,specialist,direct,CZ,CZK,13%
+2,Bambule,www.bambule.cz,,,,,,,,,,,,,,,,,,specialist,direct,CZ,CZK,13%
+3,Sparkys Division,www.sparkys.cz,,,,,,,,,,,,,,,,,,specialist,direct,CZ,CZK,13%
+4,Sparkys Division,www.pongo.cz,,,,,,,,,,,,,,,,,,specialist,direct,CZ,CZK,13%
+5,Dracik,www.dracik.cz,,,,,,,,,,,,,,,specialist,,,specialist,direct,CZ,CZK,13%
+6,Mall CZ,www.mall.cz,Praha,gabriela.dlouha@mall.cz,604411456,Direct,26701007,x,x,x,x,no,no,no,no,28614287,Internet,no,yes,core online,direct,CZ,CZK,4%
+7,Alza CZ,hracky.alza.cz,Praha,rucker@alza.cz,725350299,Direct,3709135,x,x,x,x,no,no,no,no,28614287,Internet,no,yes,core online,direct,CZ,CZK,4%
+8,Moře Lega,www.morelega.cz,Plzeň,davidsoukup@morelega.cz,603416920,Direct,13637249,x,x,x,x,yes,yes,yes,yes,15628004,Internet/BM,yes,no,multichannel,direct,CZ,CZK,13%
+9,Smartlife,www.legacek.cz,Brno,jakub.prochazka@smartlife.cz,734640462,Direct,5147695,x,x,x,x,no,no,no,no,6341000,Internet/BM,yes,no,multichannel,direct,CZ,CZK,8%
+10,MAGRATEA s.r.o.,www.legenio.cz,Dubňany,legenio@seznam.cz,605 206 559,DIRECT,15808382,yes,yes,yes,videos,no,no,no,no,12000000,Internet/BM,,x,multichannel,direct,CZ,CZK,11%
+11,Jitka Svatošová,www.kdosihraje.cz,Beroun,info@kdosihraje.cz,602 657 700,DIRECT,11743737,yes,yes,yes,videos,no,no,no,no,17000000,Internet,x,,online,direct,CZ,CZK,11%
+12,MIDEA s.r.o.,www.bejby.net,Praha,info@bejby.net,602 190 098,DIRECT,6176513,yes,yes,yes,videos,yes,yes,yes,no,7500000,Internet/BM,,x,multichannel,direct,CZ,CZK,8%
+13,"STRINB, s.r.o.",www.hrackynejlevneji.cz,Husinec,lmahdalova@strojsois.com,421 944 304 014,DIRECT,903606,yes,yes,yes,no,no,no,no,no,4000000,internet,,x,online,direct,CZ,CZK,4%
+14,Leganie - Regina Fídlerová,www.leganie.cz,Vysoké Mýto,obchod@leganie.cz,733 551 602,DIRECT,2000000,yes,yes,yes,videos,yes,yes,yes,no,2700000,Internet/BM,x,,multichannel,direct,CZ,CZK,13%
+15,Norbert Jančo,www.superlega.cz,Přílepy,norbert.janco@seznam.cz,602 695 154,DIRECT,250000,yes,no,no,no,no,no,no,no,550000,Internet,x,,online,direct,CZ,CZK,4%
+16,Jana Malá,www.i-hrackarstvi.cz,,,,,,,,,,,,,,,Internet,,,online,direct,CZ,CZK,11%
+17,4kids s.r.o.,www.hracky-4kids.cz,,,,,,,,,,,,,,,,,,online,WH,CZ,CZK,4%
+18,MIKI FUN spol. s r.o.,www.mikifun.cz,,,,,,,,,,,,,,,,,,multichannel,WH,CZ,CZK,11%
+19,"Wiky, spol. s r.o.",www.wikyhracky.cz,,,,,,,,,,,,,,,,,,multichannel,WH,CZ,CZK,13%
+20,Karel Mašek,www.megahracky.cz,,,,,,,,,,,,,,,,,,online,WH,CZ,CZK,8%
+21,"HP TRONIC Zlín, spol. s r.o.",www.kasa.cz,,,,,,,,,,,,,,,,,,online,WH,CZ,CZK,4%
+22,Viera Nemčíková,www.legacik.sk,,,,,,,,,,,,,,,,,,multichannel,direct,SK,EUR,13%
+23,Strojspiš,www.najlacnejsiehracky.sk,,,,,,,,,,,,,,,,,,multichannel,direct,SK,EUR,13%
+24,Casallia,www.toyfactory.sk,,,,,,,,,,,,,,,,,,multichannel,direct,SK,EUR,13%
+25,Nákupný RAJ s.r.o.,www.rajhraciek.sk,,,,,,,,,,,,,,,,,,multichannel,WH,SK,EUR,8%
+26,"babaloo, s.r.o.",www.babaloo.sk,,,,,,,,,,,,,,,,,,online,WH,SK,EUR,4%

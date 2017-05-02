@@ -1,0 +1,13 @@
+setup.py
+ScccroselfserviceScraper/__init__.py
+ScccroselfserviceScraper/items.py
+ScccroselfserviceScraper/middlewares.py
+ScccroselfserviceScraper/pipelines.py
+ScccroselfserviceScraper/settings.py
+ScccroselfserviceScraper/spiders/__init__.py
+ScccroselfserviceScraper/spiders/scccroselfservice.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

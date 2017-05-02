@@ -1,0 +1,140 @@
+{
+    "vendor": null,
+    "brand": "Berghaus",
+    "price": "76.49 - 108.99",
+    "shipping_cost": null,
+    "name": "Berghaus Men's Rg1 3-in-1 Jacket",
+    "url": "http://www.amazon.co.uk/gp/product/B00FRLPAWK/?ref=twister_dp_update&ie=UTF8&psc=1",
+    "image_url": "http://ecx.images-amazon.com/images/I/41nggNrmjuL._SY300_.jpg",
+    "option_texts": [],
+    "identifier": "B00FRLPAWK",
+    "reviews_url": "http://www.amazon.co.uk/product-reviews/B00FRLPAWK/ref=cm_cr_dp_see_all_top/276-6101353-7700210?ie=UTF8&showViewpoints=1&sortBy=byRankDescending",
+    "options": [
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT8O6/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["X-Large", "Intense Blue/Carbon"],
+            "identifier": "B00E9PT8O6"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT70Q/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["X-Large", "Black/Carbon"],
+            "identifier": "B00E9PT70Q"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT50I/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["XX-Large", "Intense Blue/Intense Blue"],
+            "identifier": "B00E9PT50I"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTAE4/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Medium", "Extrem Red/Carbon"],
+            "identifier": "B00E9PTAE4"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT4ZE/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["X-Large", "Intense Blue/Intense Blue"],
+            "identifier": "B00E9PT4ZE"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT8KU/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Medium", "Intense Blue/Carbon"],
+            "identifier": "B00E9PT8KU"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTC1A/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Small", "Porter Green-Carbon"],
+            "identifier": "B00E9PTC1A"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTAFI/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["XX-Large", "Extrem Red/Carbon"],
+            "identifier": "B00E9PTAFI"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTC24/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["X-Large", "Porter Green-Carbon"],
+            "identifier": "B00E9PTC24"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTADK/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Small", "Extrem Red/Carbon"],
+            "identifier": "B00E9PTADK"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT8NM/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Small", "Intense Blue/Carbon"],
+            "identifier": "B00E9PT8NM"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTC42/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Medium", "Porter Green-Carbon"],
+            "identifier": "B00E9PTC42"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT8PU/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["XX-Large", "Intense Blue/Carbon"],
+            "identifier": "B00E9PT8PU"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT706/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["XX-Large", "Black/Carbon"],
+            "identifier": "B00E9PT706"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT51C/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Medium", "Intense Blue/Intense Blue"],
+            "identifier": "B00E9PT51C"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT72O/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Medium", "Black/Carbon"],
+            "identifier": "B00E9PT72O"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTAF8/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Large", "Extrem Red/Carbon"],
+            "identifier": "B00E9PTAF8"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTBZM/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["XX-Large", "Porter Green-Carbon"],
+            "identifier": "B00E9PTBZM"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT4YA/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Small", "Intense Blue/Intense Blue"],
+            "identifier": "B00E9PT4YA"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT6X4/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Large", "Black/Carbon"],
+            "identifier": "B00E9PT6X4"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT8QE/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Large", "Intense Blue/Carbon"],
+            "identifier": "B00E9PT8QE"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT4ZY/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Large", "Intense Blue/Intense Blue"],
+            "identifier": "B00E9PT4ZY"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTC10/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Large", "Porter Green-Carbon"],
+            "identifier": "B00E9PTC10"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PTACQ/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["X-Large", "Extrem Red/Carbon"],
+            "identifier": "B00E9PTACQ"
+        },
+        {
+            "url": "http://www.amazon.co.uk/gp/product/B00E9PT710/?ref=twister_dp_update&ie=UTF8&psc=1",
+            "texts": ["Small", "Black/Carbon"],
+            "identifier": "B00E9PT710"
+        }
+    ],
+    "used_vendor": null
+}

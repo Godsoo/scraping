@@ -1,0 +1,221 @@
+{
+    "crawl_method": {
+        "title": "Crawl method",
+        "score": 0,
+        "type": "options",
+        "values": {
+            "feed": {
+                "score": 1,
+                "type": "simple",
+                "title": "Customer's Feed"
+            },
+            "amazon": {
+                "score": 2,
+                "type": "checkboxes",
+                "title": "Amazon Base Spider",
+                "values": {
+                    "custom_crawling": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Custom crawling changes"
+                    },
+                    "custom_scraping": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Custom scraping changes"
+                    }
+                }
+            },
+            "ebay": {
+                "score": 2,
+                "type": "checkboxes",
+                "title": "Ebay Base Spider",
+                "values": {
+                    "custom_crawling": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Custom crawling changes"
+                    },
+                    "custom_scraping": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Custom scraping changes"
+                    }
+                }
+            },
+            "secondary": {
+                "score": 1,
+                "type": "simple",
+                "title": "Secondary Spider"
+            },
+            "regular": {
+                "score": 0,
+                "type": "checkboxes",
+                "title": "Regular Spider",
+                "values": {
+                    "type": {
+                        "score": 0,
+                        "type": "options",
+                        "title": "Type",
+                        "values": {
+                            "full_site": {
+                                "score": 4,
+                                "type": "simple",
+                                "title": "Full site crawl"
+                            },
+                            "category": {
+                                "score": 3,
+                                "type": "simple",
+                                "title": "One or several categories"
+                            },
+                            "search": {
+                                "score": 3,
+                                "type": "simple",
+                                "title": "Search on site"
+                            },
+                            "product": {
+                                "score": 2,
+                                "type": "simple",
+                                "title": "One or several specific products"
+                            }
+                        }
+                    },
+                    "from_feed": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Gets data from feed (search queries, brands, categories, etc)"
+                    },
+                    "currency": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Changes currency on site"
+                    },
+                    "options": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Scrapes options"
+                    },
+                    "reviews": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Scrapes reviews"
+                    },
+                    "sellers": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Scrapes sellers (marketplace spider)"
+                    },
+                    "price_transform": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Transforms price in any way (e.g. excluding/including VAT)"
+                    },
+                    "stock": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Scrapes stock (usually non-trivial)"
+                    },
+                    "add_meta": {
+                        "score": 1,
+                        "type": "simple",
+                        "type2": "multiple",
+                        "title": "Scrapes additional meta data"
+                    },
+                    "ajax": {
+                        "score": 1,
+                        "type": "simple",
+                        "title": "Sites uses Ajax where spider extracts data"
+                    },
+                    "cookies": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Cookie manipulation"
+                    },
+                    "phantom_js": {
+                        "score": 2,
+                        "type": "simple",
+                        "title": "Uses phantomJS"
+                    },
+                    "bad_html": {
+                        "score": "formula",
+                        "score_base": 0,
+                        "title": "Bad or mal-formed HTML (usually some old site built with tables)",
+                        "score_summands": [
+                            "type",
+                            "options",
+                            "reviews",
+                            "sellers",
+                            "ajax",
+                            "add_meta",
+                            "phantom_js"
+                        ],
+                        "score_multiplier": 2,
+                        "type": "simple"
+                    },
+                    "asp_net": {
+                        "score": "formula",
+                        "score_base": 1,
+                        "title": "Site uses ASP.NET",
+                        "score_summands": [
+                            "ajax"
+                        ],
+                        "score_multiplier": 1,
+                        "type": "simple"
+                    },
+                    "quirks": {
+                        "score": 0,
+                        "type": "checkboxes",
+                        "title": "Site has some strange quirks",
+                        "values": {
+                            "quirk_field": {
+                                "score": 1,
+                                "title": "Wicked code to extract field",
+                                "type": "simple",
+                                "type2": "multiple"
+                            },
+                            "quirk_crawling": {
+                                "score": 2,
+                                "title": "Wicked code for crawling (e.g. overriding spider_idle)",
+                                "type": "simple"
+                            }
+                        }
+                    },
+                    "mixins": {
+                        "score": 0,
+                        "type": "checkboxes",
+                        "title": "Spider Mixins used",
+                        "values": {
+                            "bsm": {
+                                "score": 1,
+                                "title": "Big Site Method",
+                                "type": "simple"
+                            },
+                            "productcache": {
+                                "score": 1,
+                                "title": "Product Cache Spider",
+                                "type": "simple"
+                            },
+                            "primary": {
+                                "score": 1,
+                                "title": "Primary Spider",
+                                "type": "simple"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "parse_prev_results": {
+        "score": 2,
+        "type": "simple"
+    },
+    "many_products": {
+        "score": 2,
+        "type": "simple"
+    },
+    "blocking": {
+        "score": 3,
+        "type": "simple"
+    }
+}

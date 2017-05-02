@@ -1,0 +1,10 @@
+proxyPort = ${http_port}
+proxyAddress = "0.0.0.0"
+allowedClients = 127.0.0.1, 176.9.139.235, 148.251.79.44, 88.198.32.57
+socksParentProxy = localhost:${socks_port}
+daemonise = true
+pidFile = /home/innodev/product-spiders/product_spiders/scripts/torinstances/polipo/${name}.pid
+logSyslog = false
+logFile = /home/innodev/product-spiders/product_spiders/scripts/torinstances/polipo/${name}.log
+logLevel = 0x0
+diskCacheRoot=""

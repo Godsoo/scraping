@@ -1,0 +1,308 @@
+#filter-menu {
+  width: 186px;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+#filter-menu ul {
+  margin: 0px;
+  padding: 0px;
+  background: #ffffff;
+  /* Filter Ui Design Changes  Start*/
+  /* border: #000000 solid;
+  border-width: 1px; */
+  /* Filter Ui Design Changes  End*/
+}
+
+#filter-menu li {
+  list-style: none;
+  /* Filter Ui Design Changes  Start*/  
+  /* border-bottom: #000000 solid;
+  border-bottom-width: 1px; */
+  /* Filter Ui Design Changes  End*/
+
+  /*Start changes for sprint 25 story 9196 */
+  /* Filter Ui Design Changes Start*/
+  background-color: #FFFFFF; 
+  color: #005CA1;
+  /* Filter Ui Design Changes End */
+  font-family: Arial;
+  font-size: 13px;
+  font-weight: bold;
+  /* Filter Ui Design Changes Start*/
+  padding-bottom: 7px;
+  /* Filter Ui Design Changes End */
+ /* End changes for sprint 25 story 9196 */
+}
+
+#filter-menu a {
+  /* Filter Ui Design Changes  Start*/
+  color: #005CA1;
+  /* Filter Ui Design Changes  End*/
+  cursor: pointer;
+  /* Make Name Link Working for Filters Start */
+  display:inline-block;
+  padding-top:2px;
+  /* Make Name Link Working for Filters End */
+  padding-bottom:3px;
+  /* Filter Ui Design Changes  Start*/
+  /* Make Name Link Working for Filters Start */
+  padding-left:6px;
+  /* Make Name Link Working for Filters End */
+  /* Filter Ui Design Changes  End*/
+  text-decoration:none!important;
+  /* Make Name Link Working for Filters Start */
+  width:80%;
+  vertical-align:top;
+  /* Make Name Link Working for Filters End */   
+}
+
+#filter-menu a:hover {
+  text-decoration:underline; 
+}
+
+#filter-menu li:hover {
+  /* Filter Ui Design Changes Start */
+  background: #FFFFFF;
+  /* Filter Ui Design Changes End */ 
+  position: relative;
+}
+
+li .filter-title {
+  background: #eeeeee;
+}
+
+ul.filter-sub-level {
+  display: none;
+  border: #000000 solid;
+  border-width: 1px;
+}
+
+li:hover .filter-sub-level {
+  background: #999;
+  display: block;
+  position: absolute;
+  left: 75px;
+  top: 5px;
+}
+
+ul.filter-sub-level li {
+  float:left;
+  width: 176px;
+}
+
+#filter-menu .filter-sub-level {
+  background: #999;
+  z-index:1;
+}
+
+#filter-menu .filter-sub-level .filter-sub-level { 
+  background: #999;
+  
+  /* make scrollable if big */
+  max-height: 200px;
+  overflow: auto;
+}
+
+#filter-menu .filter-sub-level .filter-sub-level li { 
+}
+
+#filter-menu .filter-sub-level li a { 
+  width:90%;
+}
+
+#filter-menu a.filter-clear-values { 
+  width: 20% !important;
+  float: left;
+  text-decoration:underline; 
+}
+
+#filter-menu a.filter-multiple-search { 
+  width: 60% !important;
+  float: right;
+  text-decoration:underline; 
+}
+
+/* The following div classes are for information and should never be displayed */
+.filter-name, .filter-search-field, filter-value, .filter-count, .filter-active, .filter-match, 
+.filter-title, .filter-title-shortlist, .filter-title-longlist, .filter-longlist-count,
+.filter-display, .filter-data, .filter-menu-type, .filter-hide, .filter-fix-parm, .filter-search-tweak {
+  display: none;
+}
+
+/* Here is how you blacklist a menu item.  Even if it is produced by the search engine,
+   you will not display it.
+*/
+
+.filter-blacklist {
+  display: none;
+}
+
+.filter-active-values {
+  display: none;  /* initially hidden */
+}
+
+.filter-edit {
+  display: none;  /* initially hidden */
+  text-align: right;
+  padding-right: 15px;
+  text-decoration: underline;
+}
+
+.filter-count-display {
+	display: inline;
+}
+
+.filter-search {
+  text-decoration:underline !important; 
+}
+
+/*
+These divs show if a menu item is selected or not selected.  The filter code will
+insert one of these divs in each filter value.
+*/
+div .filter-show-selection.filter-unselected {
+	float: left;
+	width: 17px;
+	height: 12px;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: transparent;
+}
+
+div .filter-show-selection.filter-selected {
+	float: left;
+	width: 17px;
+	height: 12px;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: orange;
+}
+
+.close-active-value{
+  padding-right:5px;
+}
+
+/* Filter Ui Design Changes  Start*/
+.filter-active-value{
+}
+/* Filter Ui Design Changes  End*/
+
+/*IE RESET HELPER*/
+li:hover .filter-sub-level .filter-sub-level { display:none; }
+.filter-sub-level li:hover .filter-sub-level { display:block; }       
+
+#clearAllLink{
+	display: none; 
+}
+
+#clearAllLink a{
+	color: black; 
+}
+
+.filter-edit-all{
+  display: none;  /* initially hidden */
+  text-align: right;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  text-decoration: underline;
+}
+
+#filterTab1{
+	border-right:2px solid;
+	padding-right:8px;
+}
+
+#filterTab2{
+	padding-left:8px;
+}
+
+.filterDialogTabs{
+	font-family: Arial;
+	padding-bottom: 0px;
+	padding-top: 8px;
+	font-size: 13px;
+}
+
+#filterTabLink1{
+	color:gray;
+	text-decoration:none;
+}
+
+#filterTabLink2{
+	color:black;
+}
+/*Start changes for sprint 25 story 9196 */
+.narrowSRTitle
+{
+   font-family: Arial;
+   /* Filter Ui Design Changes  Start*/
+   font-size: 16px;
+   /* Filter Ui Design Changes  End*/
+   font-weight: bold;
+   padding-top: 10px;
+   /* Filter Ui Design Changes  Start*/
+   background-color: #FFFFFF;
+   /* Filter Ui Design Changes  End*/
+   color: #0000000;
+}
+/*End changes for sprint 25 story 9196 */
+
+.provTypePleatLabel{
+	padding-bottom: 0px;
+	/* Filter Ui Design Changes  Start*/
+	padding-left: 0px;
+	/* Filter Ui Design Changes  End*/
+}
+
+#provTypePleatLnk{
+	padding-top: 3px !important;
+	/* Filter Ui Design Changes  Start*/
+    padding-left: 0px !important;
+    /* Filter Ui Design Changes  End*/
+     padding-right: 5px !important;
+	float:right;
+}
+
+#filterCloseImg{
+	display:none;
+}
+
+.provTypeElements{
+text-decoration: underline;
+}
+.filter-active-values-prov-type
+{
+ background-color: white;
+}
+
+/*-----START CHANGES P19791a Exchange August 2013-----*/
+#filterPlanSubTitle{
+	color: #333333;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+}
+/*-----END CHANGES P19791a Exchange August 2013-----*/
+
+/* Filter Ui Design Changes  Start*/
+.providerTypeFilterTableDisplayName{
+	float:left;
+	margin-left:-2px;
+	text-align:start;
+	padding-bottom:4px;
+}
+
+/* .filter-name-show{
+	width: 83%; 
+	display: inline-table; 
+	padding-left: 7px;
+} */
+
+/* Filter Ui Design Changes  End*/
+
+#filterHospitalSubtitleText{
+  	color: #C60B46;
+  	cursor: pointer;
+  	font-size: 13px;
+}

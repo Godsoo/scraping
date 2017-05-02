@@ -1,0 +1,1 @@
+from productsupdater import ProductsUpdater

@@ -1,0 +1,234 @@
+.hl-autocomplete{
+	display: inline;
+}
+.hl-autocomplete a {
+  cursor: pointer;
+}
+.hl-autocomplete .hidden {
+   height: 0;
+   display: none;
+}
+.hl-autocomplete a {
+  display: block;
+}
+
+/*
+.hl-autocomplete .hl-search-box{
+  width: 660px;
+  height: 130px;
+  background-color: #FAF2CB; 
+  color: #000;
+  font-weight: normal;
+  position: relative;
+ }
+ */
+
+.hl-autocomplete .hl-search-box .hl-searchbar {
+  /*padding: 5px 10px 30px 10px;*/
+  padding-left: 15px;
+  padding-top: 3px;
+  padding-bottom: 10px;
+}
+.hl-autocomplete .hl-search-box  .intro{
+  font-size: 56px; 
+  font-weight: normal;
+  margin: 0;
+}
+/*Changes(color and font-style added) since story 7307 */ 
+.hl-autocomplete .hl-search-box .hl-searchbar .hl-searchbar-input{
+  width: 290px;
+  height: 20px;
+  font-size: 13.3333px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #6f7276;
+  font-style: italic;
+  /* P20488 - 1321 changes start */ 
+  /*border-top: 2px solid #5d5d5d;*/
+  /* P20488 - 1321 changes end*/ 
+/*
+  padding-bottom: 0px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+*/
+
+  /*  font-weight: bold; */
+  float: left;
+}
+
+.hl-autocomplete .hl-search-box .hl-searchbar .hl-searchbar-input-location{
+  width: 200px;
+  height: 20px;
+  font-size: 13.3333px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #BCBEC0;
+  font-style: italic;
+/*
+  padding-bottom: 0px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+*/
+
+  /*  font-weight: bold; */
+  float: left;
+}
+
+.hl-searchbar-button{
+  width: 70px;
+  height: 26px;
+  /*background-image:url("/dse/assets/images/search.jpg");*/
+  background-color: #076F86;
+  border: 1px solid #909090;
+  color: #FFFFFF;
+  font-weight: bold;
+  float: inherit;
+  font-size: 11px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  text-alignment: center;
+  margin-left: 7px;
+}
+
+/*autocomplete result*/
+.ui-autocomplete{
+  /*width: 404px; */
+  position: absolute;
+  /*top: 120px;*/
+  border: solid #EFF0EF 1px;
+  padding: 2px;  
+  background-color: #FFF; 
+  
+}
+.ui-autocomplete .hidden {
+   height: 0;
+   display: none;
+}
+
+.ui-autocomplete a{
+  cursor: pointer;  
+}
+
+
+.ui-autocomplete li {
+  list-style: none;
+}
+
+.ui-autocomplete .ui-autocomplete-category{
+  color: #8A8A8A;
+  font-size: 13.3333px;
+  font-weight: bold;
+  padding: 0px 10px;
+  padding-bottom:5px;
+  margin: 0px 0;
+}
+
+/* P08-8423a Sprint21 - Story8891 Changes Start */
+.ui-autocomplete-categorySec{
+  color: #8A8A8A;
+  font-size: 13.3333px;
+  font-weight: bold;
+  padding: 0px 10px;
+  padding-bottom:5px;
+  margin: 0px 0;
+}
+/* P08-8423a Sprint21 - Story8891 Changes End */
+
+.ui-autocomplete .ui-autocomplete-category:first-Child {
+  margin-top: 0;
+}
+
+/* P08-8423a Sprint21 - Story8891 Changes Start */
+.ui-autocomplete li.ui-menu-item  {
+  font-size: 13.3333px;
+  color: #8A8A8A;
+  /*padding: 0 0 3px 25px;*/
+    padding: 0 0 3px 0;
+}
+/* P08-8423a Sprint21 - Story8891 Changes End */
+
+.ui-autocomplete li.ui-menu-item a {
+    display: block;
+    padding-left:10px;
+}
+.ui-autocomplete li.ui-menu-item .ui-state-hover  {
+  background-color: #EAF3FA;
+  color: #3A82C4;
+}
+.ui-autocomplete li.ui-menu-item strong {
+  color: #484848;
+}
+
+.ui-autocomplete  a#viewmore{
+   text-decoration: none;
+   color: #3A82C4;
+   padding-left: 10px;
+   font-weight: bold;
+   padding-bottom: 7px;
+   /* P20488 - 1321 changes start */
+   float: right;
+/* P20488 - 1321 changes end */
+}
+
+
+.ui-autocomplete .searchfor{  
+  height: 20px;
+  padding: 6px 15px 0;
+  background-color: #F9FAF9;
+  margin-top: 5px; 
+}
+
+/* P08-8423a Sprint21 - Story8891 Changes Start */
+.ui-autocomplete .searchforSec{  
+  height: 20px;
+  padding: 6px 15px 0;
+  background-color: #F9FAF9;
+  margin-top: 5px; 
+}
+
+.ui-autocomplete .searchfor a{
+  font-size: 13.3333px;
+  font-weight: bold;
+  text-decoration: none; 
+  color: #4E7D2A;
+}
+
+.ui-autocomplete .searchforSec a{
+  font-size: 13.3333px;
+  font-weight: bold;
+  text-decoration: none; 
+  color: #DCE19B;
+}
+/* P08-8423a Sprint21 - Story8891 Changes End */
+
+.ui-autocomplete strong {
+  color: #000;
+}
+
+.hl-autocomplete .hl-result-box .category.first {
+  margin-top: 0;  
+}
+
+.borderCategory{
+	margin-top:10px !important;
+	margin-left:10px !important;
+	margin-right:10px !important;
+	padding-left:0px !important;
+	border-top: 2px solid #E7E7E7 !important;
+	padding-top: 10px !important;
+}
+
+.topSpacing{
+	padding-top:10px !important;
+}
+
+.space-btwn-box{
+	height:20px;
+}
+
+.space-for-button{
+	display:inline-block;
+	width:10px;
+}

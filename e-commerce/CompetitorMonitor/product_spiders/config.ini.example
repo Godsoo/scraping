@@ -1,0 +1,20 @@
+[server_s1]
+host=176.9.139.235
+user=compmon
+password=24orWWoS
+port=2777
+
+[server_s2]
+host=78.46.103.233
+user=compmon
+password=Za3f44y
+port=22
+
+[server_s3]
+host=78.46.90.119
+user=compmon
+password=24orWWoS
+port=22
+
+[postgres]
+uri = postgresq://productspiders:productspiders@localhost:5432/productspiders

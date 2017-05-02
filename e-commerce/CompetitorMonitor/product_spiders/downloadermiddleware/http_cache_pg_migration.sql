@@ -1,0 +1,1 @@
+ALTER TABLE spider ADD COLUMN use_cache BOOLEAN NOT NULL DEFAULT false;

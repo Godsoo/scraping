@@ -1,0 +1,94 @@
+@CHARSET "ISO-8859-1";
+.dialog-content {
+	border: 1px solid #cccccc;
+	background-color:#ffffff;
+	font-family:Arial;
+	color:#333333;
+	margin:10px 15px;
+	padding:15px;
+	postion:relative;	 
+	height: auto;
+	overflow:auto; 
+}
+.dialog-content-wrap{
+	background-color:#e9ecbf;
+	color:#000000;
+}
+.dialog-transparent-border{
+	background-color:#000000;
+	float:left;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+	display: none;
+}
+
+.backgroundPistachio .group_100_unbordered .dialog-content, 
+.backgroundPistachio .group_100_unbordered .dialog-content .popupText, 
+.backgroundPistachio .popupText .group__unbordered,
+.backgroundPistachio .popupText table.group_100_unbordered
+{
+	background-color: #FFFFFF;
+}
+
+.dialog-main-wrapper{
+	
+}
+
+.dialog-title{
+	font-family: Arial;
+	font-size: 16px;
+	font-weight:bold;
+	color:#586017;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.dialog-button-holder{
+	margin-bottom: 20px; 
+}
+.dialog-button-holder table{
+	margin: 0px auto;
+	text-align:center;
+}
+
+.dialog-button-cell{
+	padding-right: 10px;
+}
+
+.dialog-close-button{
+	background: transparent url(/dse/cms/codeAssets/images/close.png) no-repeat top right;
+	height:25px;
+	width:25px;
+	top: 25px;
+	right: 30px;	
+	z-index:1005;
+	cursor: pointer;
+}
+
+.dialog-modal{
+	background-color:#000000;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+}
+
+.GoldButtonLink table tr td a:link, .GoldButtonLink table tr td a:visited, .GoldButtonLink table tr td a:active, .GoldButtonLink table tr td a:hover, .GoldButtonLink:link, .GoldButtonLink:visited, .GoldButtonLink:active, .GoldButtonLink:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.gold_button_left {
+   /* background-image: url("/dse/assets/images/BTN_gold_left.gif");*/
+    height: 23px;
+    width: 7px;
+}
+
+.gold_button {
+   /* background-image: url("/dse/assets/images/BTN_gold_center_fill.gif");*/
+    background-color: #d20962;
+    height: 23px;
+}
+
+.gold_button_right {
+    /*background-image: url("/dse/assets/images/BTN_gold_right.gif");*/
+    height: 23px;
+    width: 7px;
+}

@@ -1,0 +1,98 @@
+<html>
+<head>
+    <!-- Bootstrap core CSS -->
+    <link href="/productspiders/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/productspiders/static/bootstrap/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="/productspiders/static/bootstrap/css/datepicker.css" rel="stylesheet">
+    <link href="/productspiders/static/bootstrap/bootstrap_table/bootstrap-table.css" rel="stylesheet">
+    <link href="/productspiders/static/bootstrap/bootstrap_table/bootstrap-table-filter.css" rel="stylesheet">
+    <link href="/productspiders/static/css/dashboard.css" rel="stylesheet">
+    <style>
+      .modal-body, .notes-container {
+          width:100% !important;
+      }
+    </style>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+
+    .input-very-sm {
+        width: 10%;
+    }
+
+    .input-sm {
+        width: 20%;
+    }
+
+    .input-md {
+        width: 25%;
+    }
+
+    .input-nrm {
+        width: 50%;
+    }
+
+    </style>
+
+    <script src="/productspiders/static/js/jquery.js"></script>
+
+</head>
+<body>
+
+    <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            % for entry in menu:
+            % if entry['submenu']:
+	    <li ${'class=active dropdown' if entry['active'] else 'class=dropdown'}>
+	      <a class="dropdown-toggle" href="#" data-toggle="dropdown" href="#" aria-expanded="false">${entry['name']}
+		<b class="caret"></b>
+	      </a>
+	      <ul class="dropdown-menu" role="menu">
+                % for sub_menu in entry['submenu']:
+		<li><a href="${request.route_url(sub_menu['route'])}">${sub_menu['name']}</a></li>
+		% endfor
+	      </ul>
+	    </li>
+	    % else:
+	    <li ${'class=active' if entry['active'] else ''}><a href="${request.route_url(entry['route'])}">${entry['name']}</a></li>
+	    % endif
+            % endfor
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="${request.route_url('logout')}"><i class="glyphicon glyphicon-log-out"></i> Log Out</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <%block name="content"/>
+
+    <script src="/productspiders/static/js/jquery.serializeObject.js"></script>
+    <script>
+        jQuery.ajaxSettings.traditional = true;
+    </script>
+    <script src="/productspiders/static/js/ajax.js"></script>
+    <script src="/productspiders/static/js/utils.js"></script>
+    <script src="/productspiders/static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/productspiders/static/bootstrap/js/bootstrap-datepicker.js"></script>
+    <script src="/productspiders/static/bootstrap/js/bootstrap-select.min.js"></script>
+    <script src="/productspiders/static/bootstrap/js/validator.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/bootstrap-table.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/bootstrap-table-filter.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/extensions/filter/bootstrap-table-filter.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/bs-table.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/tableExport.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/jquery.base64.js"></script>
+    <script src="/productspiders/static/bootstrap/bootstrap_table/extensions/export/bootstrap-table-export.js"></script>
+    <script src="/productspiders/static/js/underscore-min.js"></script>
+
+</body>
+</html>

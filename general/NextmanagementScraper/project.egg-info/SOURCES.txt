@@ -1,0 +1,12 @@
+setup.py
+NextmanagementScraper/__init__.py
+NextmanagementScraper/items.py
+NextmanagementScraper/pipelines.py
+NextmanagementScraper/settings.py
+NextmanagementScraper/spiders/__init__.py
+NextmanagementScraper/spiders/nextmanagement.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

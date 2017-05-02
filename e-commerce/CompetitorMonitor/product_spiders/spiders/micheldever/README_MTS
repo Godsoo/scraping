@@ -1,0 +1,10 @@
+These steps can be done locally in your computer.
+
+1. Download the file, remove all columns after the "comment" column and save it as csv on
+   product_spiders/spiders/micheldever/micheldever_new_master_file.csv
+
+2. Run generate_new_codes.py on that same directory
+
+3. Run add_file_to_manual_mts_codes.py new_manual_mts_codes.csv. Disregard the duplicate warnings
+
+4. The last command should have modified the file manual_mtsstockcodes.csv, commit the changes and deploy

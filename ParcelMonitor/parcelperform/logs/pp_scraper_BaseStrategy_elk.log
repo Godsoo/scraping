@@ -1,0 +1,2 @@
+[2016-12-02T15:37:00+0000] test_scraper 172.17.0.2 127.0.0.1 http://parcelperform.com/PAFOUKScraper/ 500 280 78018 http://localhost 'kafka_consumer' 'None'
+[2016-12-02T15:37:00+0000] test_scraper 172.17.0.2 127.0.0.1 http://parcelperform.com/PAFOUKScraper/ 302 280 78018 http://localhost 'kafka_consumer' 'None'

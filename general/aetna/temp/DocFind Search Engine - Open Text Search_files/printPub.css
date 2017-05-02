@@ -1,0 +1,137 @@
+html{
+background-color:white;
+}
+
+body{
+	zoom: 0.7 \0/;
+}
+
+div#container{
+	background-color:white;
+	font-size: 16px;
+}
+
+@page{
+	size: auto;
+	/*margin-bottom: -110mm\0/;*/
+	margin-bottom: 0mm\0/;
+	_:-ms-fullscreen, :root .ie11up { margin-bottom:0 \0/; }
+}
+
+div#headerLinks{
+	float: none\0/;
+	margin-top: -75px\0/;
+	padding-left: 772px\0/;
+}
+
+div#headerTitle{
+	text-align:left\0/;
+	padding-left:0px\0/;
+	float:none\0/;
+}
+
+div#headerTitle span{
+	text-align:left\0/;
+	margin-right:-70px\0/;
+	float:none\0/;
+	padding-bottom: 10px;
+}
+
+div#topTable{
+	width:580px\0/;
+	float:left\0/;
+}
+
+#narrowSearchResultsSelectDiv{
+	display:none\0/;
+}
+
+.printSelect2 {
+background:url(/dse/assets/images/select-box_arrow.png) no-repeat scroll right top #FFFFFF;
+border:1px solid #ACACAC;
+color:#333333;
+cursor:default;
+font-size:16px;
+height:22px;
+line-height:22px;
+overflow:hidden;
+padding:0 0;
+position:relative;
+width:122px;
+z-index:50;
+}
+
+
+/* Code For Details Page Goes Here */
+div.contentDetail{
+	position:absolute;
+	width:380px;
+	margin-left: 140px;
+	margin-top: 50px;
+}
+
+#details_table_rd{
+	position:absolute;
+	margin-left: 520px;
+	margin-top: 50px;
+}
+
+.footerLinksDetail{
+	position:fixed;
+	vertical-align:bottom;
+}
+
+#printAndEstimateTakeAction{
+	position:fixed;
+}
+
+
+#askAnnId{
+ width: 145%;
+}
+
+
+#providersTable{	
+	float:left;
+    	/*font-family: Arial,Helvetica,Verdana,sans-serif;
+	font-size: 12px;*/
+	background-color:white;
+}
+
+
+#providers{
+	height:550px;
+	float:none;
+    	/*font-family: Arial,Helvetica,Verdana,sans-serif;
+	font-size: 12px;*/
+	background-color:white;
+}
+
+#resultsDisclaimer{
+	float: none;
+}
+#footer{
+	float: left;
+}
+
+a.links_Pagination:link, a.links_Pagination:visited, a.links_Pagination:hover{
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+	font-size: 16px;
+	font-size: 16px\0/;
+}
+table#providersTable a{
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+	font-size: 16px;
+	font-size: 16px\0/;
+}
+div#pageNumbers{	
+	font-size: 16px;
+}
+}
+#selectedPlan span{	
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+	font-size: 16px;
+}
+div#searchBox{
+	font-size: 16px;
+}

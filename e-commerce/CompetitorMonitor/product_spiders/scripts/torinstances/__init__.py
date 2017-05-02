@@ -1,0 +1,1 @@
+from torinstances import restart_all

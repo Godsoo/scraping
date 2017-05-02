@@ -1,0 +1,25 @@
+#simplemodal-overlay {
+    background-color: #000;
+}
+
+#simplemodal-container {
+    background-color: #333;
+    border: 8px solid #444;
+    padding: 12px;
+}
+
+#simplemodal-container a.modalCloseImg {
+    background: url(/productspiders/static/images/x.png) no-repeat; /* adjust url as required */
+    width: 25px;
+    height: 29px;
+    display: inline;
+    z-index: 3200;
+    position: absolute;
+    top: -15px;
+    right: -18px;
+    cursor: pointer;
+}
+
+table.datatable td {
+    padding: 3px 2px;
+}

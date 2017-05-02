@@ -1,0 +1,131 @@
+operator,price plan,recurring charge,category
+Orange,Comfort 15,15,A
+Orange,"Comfort 35",35,B
+Orange,"Young Star",29,By
+Orange,"Young Galaxy",65,Dy
+Orange,"Young Universe",79,Ey
+Orange,"Me Unlim. Salt / Surf Start / Service",20,B
+Orange,Me Unlim. Salt / Surf Start / Relax,30,B
+Orange,Me Unlim. Salt / Surf Start / Relax Plus,35,B
+Orange,Me Unlim. Salt / Surf Start / Priority,70,D
+Orange,Me Unlim. Salt / Surf 1 / Service,30,B
+Orange,Me Unlim. Salt / Surf 1 / Relax,40,B
+Orange,Me Unlim. Salt / Surf 1 / Relax Plus,45,B
+Orange,Me Unlim. Salt / Surf 1 / Priority,80,D
+Orange,Me Unlim. Salt / Surf 2 / Service,40,B
+Orange,Me Unlim. Salt / Surf 2 / Relax,50,B
+Orange,Me Unlim. Salt / Surf 2 / Relax Plus,55,C
+Orange,Me Unlim. Salt / Surf 2 / Priority,90,E
+Orange,Me Unlim. Salt / Unlim. Surf / Service,50,B
+Orange,Me Unlim. Salt / Unlim. Surf / Relax,60,C
+Orange,Me Unlim. Salt / Unlim. Surf / Relax Plus,65,D
+Orange,Me Unlim. Salt / Unlim. Surf / Priority,100,E
+Orange,Me Unlim. Salt / Unlim. Surf Roaming / Service,65,D
+Orange,Me Unlim. Salt / Unlim. Surf Roaming / Relax,75,D
+Orange,Me Unlim. Salt / Unlim. Surf Roaming / Relax Plus,80,D
+Orange,Me Unlim. Salt / Unlim. Surf Roaming / Priority,115,F
+Orange,Me Unlim. Salt 60 / Surf Start / Service,35,B
+Orange,Me Unlim. Salt 60 / Surf Start / Relax,45,B
+Orange,Me Unlim. Salt 60 / Surf Start / Relax Plus,50,B
+Orange,Me Unlim. Salt 60 / Surf Start / Priority,85,E
+Orange,Me Unlim. Salt 60 / Surf 1 / Service,45,B
+Orange,Me Unlim. Salt 60 / Surf 1 / Relax,55,C
+Orange,Me Unlim. Salt 60 / Surf 1 / Relax Plus,60,C
+Orange,Me Unlim. Salt 60 / Surf 1 / Priority,95,E
+Orange,Me Unlim. Salt 60 / Surf 2 / Service,55,C
+Orange,Me Unlim. Salt 60 / Surf 2 / Relax,65,D
+Orange,Me Unlim. Salt 60 / Surf 2 / Relax Plus,70,D
+Orange,Me Unlim. Salt 60 / Surf 2 / Priority,105,E
+Orange,Me Unlim. Salt 60 / Unlim. Surf / Service,65,D
+Orange,Me Unlim. Salt 60 / Unlim. Surf / Relax,75,D
+Orange,Me Unlim. Salt 60 / Unlim. Surf / Relax Plus,80,D
+Orange,Me Unlim. Salt 60 / Unlim. Surf / Priority,115,F
+Orange,Me Unlim. Salt 60 / Unlim. Surf Roaming / Service,80,D
+Orange,Me Unlim. Salt 60 / Unlim. Surf Roaming / Relax,90,E
+Orange,Me Unlim. Salt 60 / Unlim. Surf Roaming / Relax Plus,95,E
+Orange,Me Unlim. Salt 60 / Unlim. Surf Roaming / Priority,130,F
+Orange,"Me Unlim. Swiss / Surf Start / Service",55,C
+Orange,"Me Unlim. Swiss / Surf Start / Relax",65,D
+Orange,"Me Unlim. Swiss / Surf Start / Relax Plus",70,D
+Orange,"Me Unlim. Swiss / Surf Start / Priority",105,E
+Orange,"Me Unlim. Swiss / Surf 1 / Service",65,D
+Orange,"Me Unlim. Swiss / Surf 1 / Relax",75,D
+Orange,"Me Unlim. Swiss / Surf 1 / Relax Plus",80,D
+Orange,"Me Unlim. Swiss / Surf 1 / Priority",115,F
+Orange,"Me Unlim. Swiss / Surf 2 / Service",75,D
+Orange,"Me Unlim. Swiss / Surf 2 / Relax",85,E
+Orange,"Me Unlim. Swiss / Surf 2 / Relax Plus",90,E
+Orange,"Me Unlim. Swiss / Surf 2 / Priority",125,F
+Orange,"Me Unlim. Swiss / Unlim. Surf / Service",85,E
+Orange,"Me Unlim. Swiss / Unlim. Surf / Relax",95,E
+Orange,"Me Unlim. Swiss / Unlim. Surf / Relax Plus",100,E
+Orange,"Me Unlim. Swiss / Unlim. Surf / Priority",135,G
+Orange,"Me Unlim. Swiss / Unlim. Surf Roaming / Service",100,E
+Orange,"Me Unlim. Swiss / Unlim. Surf Roaming / Relax",110,E
+Orange,"Me Unlim. Swiss / Unlim. Surf Roaming / Relax Plus",115,F
+Orange,"Me Unlim. Swiss / Unlim. Surf Roaming / Priority",150,G
+Orange,"Me Unlim. International / Surf Start / Service",75,D
+Orange,"Me Unlim. International / Surf Start / Relax",85,E
+Orange,"Me Unlim. International / Surf Start / Relax Plus",90,E
+Orange,"Me Unlim. International / Surf Start / Priority",125,F
+Orange,"Me Unlim. International / Surf 1 / Service",85,E
+Orange,"Me Unlim. International / Surf 1 / Relax",95,E
+Orange,"Me Unlim. International / Surf 1 / Relax Plus",100,E
+Orange,"Me Unlim. International / Surf 1 / Priority",135,G
+Orange,"Me Unlim. International / Surf 2 / Service",95,E
+Orange,"Me Unlim. International / Surf 2 / Relax",105,E
+Orange,"Me Unlim. International / Surf 2 / Relax Plus",110,E
+Orange,"Me Unlim. International / Surf 2 / Priority",145,G
+Orange,"Me Unlim. International / Unlim. Surf / Service",105,E
+Orange,"Me Unlim. International / Unlim. Surf / Relax",115,F
+Orange,"Me Unlim. International / Unlim. Surf / Relax Plus",120,F
+Orange,"Me Unlim. International / Unlim. Surf / Priority",155,G
+Orange,"Me Unlim. International / Unlim. Surf Roaming / Service",120,F
+Orange,"Me Unlim. International / Unlim. Surf Roaming / Relax",130,F
+Orange,"Me Unlim. International / Unlim. Surf Roaming / Relax Plus",135,G
+Orange,"Me Unlim. International / Unlim. Surf Roaming / Priority",170,G
+Orange,"Me Unlim. Roaming / Surf Start / Service",90,E
+Orange,"Me Unlim. Roaming / Surf Start / Relax",100,E
+Orange,"Me Unlim. Roaming / Surf Start / Relax Plus",105,E
+Orange,"Me Unlim. Roaming / Surf Start / Priority",140,G
+Orange,"Me Unlim. Roaming / Surf 1 / Service",100,E
+Orange,"Me Unlim. Roaming / Surf 1 / Relax",110,E
+Orange,"Me Unlim. Roaming / Surf 1 / Relax Plus",115,F
+Orange,"Me Unlim. Roaming / Surf 1 / Priority",150,G
+Orange,"Me Unlim. Roaming / Surf 2 / Service",110,E
+Orange,"Me Unlim. Roaming / Surf 2 / Relax",120,F
+Orange,"Me Unlim. Roaming / Surf 2 / Relax Plus",125,F
+Orange,"Me Unlim. Roaming / Surf 2 / Priority",160,G
+Orange,"Me Unlim. Roaming / Unlim. Surf / Service",120,F
+Orange,"Me Unlim. Roaming / Unlim. Surf / Relax",130,F
+Orange,"Me Unlim. Roaming / Unlim. Surf / Relax Plus",135,G
+Orange,"Me Unlim. Roaming / Unlim. Surf / Priority",170,G
+Orange,"Me Unlim. Roaming / Unlim. Surf Roaming / Service",135,G
+Orange,"Me Unlim. Roaming / Unlim. Surf Roaming / Relax",145,G
+Orange,"Me Unlim. Roaming / Unlim. Surf Roaming / Relax Plus",150,G
+Orange,"Me Unlim. Roaming / Unlim. Surf Roaming / Priority",185,G
+Swisscom,"NATEL xtra start",35,By
+Swisscom,"NATEL xtra infinity plus S",55,Cy
+Swisscom,"NATEL xtra infinity plus M",69,Dy
+Swisscom,"NATEL xtra infinity plus L",89,Ey
+Swisscom,"NATEL entry basic",33,B
+Swisscom,"NATEL entry plus",44,B
+Swisscom,"NATEL infinity plus XS",59,C
+Swisscom,"NATEL infinity plus S",75,D
+Swisscom,"NATEL infinity plus M",99,E
+Swisscom,"NATEL infinity plus L",129,F
+Swisscom,"NATEL infinity plus XL",169,G
+Sunrise,MTV mobile Start,15,Ay
+Sunrise,"MTV mobile MyFriends",35,By
+Sunrise,"MTV mobile Swiss",65,Cy
+Sunrise,"MTV mobile World",85,Dy
+Sunrise,"NOW Start",29,B
+Sunrise,"NOW Classic",69,D
+Sunrise,"NOW Relax",89,E
+Sunrise,"NOW Max",129,G
+M-Budget Mobile,Basic,9.8,A
+"M-Budget Mobile",Surf,19.8,A
+"M-Budget Mobile","Surf Advanced",29.8,B
+M-Budget,Basic,9.8,A
+M-Budget,Surf,19.8,A
+M-Budget,"Surf Advanced",29.8,B

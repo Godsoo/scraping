@@ -1,0 +1,240 @@
+car,model,engine,power,year,doors,price
+KA,Studio,1.2,69PS,2013,3,7495
+KA,Studio Connect,1.2,69PS,2013,3,8245
+KA,Edge,1.2,69PS,2013,3,8945
+KA,Zetec,1.2,69PS,2013,3,9745
+KA,Titanium,1.2,69PS,2013,3,9895
+KA,Metal,1.2,69PS,2013,3,9995
+KA,GP III,1.2,69PS,2013,3,9995
+Fiesta,Studio,1.25,60PS,2014.5,3,9245
+Fiesta,Style,1.25,60PS,2014.5,3,10245
+Fiesta,Style,1.25,82PS,2014.5,3,10995
+Fiesta,Style,1.5 TDCi,75PS,2014.5,3,12195
+Fiesta,Style Eco,1.6 TDCi,95PS S/S,2014.5,3,13495
+Fiesta,Zetec,1.25,82PS,2014.5,3,11695
+Fiesta,Zetec,1,80PS S/S,2014.5,3,11995
+Fiesta,Zetec,1.0 T Eco,100PS S/S,2014.5,3,12595
+Fiesta,Zetec,1.0 T Eco,100PS PwrS,2014.5,3,13995
+Fiesta,Zetec,1.6,105PS PwrS,2014.5,3,13195
+Fiesta,Zetec,1.5 TDCi,75PS,2014.5,3,12995
+Fiesta,Zetec Eco,1.6 TDCi,95PS S/S,2014.5,3,13995
+Fiesta,Zetec S,1.0 T Eco,125PS S/S,2014.5,5,13995
+Fiesta,Zetec S,1.6 TDCi,95PS,2014.5,3,14495
+Fiesta,Titanium,1,80PS S/S,2014.5,3,12795
+Fiesta,Titanium,1.0 T Eco,100PS S/S,2014.5,3,13495
+Fiesta,Titanium,1.0 T Eco,100PS PwrS,2014.5,3,14595
+Fiesta,Titanium,1.0 T Eco,125PS S/S,2014.5,3,13995
+Fiesta,Titanium,1.6,105PS PwrS,2014.5,3,13995
+Fiesta,Titanium,1.5 TDCi,75PS,2014.5,3,13995
+Fiesta,Titanium Eco,1.6 TDCi,95PS S/S,2014.5,3,14795
+Fiesta,Titanium X,1.0 T Eco,100PS S/S,2014.5,3,14495
+Fiesta,Titanium X,1.0 T Eco,100PS PwrS,2014.5,3,15495
+Fiesta,Titanium X,1.0 T Eco,125PS S/S,2014.5,3,15195
+Fiesta,Titanium X,1.6 TDCi,95PS,2014.5,3,15495
+Fiesta,ST,1.6 T Eco,182PS,2014.5,3,16495
+Fiesta,ST2,1.6 T Eco,182PS,2014.5,3,17495
+Fiesta,ST3,1.6 T Eco,182PS,2014.5,3,17995
+EcoSport,Titanium,1.5,112PS,2014,5,13995
+EcoSport,Titanium,1.5,112PS PwrS,2014,5,15395
+EcoSport,Titanium,1.0 T Eco,125PS,2014,5,14995
+EcoSport,Titanium,1.5 TDCi,91PS,2014,5,14795
+EcoSport,Titanium X,1.5,112PS,2014,5,14895
+EcoSport,Titanium X,1.5,112PS PwrS,2014,5,16295
+EcoSport,Titanium X,1.0 T Eco,125PS,2014,5,15895
+EcoSport,Titanium X,1.5 TDCi,91PS,2014,5,16295
+B Max,Studio,1.4,90PS,2014,5,11995
+B Max,Zetec,1.4,90PS,2014,5,12245
+B Max,Zetec,1.0 T Eco,100PS,2014,5,12995
+B Max,Zetec,1.0 T Eco,125PS,2014,5,13495
+B Max,Zetec,1.6,105PS PwrS,2014,5,13995
+B Max,Zetec,1.5 TDCi,75PS,2014,5,13495
+B Max,Zetec,1.6 TDCi,95PS,2014,5,13995
+B Max,Titanium,1.0 T Eco,100PS,2014,5,13995
+B Max,Titanium,1.0T Eco,125PS,2014,5,14595
+B Max,Titanium,1.6,105PS PwrS,2014,5,14995
+B Max,Titanium,1.6 TDCi,95PS,2014,5,14995
+B Max,Titanium X,1.0 T Eco,125PS,2014,5,15995
+B Max,Titanium X,1.6,105PS,2014,5,16495
+B Max,Titanium X,1.6 TDCi,95PS,2014,5,16495
+Focus,Studio,1.6,85PS S6,2015.25,5,13495
+Focus,Style,1.6,105PS S6,2015.25,5,16795
+Focus,Style,1.0 T Eco,100ps S6,2015.25,5,17295
+Focus,Style,1.6 PWRS,125PS S6,2015.25,5,18545
+Focus,Style,1.6 TDCi,125PS S5,2015.25,5,17895
+Focus,Style,1.5 TDCi,95PS S6,2015.25,5,17995
+Focus,Zetec,1.0 T Eco,100PS S6,2015.25,5,16545
+Focus,Zetec,1.0 T Eco,125PS S6,2015.25,5,18795
+Focus,Zetec,1.6 PWRS,125ps,2015.25,5,19545
+Focus,Zetec,1.6 TDCi,115PS S5,2015.25,5,19395
+Focus,Zetec,1.5 TDCi,120PS S6,2015.25,5,19495
+Focus,Zetec S,1.0 T Eco,125PS S6,2015.25,5,17995
+Focus,Zetec S,1.6 PWRS,125ps,2015.25,5,20795
+Focus,Zetec S,1.5 Eco,150PS S6,2015.25,5,20545
+Focus,Zetec S,1.6 TDCi,115PS S5,2015.25,5,20645
+Focus,Zetec S,1.5 TDCi,120PS S6,2015.25,5,20745
+Focus,Titanium,1.0 T Eco,100PS S6,2015.25,5,17995
+Focus,Titanium,1.0 T Eco,125PS S6,2015.25,5,20295
+Focus,Titanium,1.5T Eco,150PS S6,2015.25,5,20795
+Focus,Titanium,1.6 PWRS,125ps,2015.25,5,21045
+Focus,Titanium,1.6 TDCi,115PS S5,2015.25,5,20895
+Focus,Titanium,1.5 TDCi,120PS S6,2015.25,5,20995
+Focus,Titanium X,1.0 T Eco,100PS S6,2015.25,5,21795
+Focus,Titanium X,1.0 T Eco,125PS S6,2015.25,5,22295
+Focus,Titanium X,1.5T Eco,180PS S6,2015.25,5,23520
+Focus,Titanium X,1.5 TDCi,120PS S6,2015.25,5,22995
+Focus,ST,2.0 T,250PS,2014.75,5,20495
+Focus,ST,2.0T,250PS,2014.75,EST,21245
+Focus,ST2,2.0 T,250PS,2014.75,5,21845
+Focus,ST2,2.0 T,250PS,2014.75,EST,22595
+Focus,ST3,2.0 T,250PS,2014.75,5,23395
+Focus,ST3,2.0 T,250PS,2014.75,EST,24395
+Focus,Studio,1.6,105ps,2014.75,5,13240
+Focus,Edge,1.6,105ps,2014.75,5,14495
+Focus,Edge,1.6TDCi,95ps,2014.75,5,15495
+Focus,Edge,1.0 T Eco,100ps 109,2014.75,5,14995
+Focus,Edge,1.6 TDCi,115ps,2014.75,5,15995
+Focus,Zetec,1.6,105ps,2014.75,5,14995
+Focus,Zetec,1.0 T Eco,100ps,2014.75,5,14995
+Focus,Zetec,1.0 T Eco,125ps,2014.75,5,15995
+Focus,Zetec,1.6 TDCi,115ps,2014.75,5,16345
+Focus,Zetec S,1.0 T Eco,125ps,2014.75,5,17395
+Focus,Zetec S,1.6,182ps,2014.75,5,18495
+Focus,Zetec S,1.6 TDCi,115ps,2014.75,5,17995
+Focus,Zetec NAV,1.6,105ps,2014.75,5,15995
+Focus,Zetec NAV,1.0 T Eco,100ps,2014.75,5,16595
+Focus,Zetec NAV,1.0 T Eco,125ps,2014.75,5,16995
+Focus,Zetec NAV,1.6 TDCi,115ps,2014.75,5,17495
+Focus,Titanium NAV,1.0 T Eco,100ps,2014.75,5,17895
+Focus,Titanium NAV,1.6 TDCi,115ps,2014.75,5,18695
+Focus,Titanium X NAV,1.0 T Eco,100ps,2014.75,5,19495
+Focus,Titanium X NAV,1.0 T Eco,125ps,2014.75,5,19995
+Focus,Titanium X NAV,1.6 TDCi,115,2014.75,5,20495
+Focus,Titanium X NAV,2.0 TDCi,163ps,2014.75,5,21795
+C Max,Zetec,1.6,105PS S5,2014.75,5,15845
+C Max,Zetec,1.0 T Eco,100PS S5 S/S,2014.75,5,15995
+C Max,Zetec,1.0 T Eco,125PS S5 S/S,2014.75,5,16495
+C Max,Zetec,1.6 TDCi,115PS S5,2014.75,5,16495
+C Max,Titanium,1.0 T Eco,100PS S5,2014.75,5,17395
+C Max,Titanium,1.0 T Eco,125PS S5,2014.75,5,17995
+C Max,Titanium,1.6 T Eco,150PS S5,2014.75,5,18495
+C Max,Titanium,1.6 TDCi,115PS S5,2014.75,5,18395
+C Max,Titanium,2.0 TDCi,140PS S5,2014.75,5,19495
+C Max,Titanium,2.0 Tdci,140PS S5 PwrS,2014.75,5,20595
+C Max,Titanium X,1.0 T Eco,125PS S5,2014.75,5,19895
+C Max,Titanium X,1.6 T Eco,182PS S5,2014.75,5,20995
+C Max,Titanium X,1.6 TDCi,115PS S5,2014.75,5,20495
+C Max,Titanium X,2.0 TDCi,163PS S5,2014.75,5,21595
+C Max,Titanium X,2.0 TDCi,163PS S5 PwrS,2014.75,5,22895
+Grand C Max,Zetec,1.0 T Eco,100PS S5 S/S,2014.75,5,17565
+Grand C Max,Zetec,1.0 T Eco,125PS S5 S/S,2014.75,5,17995
+Grand C Max,Zetec,1.6 TDCi,115PS S5,2014.75,5,18495
+Grand C Max,Zetec,2.0 TDCi,140PS S5,2014.75,5,19495
+Grand C Max,Zetec,2.0 TDCi,140PS S5 PwrS,2014.75,5,20595
+Grand C Max,Titanium,1.0 T Eco,100PS S5,2014.75,5,18595
+Grand C Max,Titanium,1.0 T Eco,125PS S5,2014.75,5,18995
+Grand C Max,Titanium,1.6 T Eco,150PS S5,2014.75,5,19695
+Grand C Max,Titanium,1.6 TDCi,115PS S5,2014.75,5,19595
+Grand C Max,Titanium,2.0 TDCi,140PS S5,2014.75,5,20695
+Grand C Max,Titanium,2.0 Tdci,140PS S5 PwrS,2014.75,5,21895
+Grand C Max,Titanium X,1.0 T Eco,125PS S5,2014.75,5,20995
+Grand C Max,Titanium X,1.6 T Eco,182PS S5,2014.75,5,22295
+Grand C Max,Titanium X,1.6 TDCi,115PS S5,2014.75,5,21295
+Grand C Max,Titanium X,2.0 TDCi,163PS S5,2014.75,5,22995
+Grand C Max,Titanium X,2.0 TDCi,163PS S5 PwrS,2014.75,5,23995
+New Kuga,Zetec,1.5 T Ecoboost,FWD 150ps S/S,2015.25,5,20995
+New Kuga,Zetec,1.5 T Ecoboost,AWD 180ps,2015.25,5,25145
+New Kuga,Zetec,2.0 TDCi,FWD 150ps,2015.25,5,20545
+New Kuga,Zetec,2.0 TDCi,AWD 150ps,2015.25,5,24195
+New Kuga,Zetec,2.0 TDCi PwrS,AWD 150ps,2015.25,5,25680
+New Kuga,Titanium,1.5 T Ecoboost,FWD 150ps S/S,2015.25,5,22645
+New Kuga,Titanium,1.5 T Ecoboost,AWD 182ps,2015.25,5,26795
+New Kuga,Titanium,2.0 TDCi,FWD 150ps,2015.25,5,21695
+New Kuga,Titanium,2.0 TDCi,AWD 180ps,2015.25,5,26345
+New Kuga,Titanium,2.0 TDCi PwrS,AWD 180ps,2015.25,5,27830
+New Kuga,Titanium X,1.5T Ecoboost,FWD 150ps S/S,2015.25,5,25395
+New Kuga,Titanium X,1.5 T Ecoboost,AWD 182ps,2015.25,5,29545
+New Kuga,Titanium X,2.0 TDCi,FWD 150ps,2015.25,5,27095
+New Kuga,Titanium X,2.0 TDCi,AWD 180ps,2015.25,5,29095
+New Kuga,Titanium X,2.0 TDCi PwrS,AWD 180ps,2015.25,5,30580
+New Kuga,Titanium X Sport,1.5 T Ecoboost,FWD 150ps S/S,2015.25,5,28345
+New Kuga,Titanium X Sport,1.5 T Ecoboost,AWD 182ps,2015.25,5,32495
+New Kuga,Titanium X Sport,2.0 TDCi,FWD 150ps,2015.25,5,30045
+New Kuga,Titanium X Sport,2.0 TDCi,AWD 180ps,2015.25,5,32045
+New Kuga,Titanium X Sport,2.0 TDCi PwrS,AWD 180ps,2015.25,5,33530
+New Mondeo,Style,1.6 TDCi,115PS,2015.25,5,19995
+New Mondeo,Style,2.0 TDCi,150PS,2015.25,5,21545
+New Mondeo,Zetec,1.5T Eco,160PS,2015.25,5,21045
+New Mondeo,Zetec,1.5T Eco,160PS 6 Auto,2015.25,5,22545
+New Mondeo,Zetec,1.6 TDCi,115PS,2015.25,5,21795
+New Mondeo,Zetec,2.0 TDCi,150PS,2015.25,5,21795
+New Mondeo,Zetec,2.0 TDCi,150PS PwrS,2015.25,5,23795
+New Mondeo,Titanium,1.5T Eco,160PS,2015.25,5,22245
+New Mondeo,Titanium,1.5T Eco,160PS 6 Auto,2015.25,5,23745
+New Mondeo,Titanium,2.0T Eco,240PS 6 Auto,2015.25,5,25745
+New Mondeo,Titanium,1.6 TDCi,115PS,2015.25,5,22995
+New Mondeo,Titanium,2.0 TDCi,150PS,2015.25,5,22495
+New Mondeo,Titanium,2.0 TDCi,Econetic 150PS,2015.25,5,23745
+New Mondeo,Titanium,2.0 TDCi,150PS PwrS,2015.25,5,24995
+New Mondeo,Titanium,2.0 TDCi,180PS,2015.25,5,24245
+New Mondeo,Titanium,2.0 TDCi,180PS PwrS,2015.25,5,25745
+New Mondeo,"Titanium 19""",1.5T Eco,160PS,2015.25,5,22745
+New Mondeo,"Titanium 19""",1.5T Eco,160PS 6 Auto,2015.25,5,24245
+New Mondeo,"Titanium 19""",2.0T Eco,240PS 6 Auto,2015.25,5,26245
+New Mondeo,"Titanium 19""",2.0 TDCi,150PS,2015.25,5,23995
+New Mondeo,"Titanium 19""",2.0 TDCi,150PS PwrS,2015.25,5,25495
+New Mondeo,"Titanium 19""",2.0 TDCi,180PS,2015.25,5,24745
+New Mondeo,"Titanium 19""",2.0 TDCi,180PS PwrS,2015.25,5,26245
+New Mondeo,Titanium Hybrid,2.0 TiVCTHybrid,Elec 177PS,2015.25,4,24995
+S Max,Zetec,1.6 Eco,SCTi 160PS,2012.25,5,22595
+S Max,Zetec,1.6 TDCi,115PS,2012.25,5,22995
+S Max,Zetec,2.0 TDCi,140PS,2012.25,5,21995
+S Max,Zetec,2.0 TDCi,140PS PwrS,2012.25,5,24595
+S Max,Titanium,1.6 Eco,SCTi 160PS,2012.25,5,23995
+S Max,Titanium,2.0 Eco,SCTi 203PS,2012.25,5,25495
+S Max,Titanium,1.6 TDCi,115PS,2012.25,5,24595
+S Max,Titanium,2.0 TDCi,140PS,2012.25,5,24995
+S Max,Titanium,2.0 TDCi,140PS PwrS,2012.25,5,26295
+S Max,Titanium,2.0 TDCi,163PS,2012.25,5,25395
+S Max,Titanium,2.0 TDCi,163PS PwrS,2012.25,5,26995
+S Max,Titanium,2.2 TDCi,200PS,2012.25,5,26695
+S Max,Titanium,2.2 TDCi,200PS Auto,2012.25,5,27995
+S Max,Titanium X Sport,2.0 Eco,SCTi 240PS PwrS,2012.25,5,29995
+S Max,Titanium X Sport,2.0 TDCi,163PS,2012.25,5,28995
+S Max,Titanium X Sport,2.0 TDCi,163PS PwrS,2012.25,5,30295
+S Max,Titanium X Sport,2.2 TDCi,200PS,2012.25,5,29995
+S Max,Titanium X Sport,2.2 TDCi,200PS PwrS,2012.25,5,31495
+Galaxy,Zetec,1.6 Eco,SCTi 160PS,2012.25,5,24995
+Galaxy,Zetec,1.6 TDCi,115PS,2012.25,5,25295
+Galaxy,Zetec,2.0 TDCi,140PS,2012.25,5,24495
+Galaxy,Zetec,2.0 TDCi,140PS PwrS,2012.25,5,26995
+Galaxy,Titanium,1.6 Eco,SCTi 160PS,2012.25,5,26295
+Galaxy,Titanium,2.0 Eco,SCTi 203PS,2012.25,5,27995
+Galaxy,Titanium,1.6 TDCi,115PS,2012.25,5,26995
+Galaxy,Titanium,2.0 TDCi,140PS,2012.25,5,26995
+Galaxy,Titanium,2.0 TDCi,140PS PwrS,2012.25,5,28395
+Galaxy,Titanium,2.0 TDCi,163PS,2012.25,5,27695
+Galaxy,Titanium,2.0 TDCi,163PS PwrS,2012.25,5,28995
+Galaxy,Titanium,2.2 TDCi,200PS,2012.25,5,28995
+Galaxy,Titanium,2.2 TDCi,200PS Auto,2012.25,5,30295
+Galaxy,Titanium X,1.6 Eco,SCTi 160PS,2012.25,5,28595
+Galaxy,Titanium X,2.0 Eco,SCTi 203PS,2012.25,5,30195
+Galaxy,Titanium X,1.6 TDCi,115PS,2012.25,5,29395
+Galaxy,Titanium X,2.0 TDCi,140PS,2012.25,5,29595
+Galaxy,Titanium X,2.0 TDCi,140PS PwrS,2012.25,5,30995
+Galaxy,Titanium X,2.0 TDCi,163PS,2012.25,5,30195
+Galaxy,Titanium X,2.0 TDCi,163PS PwrS,2012.25,5,31495
+Galaxy,Titanium X,2.2 TDCi,200PS,2012.25,5,31395
+Galaxy,Titanium X,2.2 TDCi,200PS Auto,2012.25,5,32695
+Tourneo Connect,Style,1.0T,100 StgV,2014,5,13245
+Tourneo Connect,Style,1.6TDCI,95 StgV,2014,5,13495
+Tourneo Connect,Zetec,1.0T,100 StgV,2014,5,14995
+Tourneo Connect,Zetec,1.6 TDCI,95 Stg V,2014,5,13745
+Tourneo Connect,Zetec,1.6 TDCI,1.6 115 StgV,2014,5,15995
+Tourneo Connect,Titanium,1.6 TDCI,95 TDCI StgV,2014,5,16495
+Tourneo Connect,Titanium,1.6TDCI,115 StgV,2014,5,16995
+Tourneo Connect,Titanium,1.6PS,150 StgV,2014,5,17495
+Grand Tourneo Connect,Style,1.6 TDCI,95 StgV,2014,5,15795
+Grand Tourneo Connect,Zetec,1.6 TDCI,95 Stg V,2014,5,16245
+Grand Tourneo Connect,Zetec,1.6 TDCI,115 StgV,2014,5,17995
+Grand Tourneo Connect,Titanium,1.6 TDCI,115 StgV,2014,5,18995
+Grand Tourneo Connect,Titanium,1.6PS,150 StgV,2014,5,19495

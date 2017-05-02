@@ -1,0 +1,1 @@
+ALTER TABLE spider ADD COLUMN disable_cookies BOOL DEFAULT FALSE ;
